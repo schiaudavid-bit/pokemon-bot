@@ -1,14 +1,10 @@
 """
-Bot monitorizare Pokemon TCG (RO) -> notificari WhatsApp (CallMeBot sau Twilio)
+Bot monitorizare Pokemon TCG (RO) -> notificari Telegram / WhatsApp
 
 Comenzi:
-  python pokemon_bot.py --test   # arata ce produse gaseste pe fiecare site (fara WhatsApp)
+  python pokemon_bot.py --test   # arata ce produse gaseste pe fiecare site (fara notificari)
   python pokemon_bot.py --once   # o singura verificare (pentru GitHub Actions)
   python pokemon_bot.py          # ruleaza non-stop (pe PC/server)
-
-WhatsApp prin variabile de mediu:
-  CALLMEBOT_PHONE="+40712345678"  CALLMEBOT_APIKEY="123456"
-  sau Twilio: TWILIO_SID, TWILIO_TOKEN, TWILIO_FROM, TWILIO_TO
 """
 import json, os, random, sys, time
 from urllib.parse import urljoin, urlparse
@@ -16,7 +12,7 @@ import requests
 from bs4 import BeautifulSoup
 
 # ---------------------------------------------------------------
-# SITE-URI (gasite prin cautare web). Optiuni per site:
+# SITE-URI. Optiuni per site:
 #   "shopify": True  -> foloseste API-ul JSON al Shopify (cel mai sigur)
 #   "require": [...] -> produsul trebuie sa contina unul din cuvinte (ex: "tcg")
 #   "js": True       -> randare cu Playwright (doar daca --test da 0 produse)
@@ -51,23 +47,50 @@ HEADERS = {
 }
 
 
-# ------------------------- WhatsApp -----------------------------
+# ------------------------- Notificari -----------------------------
 def send_whatsapp(text):
-    try:
-        if os.getenv("CALLMEBOT_APIKEY"):
+    """Trimite alerta pe TOATE canalele configurate (Telegram / WhatsApp)."""
+    sent = False
+    # --- Telegram (cel mai simplu si stabil) ---
+    if os.getenv("TELEGRAM_TOKEN") and os.getenv("TELEGRAM_CHAT_ID"):
+        try:
+            requests.post(f"https://api.telegram.org/bot{os.environ['TELEGRAM_TOKEN']}/sendMessage",
+                          timeout=20, data={"chat_id": os.environ["TELEGRAM_CHAT_ID"], "text": text,
+                                            "disable_web_page_preview": "false"}).raise_for_status()
+            sent = True
+        except Exception as e:
+            print(f"[!] Eroare Telegram: {e}")
+    # --- WhatsApp prin Green-API (cont gratuit, legi WhatsApp-ul tau prin QR) ---
+    if os.getenv("GREENAPI_ID") and os.getenv("GREENAPI_TOKEN"):
+        try:
+            host = os.getenv("GREENAPI_HOST", "https://api.green-api.com").rstrip("/")
+            requests.post(f"{host}/waInstance{os.environ['GREENAPI_ID']}/sendMessage/{os.environ['GREENAPI_TOKEN']}",
+                          timeout=20, json={"chatId": os.environ["GREENAPI_CHAT"], "message": text}).raise_for_status()
+            sent = True
+        except Exception as e:
+            print(f"[!] Eroare Green-API: {e}")
+    # --- WhatsApp prin CallMeBot ---
+    if os.getenv("CALLMEBOT_APIKEY"):
+        try:
             requests.get("https://api.callmebot.com/whatsapp.php", timeout=20, params={
                 "phone": os.environ["CALLMEBOT_PHONE"], "text": text,
                 "apikey": os.environ["CALLMEBOT_APIKEY"]}).raise_for_status()
-        elif os.getenv("TWILIO_SID"):
+            sent = True
+        except Exception as e:
+            print(f"[!] Eroare CallMeBot: {e}")
+    # --- WhatsApp prin Twilio ---
+    if os.getenv("TWILIO_SID"):
+        try:
             sid = os.environ["TWILIO_SID"]
             requests.post(f"https://api.twilio.com/2010-04-01/Accounts/{sid}/Messages.json",
                           auth=(sid, os.environ["TWILIO_TOKEN"]), timeout=20,
                           data={"From": os.environ["TWILIO_FROM"], "To": os.environ["TWILIO_TO"],
                                 "Body": text}).raise_for_status()
-        else:
-            print("[!] WhatsApp neconfigurat. Mesaj:\n" + text)
-    except Exception as e:
-        print(f"[!] Eroare WhatsApp: {e}")
+            sent = True
+        except Exception as e:
+            print(f"[!] Eroare Twilio: {e}")
+    if not sent:
+        print("[!] Nicio notificare configurata. Mesaj:\n" + text)
 
 
 # ------------------------- Fetch -----------------------------
