@@ -1919,5 +1919,92 @@
    "price": "?",
    "in_stock": true
   }
+ },
+ "LootShop": {
+  "https://lootshop.ro/product-category/pokemon-tcg-cn/": {
+   "name": "Pokemon CN",
+   "price": "?",
+   "in_stock": true
+  },
+  "https://lootshop.ro/product/perfect-order-pachet-sleeved-booster-pack-pokemon-tcg/": {
+   "name": "Perfect Order Pachet Sleeved Booster Pokemon TCG",
+   "price": "?",
+   "in_stock": true
+  },
+  "https://lootshop.ro/product/perfect-order-pachet-booster-pokemon-tcg/": {
+   "name": "Perfect Order Pachet Booster Pokemon TCG",
+   "price": "?",
+   "in_stock": true
+  },
+  "https://lootshop.ro/product/pitch-black-booster-bundle-pokemon-tcg/": {
+   "name": "Pitch Black Booster Bundle Pokemon TCG",
+   "price": "?",
+   "in_stock": true
+  },
+  "https://lootshop.ro/product/pitch-black-elite-trainer-box-etb-pokemon-tcg/": {
+   "name": "Pitch Black Elite Trainer Box (ETB) Pokemon TCG",
+   "price": "?",
+   "in_stock": true
+  },
+  "https://lootshop.ro/product/pitch-black-booster-box-pokemon-tcg/": {
+   "name": "Pitch Black Booster Box Pokemon TCG",
+   "price": "?",
+   "in_stock": true
+  },
+  "https://lootshop.ro/product/chaos-rising-pachet-sleeved-booster-pokemon-tcg/": {
+   "name": "Chaos Rising Pachet Sleeved Booster Pokemon TCG",
+   "price": "?",
+   "in_stock": true
+  },
+  "https://lootshop.ro/product/chaos-rising-booster-bundle-pokemon-tcg/": {
+   "name": "Chaos Rising Booster Bundle Pokemon TCG",
+   "price": "?",
+   "in_stock": true
+  },
+  "https://lootshop.ro/product/chaos-rising-elite-trainer-box-etb-pokemon-tcg/": {
+   "name": "Chaos Rising Elite Trainer Box (ETB) Pokemon TCG",
+   "price": "?",
+   "in_stock": true
+  },
+  "https://lootshop.ro/product/chaos-rising-booster-box-pokemon-tcg/": {
+   "name": "Chaos Rising Booster Box Pokemon TCG",
+   "price": "?",
+   "in_stock": true
+  },
+  "https://lootshop.ro/product/first-partner-illustration-collection-3-pokemon-tcg/": {
+   "name": "First Partner Illustration Collection #3 Pokemon TCG",
+   "price": "?",
+   "in_stock": true
+  },
+  "https://lootshop.ro/product/30th-celebration-binder-collection-pokemon-tcg/": {
+   "name": "30th Celebration Binder Collection Pokemon TCG",
+   "price": "?",
+   "in_stock": false
+  },
+  "https://lootshop.ro/product/30th-celebration-booster-bundle-pokemon-tcg/": {
+   "name": "30th Celebration Booster Bundle Pokemon TCG",
+   "price": "?",
+   "in_stock": false
+  },
+  "https://lootshop.ro/product/30th-celebration-mini-tin-pokemon-tcg/": {
+   "name": "30th Celebration Mini Tin Pokemon TCG",
+   "price": "?",
+   "in_stock": false
+  },
+  "https://lootshop.ro/product/30th-celebration-poster-collection-pokemon-tcg/": {
+   "name": "30th Celebration Poster Collection Pokemon TCG",
+   "price": "?",
+   "in_stock": false
+  },
+  "https://lootshop.ro/product/30th-celebration-sylveon-ex-box-pokemon-tcg/": {
+   "name": "30th Celebration Sylveon ex Box Pokemon TCG",
+   "price": "?",
+   "in_stock": false
+  },
+  "https://lootshop.ro/product/set-2-x-mega-moonlit-tin-pokemon-tcg/": {
+   "name": "Set 2 x Mega Moonlit Tin Pokemon TCG",
+   "price": "?",
+   "in_stock": false
+  }
  }
 }
