@@ -20,6 +20,12 @@ jobs:
       - run: pip install -r requirements.txt
       - name: Verifica site-urile
         env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          GREENAPI_ID: ${{ secrets.GREENAPI_ID }}
+          GREENAPI_TOKEN: ${{ secrets.GREENAPI_TOKEN }}
+          GREENAPI_CHAT: ${{ secrets.GREENAPI_CHAT }}
+          GREENAPI_HOST: ${{ secrets.GREENAPI_HOST }}
           CALLMEBOT_PHONE: ${{ secrets.CALLMEBOT_PHONE }}
           CALLMEBOT_APIKEY: ${{ secrets.CALLMEBOT_APIKEY }}
         run: python pokemon_bot.py --once
