@@ -1325,11 +1325,6 @@
    "price": "249 RON",
    "in_stock": false
   },
-  "https://www.lexshop.ro/pokemon-tcg/pokemon-tcg-chaos-rising-single-pack-blister.html": {
-   "name": "Pokemon TCG Chaos Rising Single Pack Blister",
-   "price": "32 RON",
-   "in_stock": false
-  },
   "https://www.lexshop.ro/pokemon-tcg/pokemon-graded-card-mystery-box-surpriza-perfecta-pentru-colectionari.html": {
    "name": "Pokemon Graded Card Mystery Box – Surpriza perfecta pentru colectionari!",
    "price": "499 RON",
@@ -1338,6 +1333,11 @@
   "https://www.lexshop.ro/pokemon-tcg/pokemon-tcg-me04-chaos-rising-3-blister-booster.html": {
    "name": "Pokemon TCG ME04 Chaos Rising 3 Blister Booster",
    "price": "129 RON",
+   "in_stock": false
+  },
+  "https://www.lexshop.ro/pokemon-tcg/pokemon-tcg-chaos-rising-single-pack-blister.html": {
+   "name": "Pokemon TCG Chaos Rising Single Pack Blister",
+   "price": "32 RON",
    "in_stock": false
   },
   "https://www.lexshop.ro/pokemon-tcg/pokemon-tcg-2025-world-championships-deck-en.html": {
