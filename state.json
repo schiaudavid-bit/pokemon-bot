@@ -12,41 +12,6 @@
   }
  },
  "Bebe Tei": {
-  "https://comenzi.bebetei.ro/jocuri-si-jucarii/jocuri/jocuri-de-societate/set-10-carti-tcg-me05-pitch-black-boosters-pokemon-p479112": {
-   "name": "Set 10 carti TCG ME05 Pitch Black Boosters, Pokemon",
-   "price": "?",
-   "in_stock": true
-  },
-  "https://comenzi.bebetei.ro/jocuri-si-jucarii/jucarii/jucarii-de-plus/jucarie-plus-20-cm-diverse-modele-2-ani-pokemon-p476674": {
-   "name": "Jucarie plus, 20 cm, Diverse Modele, 2 ani+, Pokemon",
-   "price": "?",
-   "in_stock": true
-  },
-  "https://comenzi.bebetei.ro/jocuri-si-jucarii/jucarii/figurine/set-figurine-de-actiune-diverse-modele-4-ani-pokemon-p476673": {
-   "name": "Set figurine de actiune, Diverse Modele, 4 ani+, Pokemon",
-   "price": "?",
-   "in_stock": true
-  },
-  "https://comenzi.bebetei.ro/jocuri-si-jucarii/jocuri/jocuri-de-societate/joc-interactiv-trainer-expert-ro-6-ani-pokemon-p476240": {
-   "name": "Joc interactiv Trainer Expert (RO), 6 ani+, Pokemon",
-   "price": "?",
-   "in_stock": true
-  },
-  "https://comenzi.bebetei.ro/jocuri-si-jucarii/jocuri/jocuri-educative/set-de-joaca-cu-doua-figurine-pokemon-battle-spinner-arena-4-ani-pokemon-p421089": {
-   "name": "Set de joaca cu doua figurine Pokémon Battle Spinner...",
-   "price": "?",
-   "in_stock": true
-  },
-  "https://comenzi.bebetei.ro/jocuri-si-jucarii/jocuri/jocuri-de-societate/30th-2-pack-blister-double-wide-6-ani-pokemon-tcg-p481491": {
-   "name": "30th 2-Pack Blister Double Wide, 6 ani+, Pokemon TCG",
-   "price": "?",
-   "in_stock": false
-  },
-  "https://comenzi.bebetei.ro/jocuri-si-jucarii/jocuri/jocuri-de-societate/set-cartonase-pokemon-tcg-january-special-collection-6-ani-pokemon-p474117": {
-   "name": "Set cartonase Pokemon TCG: January Special Collection,...",
-   "price": "?",
-   "in_stock": false
-  },
   "https://comenzi.bebetei.ro/cauti/pikachu%20pokemon": {
    "name": "Pikachu Pokemon (se deschide într-o filă nouă)",
    "price": "?",
@@ -1797,32 +1762,32 @@
   "https://www.tcg-shop.ro/products/pokemon-gem-pack-vol-7-booster-box-s-chn-editie-chineza": {
    "name": "Pokemon Gem Pack Vol 7 Booster Box (S-CHN) - Editie Chineza",
    "price": "255 RON",
-   "in_stock": true
+   "in_stock": false
   },
   "https://www.tcg-shop.ro/products/pokemon-30th-celebration-umbreon-luxury-gift-box-editie-chineza": {
    "name": "Pokemon 30th Celebration - Umbreon Luxury Gift Box - Editie Chineza",
    "price": "229 RON",
-   "in_stock": true
+   "in_stock": false
   },
   "https://www.tcg-shop.ro/products/pokemon-league-battle-deck-26q2": {
    "name": "Pokémon League Battle Deck [26Q2]",
-   "price": "175 RON",
-   "in_stock": true
+   "price": "148.75 RON",
+   "in_stock": false
   },
   "https://www.tcg-shop.ro/products/pokemon-csv95-terastal-gathering-sylveon-gift-box-editie-chineza": {
    "name": "Pokemon CSV9.5 Terastal Gathering Sylveon Gift Box - Editie Chineza",
    "price": "780 RON",
-   "in_stock": true
+   "in_stock": false
   },
   "https://www.tcg-shop.ro/products/pokemon-csv95-terastal-gathering-flareon-gift-box-editie-chineza": {
    "name": "Pokemon CSV9.5 Terastal Gathering Flareon Gift Box - Editie Chineza",
    "price": "790 RON",
-   "in_stock": true
+   "in_stock": false
   },
   "https://www.tcg-shop.ro/products/pokemon-scarlet-violet-csv95c-terastal-gathering-editie-chineza": {
    "name": "Pokemon Scarlet & Violet CSV9.5C: Terastal Gathering - Editie Chineza",
    "price": "399 RON",
-   "in_stock": true
+   "in_stock": false
   },
   "https://www.tcg-shop.ro/products/pokemon-mid-autumn-festival-gift-box-2026-editie-chineza": {
    "name": "Pokemon: Mid-Autumn Festival Gift Box 2026 - Editie Chineza",
@@ -1882,7 +1847,7 @@
   "https://www.tcg-shop.ro/products/pokemon-30th-celebration-anniversary-m6a-booster-box-editie-chineza": {
    "name": "Pokemon 30th Celebration anniversary M6A Booster Box - Editie Chineza",
    "price": "579 RON",
-   "in_stock": true
+   "in_stock": false
   },
   "https://www.tcg-shop.ro/products/pokemon-30th-celebration-sylveon-ex-card-display-set-editie-chineza": {
    "name": "Pokemon 30th Celebration - Sylveon EX Card Display Set - Editie Chineza",
