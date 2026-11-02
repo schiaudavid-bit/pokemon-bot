@@ -17,11 +17,6 @@
    "price": "?",
    "in_stock": true
   },
-  "https://comenzi.bebetei.ro/jocuri-si-jucarii/jucarii/jucarii-de-plus/jucarie-plus-20-cm-diverse-modele-2-ani-pokemon-p476674": {
-   "name": "Jucarie plus, 20 cm, Diverse Modele, 2 ani+, Pokemon",
-   "price": "?",
-   "in_stock": true
-  },
   "https://comenzi.bebetei.ro/jocuri-si-jucarii/jucarii/figurine/set-figurine-de-actiune-diverse-modele-4-ani-pokemon-p476673": {
    "name": "Set figurine de actiune, Diverse Modele, 4 ani+, Pokemon",
    "price": "?",
@@ -29,6 +24,11 @@
   },
   "https://comenzi.bebetei.ro/jocuri-si-jucarii/jocuri/jocuri-de-societate/joc-interactiv-trainer-expert-ro-6-ani-pokemon-p476240": {
    "name": "Joc interactiv Trainer Expert (RO), 6 ani+, Pokemon",
+   "price": "?",
+   "in_stock": true
+  },
+  "https://comenzi.bebetei.ro/jocuri-si-jucarii/jucarii/jucarii-de-plus/jucarie-plus-20-cm-diverse-modele-2-ani-pokemon-p476674": {
+   "name": "Jucarie plus, 20 cm, Diverse Modele, 2 ani+, Pokemon",
    "price": "?",
    "in_stock": true
   },
@@ -1951,11 +1951,6 @@
    "price": "?",
    "in_stock": true
   },
-  "https://lootshop.ro/product/chaos-rising-elite-trainer-box-etb-pokemon-tcg/": {
-   "name": "Chaos Rising Elite Trainer Box (ETB) Pokemon TCG",
-   "price": "?",
-   "in_stock": false
-  },
   "https://lootshop.ro/product/chaos-rising-booster-box-pokemon-tcg/": {
    "name": "Chaos Rising Booster Box Pokemon TCG",
    "price": "?",
@@ -1993,6 +1988,11 @@
   },
   "https://lootshop.ro/product/set-2-x-mega-moonlit-tin-pokemon-tcg/": {
    "name": "Set 2 x Mega Moonlit Tin Pokemon TCG",
+   "price": "?",
+   "in_stock": false
+  },
+  "https://lootshop.ro/product/chaos-rising-elite-trainer-box-etb-pokemon-tcg/": {
+   "name": "Chaos Rising Elite Trainer Box (ETB) Pokemon TCG",
    "price": "?",
    "in_stock": false
   }
