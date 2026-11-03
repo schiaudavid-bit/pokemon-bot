@@ -1212,8 +1212,8 @@
   },
   "https://redgoblin.ro/products/suport-pahare-ceramica-pokemon-evee": {
    "name": "Suport Pahare Ceramica Pokemon - Evee",
-   "price": "33.00 lei",
-   "in_stock": false,
+   "price": "39.00 lei",
+   "in_stock": true,
    "preorder": false
   },
   "https://redgoblin.ro/products/suport-pahare-ceramica-pokemon-pikachu": {
@@ -4996,12 +4996,6 @@
    "in_stock": true,
    "preorder": false
   },
-  "https://pokemania.ro/delta-reign/pokemon-tcg-mega-evolution-delta-reign-booster-pack-single": {
-   "name": "Pokemon TCG: Mega Evolution - Delta Reign Booster Pack (Single)",
-   "price": "?",
-   "in_stock": true,
-   "preorder": false
-  },
   "https://pokemania.ro/supercharged-breaker-sv8-kr/cutie-pokemon-tcg-scarlet-violet-supercharged-breaker-sv8-kr-booster-box-korean": {
    "name": "Cutie Pokémon TCG: Scarlet & Violet - Supercharged Breaker sv8 KR Booster Box (Korean)",
    "price": "?",
@@ -5058,12 +5052,6 @@
   },
   "https://pokemania.ro/twilight-masquerade/cutie-pokemon-tcg-scarlet-violet-6-twilight-masquerade-booster-display-box-36-packs": {
    "name": "Cutie Pokémon TCG Scarlet & Violet 6 Twilight Masquerade Booster Display Box (36 Packs)",
-   "price": "?",
-   "in_stock": true,
-   "preorder": false
-  },
-  "https://pokemania.ro/delta-reign/pokemon-tcg-mega-evolution-delta-reign-3-pack-blister-assortment": {
-   "name": "Pokemon TCG: Mega Evolution - Delta Reign 3-Pack Blister (Assortment)",
    "price": "?",
    "in_stock": true,
    "preorder": false
@@ -5128,6 +5116,18 @@
    "in_stock": true,
    "preorder": false
   },
+  "https://pokemania.ro/ascended-heroes-2/pokemon-tcg-mega-dream-ex-high-class-booster-box-m2a-japoneza-10-carti": {
+   "name": "Pokémon TCG: Mega Dream ex High-Class Booster Box (M2a) japoneză - 10 cărți",
+   "price": "?",
+   "in_stock": true,
+   "preorder": false
+  },
+  "https://pokemania.ro/celebrations/pokemon-25th-anniversary-celebrations-elite-trainer-box": {
+   "name": "Pokémon 25th Anniversary Celebrations Elite Trainer Box",
+   "price": "?",
+   "in_stock": true,
+   "preorder": false
+  },
   "https://pokemania.ro/pokemon-tcg": {
    "name": "Pokémon TCG",
    "price": "?",
@@ -5172,18 +5172,6 @@
   },
   "https://pokemania.ro/blog/stiri-pokemon": {
    "name": "Știri Pokémon: Fii la curent cu tot ce mișcă în lumea Pokémon!",
-   "price": "?",
-   "in_stock": true,
-   "preorder": false
-  },
-  "https://pokemania.ro/ascended-heroes-2/pokemon-tcg-mega-dream-ex-high-class-booster-box-m2a-japoneza-10-carti": {
-   "name": "Pokémon TCG: Mega Dream ex High-Class Booster Box (M2a) japoneză - 10 cărți",
-   "price": "?",
-   "in_stock": true,
-   "preorder": false
-  },
-  "https://pokemania.ro/celebrations/pokemon-25th-anniversary-celebrations-elite-trainer-box": {
-   "name": "Pokémon 25th Anniversary Celebrations Elite Trainer Box",
    "price": "?",
    "in_stock": true,
    "preorder": false
@@ -5517,6 +5505,18 @@
    "price": "?",
    "in_stock": true,
    "preorder": false
+  },
+  "https://pokemania.ro/promo-packs/pokemon-tcg-the-first-movie-full-promo-cards-set-4-cards-set": {
+   "name": "Pokémon TCG: The First Movie Full Promo Cards Set (4 Cards Set)",
+   "price": "?",
+   "in_stock": true,
+   "preorder": false
+  },
+  "https://pokemania.ro/promo-packs/pokemon-tcg-the-first-movie-mewtwo-promo-card-3-1999": {
+   "name": "Pokémon TCG: The First Movie - Mewtwo Promo Card #3 (1999)",
+   "price": "?",
+   "in_stock": true,
+   "preorder": false
   }
  },
  "Pokemania Precomenzi": {
@@ -5580,12 +5580,6 @@
    "in_stock": true,
    "preorder": true
   },
-  "https://pokemania.ro/delta-reign/pokemon-tcg-mega-evolution-delta-reign-booster-pack-single": {
-   "name": "Pokemon TCG: Mega Evolution - Delta Reign Booster Pack (Single)",
-   "price": "?",
-   "in_stock": true,
-   "preorder": true
-  },
   "https://pokemania.ro/delta-reign/pokemon-tcg-mega-evolution-delta-reign-premium-checklane-blister-delphox": {
    "name": "Pokémon TCG: Mega Evolution - Delta Reign Premium Checklane Blister (Delphox)",
    "price": "?",
@@ -5594,12 +5588,6 @@
   },
   "https://pokemania.ro/delta-reign/pokemon-tcg-mega-evolution-delta-reign-premium-checklane-blister-ampharos": {
    "name": "Pokémon TCG: Mega Evolution - Delta Reign Premium Checklane Blister (Ampharos)",
-   "price": "?",
-   "in_stock": true,
-   "preorder": true
-  },
-  "https://pokemania.ro/delta-reign/pokemon-tcg-mega-evolution-delta-reign-3-pack-blister-assortment": {
-   "name": "Pokemon TCG: Mega Evolution - Delta Reign 3-Pack Blister (Assortment)",
    "price": "?",
    "in_stock": true,
    "preorder": true
@@ -5718,6 +5706,12 @@
    "in_stock": false,
    "preorder": true
   },
+  "https://pokemania.ro/delta-reign/pokemon-tcg-mega-evolution-delta-reign-booster-pack-single": {
+   "name": "Pokemon TCG: Mega Evolution - Delta Reign Booster Pack (Single)",
+   "price": "?",
+   "in_stock": false,
+   "preorder": true
+  },
   "https://pokemania.ro/pitch-black/pokemon-tcg-mega-forces-tin-fall-tin-q3-2026": {
    "name": "Pokemon TCG: Mega Forces Tin (Fall Tin Q3 2026)",
    "price": "?",
@@ -5726,6 +5720,12 @@
   },
   "https://pokemania.ro/first-partner/pokemon-tcg-first-partner-illustration-collection-series-3": {
    "name": "Pokémon TCG: First Partner - Illustration Collection - Series 3",
+   "price": "?",
+   "in_stock": false,
+   "preorder": true
+  },
+  "https://pokemania.ro/delta-reign/pokemon-tcg-mega-evolution-delta-reign-3-pack-blister-assortment": {
+   "name": "Pokemon TCG: Mega Evolution - Delta Reign 3-Pack Blister (Assortment)",
    "price": "?",
    "in_stock": false,
    "preorder": true
