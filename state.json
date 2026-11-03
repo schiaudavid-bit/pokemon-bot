@@ -5206,12 +5206,6 @@
    "in_stock": true,
    "preorder": false
   },
-  "https://pokemania.ro/sword-shield-2/pokemon-tcg-sword-shield-ultra-premium-collection-charizard": {
-   "name": "Pokémon TCG Sword & Shield Ultra Premium Collection - Charizard",
-   "price": "?",
-   "in_stock": true,
-   "preorder": false
-  },
   "https://pokemania.ro/booster-packs/pokemon-tcg-mega-dream-ex-high-class-booster-pack-chineza-traditionala-10-carti": {
    "name": "Pokémon TCG: Mega Dream ex High-Class Booster Pack (chineză tradițională - 10 cărți)",
    "price": "?",
@@ -5514,6 +5508,12 @@
   },
   "https://pokemania.ro/promo-packs/pokemon-tcg-the-first-movie-mewtwo-promo-card-3-1999": {
    "name": "Pokémon TCG: The First Movie - Mewtwo Promo Card #3 (1999)",
+   "price": "?",
+   "in_stock": true,
+   "preorder": false
+  },
+  "https://pokemania.ro/promo-packs/pokemon-tcg-the-first-movie-electabuzz-promo-card-2-1999": {
+   "name": "Pokémon TCG: The First Movie - Electabuzz Promo Card #2 (1999)",
    "price": "?",
    "in_stock": true,
    "preorder": false
