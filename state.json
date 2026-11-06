@@ -709,13 +709,13 @@
   "https://redgoblin.ro/products/pokemon-tcg-30th-celebration-battle-deck-espeon-ex": {
    "name": "Pokemon TCG - 30th Celebration - Battle Deck - Espeon ex",
    "price": "159.00 lei",
-   "in_stock": false,
+   "in_stock": true,
    "preorder": false
   },
   "https://redgoblin.ro/products/pokemon-tcg-30th-celebration-battle-deck-umbreon-ex": {
    "name": "Pokemon TCG - 30th Celebration - Battle Deck - Umbreon ex",
    "price": "159.00 lei",
-   "in_stock": false,
+   "in_stock": true,
    "preorder": false
   },
   "https://redgoblin.ro/products/cana-pokemon-250-ml-jigglypuff": {
