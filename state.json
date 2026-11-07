@@ -350,6 +350,12 @@
   }
  },
  "LootShop": {
+  "https://lootshop.ro/product/delta-reign-booster-box-pokemon-tcg/": {
+   "name": "Delta Reign Booster Box Pokemon TCG",
+   "price": "1149.99 lei",
+   "in_stock": true,
+   "preorder": false
+  },
   "https://lootshop.ro/product/delta-reign-elite-trainer-box-etb-pokemon-tcg/": {
    "name": "Delta Reign Elite Trainer Box (ETB) Pokemon TCG",
    "price": "419.99 lei",
@@ -3905,7 +3911,7 @@
   "https://www.lexshop.ro/pokemon-tcg/pokemon-tcg-mega-evolution-delta-reign-booster-bundle-6-boostere-engleza.html": {
    "name": "Pokemon TCG Mega Evolution Delta Reign Booster Bundle - 6 Boostere Engleza",
    "price": "219 RON",
-   "in_stock": true,
+   "in_stock": false,
    "preorder": false
   },
   "https://www.lexshop.ro/pokemon-tcg/pokemon-tcg-delta-reign-premium-checklane-blister-en-varianta-aleatorie.html": {
