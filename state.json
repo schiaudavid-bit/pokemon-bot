@@ -5008,6 +5008,12 @@
    "in_stock": true,
    "preorder": false
   },
+  "https://pokemania.ro/phantasmal-flames/pokemon-tcg-mega-charizard-x-ex-ultra-premium-collection-en": {
+   "name": "Pokémon TCG: Mega Charizard X Ex Ultra Premium Collection EN",
+   "price": "?",
+   "in_stock": true,
+   "preorder": false
+  },
   "https://pokemania.ro/temporal-forces/cutie-pokemon-tcg-scarlet-violet-5-temporal-forces-booster-display-box-36-packs": {
    "name": "Cutie Pokémon TCG: Scarlet & Violet 5 Temporal Forces Booster Display Box (36 Packs)",
    "price": "?",
@@ -5098,12 +5104,6 @@
    "in_stock": true,
    "preorder": false
   },
-  "https://pokemania.ro/unova-white-flare-black-bolt/cutie-booster-display-box-pokemon-tcg-black-bolt-zekrom-jp-sv11b-japoneza-20-pachete": {
-   "name": "Cutie Booster Display Box Pokémon TCG Black Bolt - Zekrom JP (SV11B Japoneză) - 20 Pachete",
-   "price": "?",
-   "in_stock": true,
-   "preorder": false
-  },
   "https://pokemania.ro/pokemon-tcg": {
    "name": "Pokémon TCG",
    "price": "?",
@@ -5148,6 +5148,12 @@
   },
   "https://pokemania.ro/blog/stiri-pokemon": {
    "name": "Știri Pokémon: Fii la curent cu tot ce mișcă în lumea Pokémon!",
+   "price": "?",
+   "in_stock": true,
+   "preorder": false
+  },
+  "https://pokemania.ro/unova-white-flare-black-bolt/cutie-booster-display-box-pokemon-tcg-black-bolt-zekrom-jp-sv11b-japoneza-20-pachete": {
+   "name": "Cutie Booster Display Box Pokémon TCG Black Bolt - Zekrom JP (SV11B Japoneză) - 20 Pachete",
    "price": "?",
    "in_stock": true,
    "preorder": false
@@ -5847,12 +5853,6 @@
    "price": "?",
    "in_stock": false,
    "preorder": false
-  },
-  "https://pokemania.ro/perfect-order/set-pokemon-tcg-mega-evolution-perfect-order-booster-bundle-6-pachete": {
-   "name": "Set Pokémon TCG: Mega Evolution - Perfect Order Booster Bundle (6 Pachete)",
-   "price": "?",
-   "in_stock": false,
-   "preorder": false
   }
  },
  "Pokemania Precomenzi": {
@@ -6128,6 +6128,12 @@
   }
  },
  "TCG Shop": {
+  "https://www.tcg-shop.ro/products/pokemon-mega-aura-seeker-m7-booster-box-30-pachete-editie-japoneza": {
+   "name": "Pokémon Mega: Aura Seeker M7 Booster Box (30 pachete) - Editie Japoneza",
+   "price": "599 RON",
+   "in_stock": true,
+   "preorder": true
+  },
   "https://www.tcg-shop.ro/products/pokemon-gem-pack-vol-7-booster-box-s-chn-editie-chineza": {
    "name": "Pokemon Gem Pack Vol 7 Booster Box (S-CHN) - Editie Chineza",
    "price": "255 RON",
@@ -6163,6 +6169,12 @@
    "price": "399 RON",
    "in_stock": true,
    "preorder": true
+  },
+  "https://www.tcg-shop.ro/products/pokemon-scarlet-violet-sv10-the-glory-of-team-rocket-booster-box-editie-japoneza": {
+   "name": "Pokémon: Scarlet & Violet SV10 - The Glory of Team Rocket Booster Box - Editie Japoneza",
+   "price": "599 RON",
+   "in_stock": true,
+   "preorder": false
   },
   "https://www.tcg-shop.ro/products/pokemon-delta-reign-booster-box-display": {
    "name": "Pokemon Delta Reign - Booster Box Display",
@@ -6242,20 +6254,8 @@
    "in_stock": false,
    "preorder": false
   },
-  "https://www.tcg-shop.ro/products/pokemon-30th-celebration-elite-trainer-box": {
-   "name": "Pokemon 30th Celebration Elite Trainer Box",
-   "price": "330 RON",
-   "in_stock": false,
-   "preorder": false
-  },
-  "https://www.tcg-shop.ro/products/pokemon-30th-celebration-anniversary-m6a-booster-box-editie-chineza": {
-   "name": "Pokemon 30th Celebration anniversary M6A Booster Box - Editie Chineza",
-   "price": "579 RON",
-   "in_stock": false,
-   "preorder": false
-  },
   "https://www.tcg-shop.ro/category/pokemon?brand=the-pokemon-company": {
-   "name": "The Pokémon Company ( 78 )",
+   "name": "The Pokémon Company ( 80 )",
    "price": "?",
    "in_stock": true,
    "preorder": false
