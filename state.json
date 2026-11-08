@@ -4978,12 +4978,6 @@
    "in_stock": true,
    "preorder": false
   },
-  "https://pokemania.ro/perfect-order/pokemon-tcg-mega-evolution-perfect-order-perfect-order-sleeved-booster-pack-10-carti": {
-   "name": "Pokémon TCG: Mega Evolution-Perfect Order Perfect Order Sleeved Booster Pack (10 cărți)",
-   "price": "?",
-   "in_stock": true,
-   "preorder": false
-  },
   "https://pokemania.ro/supercharged-breaker-sv8-kr/cutie-pokemon-tcg-scarlet-violet-supercharged-breaker-sv8-kr-booster-box-korean": {
    "name": "Cutie Pokémon TCG: Scarlet & Violet - Supercharged Breaker sv8 KR Booster Box (Korean)",
    "price": "?",
@@ -5110,6 +5104,12 @@
    "in_stock": true,
    "preorder": false
   },
+  "https://pokemania.ro/unova-white-flare-black-bolt/cutie-booster-display-box-pokemon-tcg-black-bolt-zekrom-jp-sv11b-japoneza-20-pachete": {
+   "name": "Cutie Booster Display Box Pokémon TCG Black Bolt - Zekrom JP (SV11B Japoneză) - 20 Pachete",
+   "price": "?",
+   "in_stock": true,
+   "preorder": false
+  },
   "https://pokemania.ro/pokemon-tcg": {
    "name": "Pokémon TCG",
    "price": "?",
@@ -5154,12 +5154,6 @@
   },
   "https://pokemania.ro/blog/stiri-pokemon": {
    "name": "Știri Pokémon: Fii la curent cu tot ce mișcă în lumea Pokémon!",
-   "price": "?",
-   "in_stock": true,
-   "preorder": false
-  },
-  "https://pokemania.ro/unova-white-flare-black-bolt/cutie-booster-display-box-pokemon-tcg-black-bolt-zekrom-jp-sv11b-japoneza-20-pachete": {
-   "name": "Cutie Booster Display Box Pokémon TCG Black Bolt - Zekrom JP (SV11B Japoneză) - 20 Pachete",
    "price": "?",
    "in_stock": true,
    "preorder": false
@@ -5498,6 +5492,12 @@
    "name": "PokeMANIA Bundle 151 Display Boxes Multilingual (EN+JP+KR): EN Bundle + JP Box + KR Box - Pokémon TCG Scarlet & Violet 151",
    "price": "?",
    "in_stock": true,
+   "preorder": false
+  },
+  "https://pokemania.ro/boxed-sets/pokemon-trading-card-game-classic-set": {
+   "name": "Pokémon Trading Card Game Classic Set",
+   "price": "?",
+   "in_stock": false,
    "preorder": false
   }
  },
