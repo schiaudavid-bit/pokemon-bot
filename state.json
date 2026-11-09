@@ -3944,15 +3944,15 @@
    "in_stock": false,
    "preorder": false
   },
-  "https://www.lexshop.ro/pokemon-tcg/pokemon-tcg-30th-anniversary-ex-tin-greninja-ex-sylveon-ex-engleza.html": {
-   "name": "Pokemon TCG 30th Anniversary ex Tin - Greninja ex / Sylveon ex - Engleza",
-   "price": "219 RON",
-   "in_stock": false,
-   "preorder": false
-  },
   "https://www.lexshop.ro/pokemon-tcg/pokemon-tcg-mega-evolution-delta-reign-3-pack-blister.html": {
    "name": "Pokemon TCG Mega Evolution Delta Reign 3-Pack Blister",
    "price": "109 RON",
+   "in_stock": false,
+   "preorder": false
+  },
+  "https://www.lexshop.ro/pokemon-tcg/pokemon-tcg-30th-anniversary-ex-tin-greninja-ex-sylveon-ex-engleza.html": {
+   "name": "Pokemon TCG 30th Anniversary ex Tin - Greninja ex / Sylveon ex - Engleza",
+   "price": "219 RON",
    "in_stock": false,
    "preorder": false
   },
@@ -3962,15 +3962,15 @@
    "in_stock": false,
    "preorder": false
   },
-  "https://www.lexshop.ro/pokemon-tcg/pokemon-tcg-30th-celebration-greninja-ex-collection-4-boostere-engleza.html": {
-   "name": "Pokemon TCG 30th Celebration Greninja ex Collection - 4 Boostere - Engleza",
-   "price": "249 RON",
-   "in_stock": false,
-   "preorder": false
-  },
   "https://www.lexshop.ro/pokemon-tcg/pokemon-tcg-30th-celebration-binder-collection-album-si-5-boostere-engleza.html": {
    "name": "Pokemon TCG 30th Celebration Binder Collection - Album si 5 Boostere Engleza",
    "price": "359 RON",
+   "in_stock": false,
+   "preorder": false
+  },
+  "https://www.lexshop.ro/pokemon-tcg/pokemon-tcg-30th-celebration-greninja-ex-collection-4-boostere-engleza.html": {
+   "name": "Pokemon TCG 30th Celebration Greninja ex Collection - 4 Boostere - Engleza",
+   "price": "249 RON",
    "in_stock": false,
    "preorder": false
   },
