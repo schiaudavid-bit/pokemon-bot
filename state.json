@@ -3935,7 +3935,7 @@
   "https://www.lexshop.ro/pokemon-tcg/pokemon-tcg-mega-evolution-delta-reign-elite-trainer-box-etb-engleza.html": {
    "name": "Pokemon TCG Mega Evolution Delta Reign Elite Trainer Box ETB - Engleza",
    "price": "399 RON",
-   "in_stock": true,
+   "in_stock": false,
    "preorder": false
   },
   "https://www.lexshop.ro/pokemon-tcg/pokemon-tcg-30th-celebration-eevee-blister-2-boostere-promo-engleza.html": {
@@ -4798,6 +4798,12 @@
    "in_stock": true,
    "preorder": false
   },
+  "https://pokemania.ro/surging-sparks/pachet-carti-pokemon-tcg-scarlet-violet-8-surging-sparks-en-factory-sealed-booster-pack-1-pachet-booster": {
+   "name": "Pachet Carti Pokémon TCG: Scarlet & Violet 8 Surging Sparks EN Factory Sealed Booster Pack - 1 Pachet Booster",
+   "price": "?",
+   "in_stock": true,
+   "preorder": false
+  },
   "https://pokemania.ro/temporal-forces/pachet-carti-pokemon-tcg-scarlet-violet-5-temporal-forces-en-factory-sealed-booster-pack-1-pachet-booster": {
    "name": "Pachet Carti Pokémon TCG: Scarlet & Violet 5 Temporal Forces EN Factory Sealed Booster Pack - 1 Pachet Booster",
    "price": "?",
@@ -5106,12 +5112,6 @@
   },
   "https://pokemania.ro/heat-wave-arena-sv9a-jp/cutie-booster-display-box-pokemon-tcg-heat-wave-arena-jp-sv9a-japoneza-30-pachete": {
    "name": "Cutie Booster Display Box Pokémon TCG Heat Wave Arena JP (SV9a Japoneză) - 30 Pachete",
-   "price": "?",
-   "in_stock": true,
-   "preorder": false
-  },
-  "https://pokemania.ro/battle-partners-sv9-jp/cutie-pokemon-tcg-battle-partners-journey-together-booster-box-jp-scarlet-violet-sv9": {
-   "name": "Cutie Pokémon TCG Battle Partners (Journey Together) Booster Box (JP) - Scarlet & Violet sv9",
    "price": "?",
    "in_stock": true,
    "preorder": false
@@ -5536,12 +5536,6 @@
    "in_stock": false,
    "preorder": false
   },
-  "https://pokemania.ro/surging-sparks/pachet-carti-pokemon-tcg-scarlet-violet-8-surging-sparks-en-factory-sealed-booster-pack-1-pachet-booster": {
-   "name": "Pachet Carti Pokémon TCG: Scarlet & Violet 8 Surging Sparks EN Factory Sealed Booster Pack - 1 Pachet Booster",
-   "price": "?",
-   "in_stock": false,
-   "preorder": false
-  },
   "https://pokemania.ro/delta-reign/pokemon-tcg-mega-evolution-delta-reign-elite-trainer-box-kyogre-promo": {
    "name": "Pokemon TCG: Mega Evolution - Delta Reign Elite Trainer Box (Kyogre Promo)",
    "price": "?",
@@ -5862,6 +5856,12 @@
   },
   "https://pokemania.ro/perfect-order/set-pokemon-tcg-mega-evolution-perfect-order-booster-bundle-6-pachete": {
    "name": "Set Pokémon TCG: Mega Evolution - Perfect Order Booster Bundle (6 Pachete)",
+   "price": "?",
+   "in_stock": false,
+   "preorder": false
+  },
+  "https://pokemania.ro/phantasmal-flames/cutie-display-booster-pokemon-tcg-phantasmal-flames-booster-display-box-36-packs": {
+   "name": "Cutie Display Booster Pokémon TCG Phantasmal Flames Booster Display Box (36 Packs)",
    "price": "?",
    "in_stock": false,
    "preorder": false
