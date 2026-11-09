@@ -3924,7 +3924,7 @@
    "name": "Pokemon TCG Delta Reign Premium Checklane Blister EN - Varianta Aleatorie",
    "price": "45 RON",
    "in_stock": true,
-   "preorder": true
+   "preorder": false
   },
   "https://www.lexshop.ro/pokemon-tcg/pokemon-tcg-chaos-rising-premium-checklane-blister-varianta-aleatorie.html": {
    "name": "Pokemon TCG Chaos Rising Premium Checklane Blister Varianta Aleatorie",
@@ -3935,7 +3935,7 @@
   "https://www.lexshop.ro/pokemon-tcg/pokemon-tcg-mega-evolution-delta-reign-elite-trainer-box-etb-engleza.html": {
    "name": "Pokemon TCG Mega Evolution Delta Reign Elite Trainer Box ETB - Engleza",
    "price": "399 RON",
-   "in_stock": false,
+   "in_stock": true,
    "preorder": false
   },
   "https://www.lexshop.ro/pokemon-tcg/pokemon-tcg-30th-celebration-eevee-blister-2-boostere-promo-engleza.html": {
