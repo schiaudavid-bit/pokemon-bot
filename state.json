@@ -434,12 +434,6 @@
    "in_stock": true,
    "preorder": false
   },
-  "https://lootshop.ro/product/perfect-order-pachet-booster-pokemon-tcg/": {
-   "name": "Perfect Order Pachet Booster Pokemon TCG",
-   "price": "29.99 lei",
-   "in_stock": false,
-   "preorder": false
-  },
   "https://lootshop.ro/product/pitch-black-booster-bundle-pokemon-tcg/": {
    "name": "Pitch Black Booster Bundle Pokemon TCG",
    "price": "199.99 lei",
@@ -470,12 +464,6 @@
    "in_stock": true,
    "preorder": false
   },
-  "https://lootshop.ro/product/chaos-rising-elite-trainer-box-etb-pokemon-tcg/": {
-   "name": "Chaos Rising Elite Trainer Box (ETB) Pokemon TCG",
-   "price": "379.99 lei",
-   "in_stock": false,
-   "preorder": false
-  },
   "https://lootshop.ro/product/chaos-rising-booster-box-pokemon-tcg/": {
    "name": "Chaos Rising Booster Box Pokemon TCG",
    "price": "1099.99 lei",
@@ -503,6 +491,12 @@
   "https://lootshop.ro/product/first-partner-illustration-collection-2-pokemon-tcg/": {
    "name": "First Partner Illustration Collection #2 Pokemon TCG",
    "price": "200 lei",
+   "in_stock": false,
+   "preorder": false
+  },
+  "https://lootshop.ro/product/chaos-rising-elite-trainer-box-etb-pokemon-tcg/": {
+   "name": "Chaos Rising Elite Trainer Box (ETB) Pokemon TCG",
+   "price": "379.99 lei",
    "in_stock": false,
    "preorder": false
   },
@@ -605,6 +599,12 @@
   "https://lootshop.ro/product/mega-evolution-set-3-booster-blister/": {
    "name": "Mega Evolution Blister – Set 3 Pachete Booster Pokemon TCG",
    "price": "95 lei",
+   "in_stock": false,
+   "preorder": false
+  },
+  "https://lootshop.ro/product/perfect-order-pachet-booster-pokemon-tcg/": {
+   "name": "Perfect Order Pachet Booster Pokemon TCG",
+   "price": "29.99 lei",
    "in_stock": false,
    "preorder": false
   },
@@ -6542,12 +6542,6 @@
    "in_stock": true,
    "preorder": true
   },
-  "https://www.tcg-shop.ro/products/pokemon-scarlet-violet-sv10-the-glory-of-team-rocket-booster-box-editie-japoneza": {
-   "name": "Pokémon: Scarlet & Violet SV10 - The Glory of Team Rocket Booster Box - Editie Japoneza",
-   "price": "599 RON",
-   "in_stock": true,
-   "preorder": false
-  },
   "https://www.tcg-shop.ro/products/pokemon-delta-reign-booster-box-display": {
    "name": "Pokemon Delta Reign - Booster Box Display",
    "price": "990 RON",
@@ -6576,6 +6570,12 @@
    "name": "Pokémon Mega Evolution -  Chaos Rising Premium Checklane Blister",
    "price": "35 RON",
    "in_stock": true,
+   "preorder": false
+  },
+  "https://www.tcg-shop.ro/products/pokemon-scarlet-violet-sv10-the-glory-of-team-rocket-booster-box-editie-japoneza": {
+   "name": "Pokémon: Scarlet & Violet SV10 - The Glory of Team Rocket Booster Box - Editie Japoneza",
+   "price": "599 RON",
+   "in_stock": false,
    "preorder": false
   },
   "https://www.tcg-shop.ro/products/pokemon-delta-reign-3-pack-blister": {
