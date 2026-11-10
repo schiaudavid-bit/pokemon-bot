@@ -757,7 +757,7 @@
   "https://redgoblin.ro/products/pokemon-tcg-30th-celebration-battle-deck-umbreon-ex": {
    "name": "Pokemon TCG - 30th Celebration - Battle Deck - Umbreon ex",
    "price": "159.00 lei",
-   "in_stock": true,
+   "in_stock": false,
    "preorder": false
   },
   "https://redgoblin.ro/products/cana-pokemon-250-ml-jigglypuff": {
@@ -847,7 +847,7 @@
   "https://redgoblin.ro/products/precomanda-pokemon-tcg-delta-reign-premium-checklane-blister-delphox": {
    "name": "Pokemon TCG - Delta Reign Premium Checklane Blister - Delphox",
    "price": "45.00 lei",
-   "in_stock": true,
+   "in_stock": false,
    "preorder": true
   },
   "https://redgoblin.ro/products/precomanda-pokemon-tcg-delta-reign-checklane-blister": {
@@ -5038,8 +5038,8 @@
    "in_stock": true,
    "preorder": false
   },
-  "https://pokemania.ro/super-electric-breaker-sv8-jp/cutie-pokemon-tcg-scarlet-violet-super-electric-breaker-booster-box-japanese": {
-   "name": "Cutie Pokémon TCG: Scarlet & Violet - Super Electric Breaker Booster Box (Japanese)",
+  "https://pokemania.ro/delta-reign/pokemon-tcg-mega-evolution-delta-reign-3-pack-blister-assortment": {
+   "name": "Pokemon TCG: Mega Evolution - Delta Reign 3-Pack Blister (Assortment)",
    "price": "?",
    "in_stock": true,
    "preorder": false
@@ -6232,8 +6232,8 @@
    "in_stock": false,
    "preorder": false
   },
-  "https://pokemania.ro/delta-reign/pokemon-tcg-mega-evolution-delta-reign-3-pack-blister-assortment": {
-   "name": "Pokemon TCG: Mega Evolution - Delta Reign 3-Pack Blister (Assortment)",
+  "https://pokemania.ro/mcdonald-s-25th-anniversary/pokemon-tcg-mcdonald-s-collection-25th-anniversary-booster-pack-german-language": {
+   "name": "Pokémon TCG: McDonald's Collection 25th Anniversary Booster Pack - German Language",
    "price": "?",
    "in_stock": false,
    "preorder": false
