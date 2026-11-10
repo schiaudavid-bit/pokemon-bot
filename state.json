@@ -634,6 +634,18 @@
   }
  },
  "Red Goblin": {
+  "https://redgoblin.ro/products/hanorac-cu-gluga-pokemon-halloween-mimikyu": {
+   "name": "Hanorac cu Gluga Pokemon - Halloween - Mimikyu",
+   "price": "309.00 lei",
+   "in_stock": true,
+   "preorder": false
+  },
+  "https://redgoblin.ro/products/hanorac-cu-gluga-pokemon-halloween-gengar": {
+   "name": "Hanorac cu Gluga Pokemon - Halloween - Gengar",
+   "price": "309.00 lei",
+   "in_stock": true,
+   "preorder": false
+  },
   "https://redgoblin.ro/products/cana-pokemon-320-ml-pixel-art": {
    "name": "Cana Pokemon - 320 ml - Pixel Art",
    "price": "63.00 lei",
@@ -3777,12 +3789,6 @@
    "price": "53.00 lei",
    "in_stock": false,
    "preorder": false
-  },
-  "https://redgoblin.ro/products/casti-pokemon-pikachu": {
-   "name": "Casti Pokemon Pikachu",
-   "price": "229.00 lei",
-   "in_stock": false,
-   "preorder": false
   }
  },
  "TCG Arena": {
@@ -4984,12 +4990,6 @@
    "in_stock": true,
    "preorder": false
   },
-  "https://pokemania.ro/chaos-rising/pokemon-tcg-mega-evolution-chaos-rising-checklane-blister-toxel": {
-   "name": "Pokémon TCG: Mega Evolution-Chaos Rising Checklane Blister Toxel",
-   "price": "?",
-   "in_stock": true,
-   "preorder": false
-  },
   "https://pokemania.ro/pokemon-mega-evolution-inferno-x-ma2-jp-2/cutie-booster-display-box-pokemon-tcg-mega-evolution-inferno-x-booster-box-jp-30-pachete-ma2-japoneza": {
    "name": "Cutie Booster Display Box Pokémon TCG: Mega Evolution - Inferno X Booster Box (JP) | 30 Pachete (MA2 Japoneză)",
    "price": "?",
@@ -5116,6 +5116,12 @@
    "in_stock": true,
    "preorder": false
   },
+  "https://pokemania.ro/battle-partners-sv9-jp/cutie-pokemon-tcg-battle-partners-journey-together-booster-box-jp-scarlet-violet-sv9": {
+   "name": "Cutie Pokémon TCG Battle Partners (Journey Together) Booster Box (JP) - Scarlet & Violet sv9",
+   "price": "?",
+   "in_stock": true,
+   "preorder": false
+  },
   "https://pokemania.ro/pokemon-tcg": {
    "name": "Pokémon TCG",
    "price": "?",
@@ -5160,12 +5166,6 @@
   },
   "https://pokemania.ro/blog/stiri-pokemon": {
    "name": "Știri Pokémon: Fii la curent cu tot ce mișcă în lumea Pokémon!",
-   "price": "?",
-   "in_stock": true,
-   "preorder": false
-  },
-  "https://pokemania.ro/battle-partners-sv9-jp/cutie-pokemon-tcg-battle-partners-journey-together-booster-box-jp-scarlet-violet-sv9": {
-   "name": "Cutie Pokémon TCG Battle Partners (Journey Together) Booster Box (JP) - Scarlet & Violet sv9",
    "price": "?",
    "in_stock": true,
    "preorder": false
@@ -5982,6 +5982,12 @@
   },
   "https://pokemania.ro/destined-rivals/pachet-booster-cu-sleeve-carti-pokemon-tcg-destined-rivals-team-rocket-scarlet-violet-10-engleza": {
    "name": "Pachet Booster cu Sleeve Carti Pokémon TCG Destined Rivals (Team Rocket) - Scarlet & Violet 10 (Engleză)",
+   "price": "?",
+   "in_stock": false,
+   "preorder": false
+  },
+  "https://pokemania.ro/chaos-rising/pokemon-tcg-mega-evolution-chaos-rising-checklane-blister-toxel": {
+   "name": "Pokémon TCG: Mega Evolution-Chaos Rising Checklane Blister Toxel",
    "price": "?",
    "in_stock": false,
    "preorder": false
