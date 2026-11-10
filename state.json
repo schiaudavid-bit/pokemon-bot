@@ -3802,19 +3802,19 @@
    "name": "Pokémon TCG Mega Evolution—Delta Reign Booster Display Box (36 Packs)",
    "price": "950.00 lei",
    "in_stock": false,
-   "preorder": true
+   "preorder": false
   },
   "https://tcgarena.ro/products/pokemon-tcg-mega-evolution-delta-reign-pokemon-center-elite-trainer-box": {
    "name": "Pokémon TCG: Mega Evolution—Delta Reign Elite Trainer Box",
    "price": "325.00 lei",
    "in_stock": false,
-   "preorder": true
+   "preorder": false
   },
   "https://tcgarena.ro/products/pokemon-tcg-mega-evolution-delta-reign-booster-bundle-6-packs": {
    "name": "Pokémon TCG Mega Evolution—Delta Reign Booster Bundle (6 Packs)",
    "price": "175.00 lei",
    "in_stock": false,
-   "preorder": true
+   "preorder": false
   },
   "https://tcgarena.ro/products/pkm-dream-painting-collection-151-cn": {
    "name": "Pokémon TCG - Dream Painting Collection 151 - CN",
