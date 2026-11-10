@@ -850,12 +850,6 @@
    "in_stock": true,
    "preorder": true
   },
-  "https://redgoblin.ro/products/precomanda-pokemon-tcg-delta-reign-checklane-blister": {
-   "name": "Precomanda Pokemon TCG - Delta Reign Checklane Blister",
-   "price": "39.00 lei",
-   "in_stock": true,
-   "preorder": true
-  },
   "https://redgoblin.ro/products/precomanda-pokemon-tcg-delta-reign-3-pack-blister": {
    "name": "Pokemon TCG - Delta Reign 3-pack blister",
    "price": "99.00 lei",
@@ -3793,6 +3787,12 @@
   "https://redgoblin.ro/products/set-2-figurine-articulate-pokemon-treecko-duskull": {
    "name": "Set 2 Figurine Articulate Pokemon Treecko & Duskull",
    "price": "53.00 lei",
+   "in_stock": false,
+   "preorder": false
+  },
+  "https://redgoblin.ro/products/casti-pokemon-pikachu": {
+   "name": "Casti Pokemon Pikachu",
+   "price": "229.00 lei",
    "in_stock": false,
    "preorder": false
   }
