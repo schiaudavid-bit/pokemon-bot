@@ -835,7 +835,7 @@
   "https://redgoblin.ro/products/precomanda-pokemon-tcg-delta-reign-elite-trainer-box": {
    "name": "Pokemon TCG - Delta Reign Elite Trainer Box",
    "price": "349.00 lei",
-   "in_stock": true,
+   "in_stock": false,
    "preorder": true
   },
   "https://redgoblin.ro/products/precomanda-pokemon-tcg-delta-reign-premium-checklane-blister-ampharos": {
@@ -853,7 +853,7 @@
   "https://redgoblin.ro/products/precomanda-pokemon-tcg-delta-reign-checklane-blister": {
    "name": "Precomanda Pokemon TCG - Delta Reign Checklane Blister",
    "price": "39.00 lei",
-   "in_stock": false,
+   "in_stock": true,
    "preorder": true
   },
   "https://redgoblin.ro/products/precomanda-pokemon-tcg-delta-reign-3-pack-blister": {
@@ -925,7 +925,7 @@
   "https://redgoblin.ro/products/precomanda-pokemon-tcg-30th-ex-box-sylveon": {
    "name": "Pokemon TCG - 30th ex Box - Sylveon",
    "price": "189.00 lei",
-   "in_stock": true,
+   "in_stock": false,
    "preorder": true
   },
   "https://redgoblin.ro/products/precomanda-pokemon-tcg-30th-elite-trainer-box": {
