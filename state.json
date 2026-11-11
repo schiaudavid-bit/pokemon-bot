@@ -4882,6 +4882,12 @@
    "in_stock": true,
    "preorder": false
   },
+  "https://pokemania.ro/mega-evolution/joc-de-carti-pokemon-pachet-booster-mega-brave-mega-lucario-m1l-japoneza-5-carti": {
+   "name": "Joc de Cărți Pokémon - Pachet Booster Mega Brave: Mega Lucario (M1L Japoneză) - 5 Cărți",
+   "price": "?",
+   "in_stock": true,
+   "preorder": false
+  },
   "https://pokemania.ro/white-flare-black-bolt-sv11-kr/pachet-pokemon-tcg-scarlet-violet-white-flare-booster-pack-sv11w-kr-booster-pack-coreeana": {
    "name": "Pachet Pokémon TCG: Scarlet & Violet - White Flare Booster Pack SV11W KR Booster Pack (Coreeană)",
    "price": "?",
@@ -5146,12 +5152,6 @@
    "in_stock": true,
    "preorder": false
   },
-  "https://pokemania.ro/celebrations/pachet-carti-pokemon-tcg-celebrations-2021-sarbatorim-25-de-ani-de-pokemon": {
-   "name": "Pachet Carti Pokémon TCG Celebrations (2021) - Sărbătorim 25 de Ani de Pokémon! 🎉",
-   "price": "?",
-   "in_stock": true,
-   "preorder": false
-  },
   "https://pokemania.ro/pokemon-tcg": {
    "name": "Pokémon TCG",
    "price": "?",
@@ -5196,6 +5196,12 @@
   },
   "https://pokemania.ro/blog/stiri-pokemon": {
    "name": "Știri Pokémon: Fii la curent cu tot ce mișcă în lumea Pokémon!",
+   "price": "?",
+   "in_stock": true,
+   "preorder": false
+  },
+  "https://pokemania.ro/celebrations/pachet-carti-pokemon-tcg-celebrations-2021-sarbatorim-25-de-ani-de-pokemon": {
+   "name": "Pachet Carti Pokémon TCG Celebrations (2021) - Sărbătorim 25 de Ani de Pokémon! 🎉",
    "price": "?",
    "in_stock": true,
    "preorder": false
@@ -5532,12 +5538,6 @@
   },
   "https://pokemania.ro/boxed-sets/pokemon-trading-card-game-classic-set": {
    "name": "Pokémon Trading Card Game Classic Set",
-   "price": "?",
-   "in_stock": false,
-   "preorder": false
-  },
-  "https://pokemania.ro/journey-together/cutie-pokemon-tcg-journey-together-booster-display-box-scarlet-violet-9-36-packs": {
-   "name": "Cutie Pokémon TCG Journey Together Booster Display Box - Scarlet & Violet 9 (36 Packs)",
    "price": "?",
    "in_stock": false,
    "preorder": false
