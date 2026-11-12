@@ -871,7 +871,7 @@
   "https://redgoblin.ro/products/precomanda-pokemon-tcg-delta-reign-3-pack-blister": {
    "name": "Pokemon TCG - Delta Reign 3-pack blister",
    "price": "99.00 lei",
-   "in_stock": false,
+   "in_stock": true,
    "preorder": true
   },
   "https://redgoblin.ro/products/precomanda-pokemon-tcg-delta-reign-booster-display": {
