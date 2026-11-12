@@ -3807,12 +3807,6 @@
    "price": "53.00 lei",
    "in_stock": false,
    "preorder": false
-  },
-  "https://redgoblin.ro/products/casti-pokemon-pikachu": {
-   "name": "Casti Pokemon Pikachu",
-   "price": "229.00 lei",
-   "in_stock": false,
-   "preorder": false
   }
  },
  "TCG Arena": {
@@ -4834,12 +4828,6 @@
    "in_stock": true,
    "preorder": false
   },
-  "https://pokemania.ro/super-electric-breaker-sv8-jp/pachet-pokemon-tcg-scarlet-violet-super-electric-breaker-sv8-jp-booster-pack-japoneza": {
-   "name": "Pachet Pokémon TCG Scarlet & Violet Super Electric Breaker sv8 JP Booster Pack (Japoneza)",
-   "price": "?",
-   "in_stock": true,
-   "preorder": false
-  },
   "https://pokemania.ro/temporal-forces/pachet-carti-pokemon-tcg-scarlet-violet-5-temporal-forces-en-factory-sealed-booster-pack-1-pachet-booster": {
    "name": "Pachet Carti Pokémon TCG: Scarlet & Violet 5 Temporal Forces EN Factory Sealed Booster Pack - 1 Pachet Booster",
    "price": "?",
@@ -5158,6 +5146,12 @@
    "in_stock": true,
    "preorder": false
   },
+  "https://pokemania.ro/promo-packs/pokemon-tcg-gym-promo-pack-scarlet-violet-vol-9-editie-japoneza": {
+   "name": "Pokémon TCG: Gym Promo Pack Scarlet & Violet Vol. 9 (Ediție japoneză)",
+   "price": "?",
+   "in_stock": true,
+   "preorder": false
+  },
   "https://pokemania.ro/pokemon-tcg": {
    "name": "Pokémon TCG",
    "price": "?",
@@ -5202,12 +5196,6 @@
   },
   "https://pokemania.ro/blog/stiri-pokemon": {
    "name": "Știri Pokémon: Fii la curent cu tot ce mișcă în lumea Pokémon!",
-   "price": "?",
-   "in_stock": true,
-   "preorder": false
-  },
-  "https://pokemania.ro/promo-packs/pokemon-tcg-gym-promo-pack-scarlet-violet-vol-9-editie-japoneza": {
-   "name": "Pokémon TCG: Gym Promo Pack Scarlet & Violet Vol. 9 (Ediție japoneză)",
    "price": "?",
    "in_stock": true,
    "preorder": false
@@ -5547,6 +5535,12 @@
    "price": "?",
    "in_stock": false,
    "preorder": false
+  },
+  "https://pokemania.ro/shrouded-fable/set-cartonase-pokemon-tcg-scarlet-violet-6-5-shrouded-fable-elite-trainer-box": {
+   "name": "Set Cartonase Pokémon TCG: Scarlet & Violet 6.5 Shrouded Fable Elite Trainer Box",
+   "price": "?",
+   "in_stock": false,
+   "preorder": false
   }
  },
  "Pokemania Precomenzi": {
@@ -5612,24 +5606,6 @@
   },
   "https://pokemania.ro/delta-reign/pokemon-tcg-mega-evolution-delta-reign-booster-pack-single": {
    "name": "Pokemon TCG: Mega Evolution - Delta Reign Booster Pack (Single)",
-   "price": "?",
-   "in_stock": true,
-   "preorder": true
-  },
-  "https://pokemania.ro/delta-reign/pokemon-tcg-mega-evolution-delta-reign-premium-checklane-blister-delphox": {
-   "name": "Pokémon TCG: Mega Evolution - Delta Reign Premium Checklane Blister (Delphox)",
-   "price": "?",
-   "in_stock": true,
-   "preorder": true
-  },
-  "https://pokemania.ro/delta-reign/pokemon-tcg-mega-evolution-delta-reign-premium-checklane-blister-ampharos": {
-   "name": "Pokémon TCG: Mega Evolution - Delta Reign Premium Checklane Blister (Ampharos)",
-   "price": "?",
-   "in_stock": true,
-   "preorder": true
-  },
-  "https://pokemania.ro/delta-reign/pokemon-tcg-mega-evolution-delta-reign-3-pack-blister-assortment": {
-   "name": "Pokemon TCG: Mega Evolution - Delta Reign 3-Pack Blister (Assortment)",
    "price": "?",
    "in_stock": true,
    "preorder": true
@@ -5756,6 +5732,24 @@
   },
   "https://pokemania.ro/first-partner/pokemon-tcg-first-partner-illustration-collection-series-3": {
    "name": "Pokémon TCG: First Partner - Illustration Collection - Series 3",
+   "price": "?",
+   "in_stock": false,
+   "preorder": true
+  },
+  "https://pokemania.ro/delta-reign/pokemon-tcg-mega-evolution-delta-reign-premium-checklane-blister-delphox": {
+   "name": "Pokémon TCG: Mega Evolution - Delta Reign Premium Checklane Blister (Delphox)",
+   "price": "?",
+   "in_stock": false,
+   "preorder": true
+  },
+  "https://pokemania.ro/delta-reign/pokemon-tcg-mega-evolution-delta-reign-premium-checklane-blister-ampharos": {
+   "name": "Pokémon TCG: Mega Evolution - Delta Reign Premium Checklane Blister (Ampharos)",
+   "price": "?",
+   "in_stock": false,
+   "preorder": true
+  },
+  "https://pokemania.ro/delta-reign/pokemon-tcg-mega-evolution-delta-reign-3-pack-blister-assortment": {
+   "name": "Pokemon TCG: Mega Evolution - Delta Reign 3-Pack Blister (Assortment)",
    "price": "?",
    "in_stock": false,
    "preorder": true
