@@ -3968,15 +3968,15 @@
    "in_stock": true,
    "preorder": false
   },
-  "https://www.lexshop.ro/pokemon-tcg/pokemon-tcg-mega-evolution-delta-reign-booster-box-36-boostere-en.html": {
-   "name": "Pokemon TCG Mega Evolution Delta Reign Booster Box - 36 boostere EN",
-   "price": "900 RON",
-   "in_stock": true,
-   "preorder": false
-  },
   "https://www.lexshop.ro/pokemon-tcg/pokemon-tcg-chaos-rising-premium-checklane-blister-varianta-aleatorie.html": {
    "name": "Pokemon TCG Chaos Rising Premium Checklane Blister Varianta Aleatorie",
    "price": "41 RON",
+   "in_stock": true,
+   "preorder": false
+  },
+  "https://www.lexshop.ro/pokemon-tcg/pokemon-tcg-mega-evolution-delta-reign-booster-box-36-boostere-en.html": {
+   "name": "Pokemon TCG Mega Evolution Delta Reign Booster Box - 36 boostere EN",
+   "price": "900 RON",
    "in_stock": true,
    "preorder": false
   },
