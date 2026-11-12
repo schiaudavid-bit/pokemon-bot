@@ -356,12 +356,6 @@
   }
  },
  "LootShop": {
-  "https://lootshop.ro/product/protectie-acrilic-pentru-etb-plus-pokemon-tcg/": {
-   "name": "Protecție Acrilic pentru ETB PLUS Pokemon TCG",
-   "price": "169.99 lei",
-   "in_stock": true,
-   "preorder": false
-  },
   "https://lootshop.ro/product/delta-reign-booster-box-pokemon-tcg/": {
    "name": "Delta Reign Booster Box Pokemon TCG",
    "price": "1099.99 lei",
@@ -389,6 +383,12 @@
   "https://lootshop.ro/product/protectie-acrilic-pentru-booster-box-pokemon-tcg/": {
    "name": "Protecție Acrilic pentru Booster Box Pokemon TCG",
    "price": "149.99 lei",
+   "in_stock": true,
+   "preorder": false
+  },
+  "https://lootshop.ro/product/protectie-acrilic-pentru-etb-plus-pokemon-tcg/": {
+   "name": "Protecție Acrilic pentru ETB PLUS Pokemon TCG",
+   "price": "169.99 lei",
    "in_stock": true,
    "preorder": false
   },
