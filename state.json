@@ -5056,18 +5056,6 @@
    "in_stock": true,
    "preorder": false
   },
-  "https://pokemania.ro/delta-reign/pokemon-tcg-mega-evolution-delta-reign-premium-checklane-blister-delphox": {
-   "name": "Pokémon TCG: Mega Evolution - Delta Reign Premium Checklane Blister (Delphox)",
-   "price": "?",
-   "in_stock": true,
-   "preorder": false
-  },
-  "https://pokemania.ro/delta-reign/pokemon-tcg-mega-evolution-delta-reign-premium-checklane-blister-ampharos": {
-   "name": "Pokémon TCG: Mega Evolution - Delta Reign Premium Checklane Blister (Ampharos)",
-   "price": "?",
-   "in_stock": true,
-   "preorder": false
-  },
   "https://pokemania.ro/phantasmal-flames/pokemon-tcg-mega-charizard-x-ex-ultra-premium-collection-en": {
    "name": "Pokémon TCG: Mega Charizard X Ex Ultra Premium Collection EN",
    "price": "?",
@@ -5088,12 +5076,6 @@
   },
   "https://pokemania.ro/storm-emeralda/pokemon-tcg-mega-storm-emeralda-booster-pack-m6-japanese": {
    "name": "Pokémon TCG: MEGA - Storm Emeralda Booster Pack (M6) (Japanese)",
-   "price": "?",
-   "in_stock": true,
-   "preorder": false
-  },
-  "https://pokemania.ro/delta-reign/pokemon-tcg-mega-evolution-delta-reign-3-pack-blister-assortment": {
-   "name": "Pokemon TCG: Mega Evolution - Delta Reign 3-Pack Blister (Assortment)",
    "price": "?",
    "in_stock": true,
    "preorder": false
@@ -5158,6 +5140,24 @@
    "in_stock": true,
    "preorder": false
   },
+  "https://pokemania.ro/heat-wave-arena-sv9a-jp/cutie-booster-display-box-pokemon-tcg-heat-wave-arena-jp-sv9a-japoneza-30-pachete": {
+   "name": "Cutie Booster Display Box Pokémon TCG Heat Wave Arena JP (SV9a Japoneză) - 30 Pachete",
+   "price": "?",
+   "in_stock": true,
+   "preorder": false
+  },
+  "https://pokemania.ro/battle-partners-sv9-jp/cutie-pokemon-tcg-battle-partners-journey-together-booster-box-jp-scarlet-violet-sv9": {
+   "name": "Cutie Pokémon TCG Battle Partners (Journey Together) Booster Box (JP) - Scarlet & Violet sv9",
+   "price": "?",
+   "in_stock": true,
+   "preorder": false
+  },
+  "https://pokemania.ro/celebrations/pachet-carti-pokemon-tcg-celebrations-2021-sarbatorim-25-de-ani-de-pokemon": {
+   "name": "Pachet Carti Pokémon TCG Celebrations (2021) - Sărbătorim 25 de Ani de Pokémon! 🎉",
+   "price": "?",
+   "in_stock": true,
+   "preorder": false
+  },
   "https://pokemania.ro/pokemon-tcg": {
    "name": "Pokémon TCG",
    "price": "?",
@@ -5202,24 +5202,6 @@
   },
   "https://pokemania.ro/blog/stiri-pokemon": {
    "name": "Știri Pokémon: Fii la curent cu tot ce mișcă în lumea Pokémon!",
-   "price": "?",
-   "in_stock": true,
-   "preorder": false
-  },
-  "https://pokemania.ro/heat-wave-arena-sv9a-jp/cutie-booster-display-box-pokemon-tcg-heat-wave-arena-jp-sv9a-japoneza-30-pachete": {
-   "name": "Cutie Booster Display Box Pokémon TCG Heat Wave Arena JP (SV9a Japoneză) - 30 Pachete",
-   "price": "?",
-   "in_stock": true,
-   "preorder": false
-  },
-  "https://pokemania.ro/battle-partners-sv9-jp/cutie-pokemon-tcg-battle-partners-journey-together-booster-box-jp-scarlet-violet-sv9": {
-   "name": "Cutie Pokémon TCG Battle Partners (Journey Together) Booster Box (JP) - Scarlet & Violet sv9",
-   "price": "?",
-   "in_stock": true,
-   "preorder": false
-  },
-  "https://pokemania.ro/celebrations/pachet-carti-pokemon-tcg-celebrations-2021-sarbatorim-25-de-ani-de-pokemon": {
-   "name": "Pachet Carti Pokémon TCG Celebrations (2021) - Sărbătorim 25 de Ani de Pokémon! 🎉",
    "price": "?",
    "in_stock": true,
    "preorder": false
@@ -5546,6 +5528,24 @@
    "name": "PokeMANIA Bundle 151 Display Boxes Multilingual (EN+JP+KR): EN Bundle + JP Box + KR Box - Pokémon TCG Scarlet & Violet 151",
    "price": "?",
    "in_stock": true,
+   "preorder": false
+  },
+  "https://pokemania.ro/boxed-sets/pokemon-trading-card-game-classic-set": {
+   "name": "Pokémon Trading Card Game Classic Set",
+   "price": "?",
+   "in_stock": false,
+   "preorder": false
+  },
+  "https://pokemania.ro/journey-together/cutie-pokemon-tcg-journey-together-booster-display-box-scarlet-violet-9-36-packs": {
+   "name": "Cutie Pokémon TCG Journey Together Booster Display Box - Scarlet & Violet 9 (36 Packs)",
+   "price": "?",
+   "in_stock": false,
+   "preorder": false
+  },
+  "https://pokemania.ro/151/set-pokemon-tcg-scarlet-violet-151-elite-trainer-box": {
+   "name": "Set Pokémon TCG: Scarlet & Violet 151 - Elite Trainer Box",
+   "price": "?",
+   "in_stock": false,
    "preorder": false
   }
  },
