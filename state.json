@@ -5876,12 +5876,6 @@
    "in_stock": true,
    "preorder": false
   },
-  "https://www.tcg-shop.ro/products/pokemon-30th-celebration-greninja-ex-card-display-set-editie-chineza": {
-   "name": "Pokemon 30th Celebration - Greninja EX Card Display Set - Editie Chineza",
-   "price": "199 RON",
-   "in_stock": true,
-   "preorder": false
-  },
   "https://www.tcg-shop.ro/products/pokemon-collect-151-hope-coin-set-s-editie-chinezeasca": {
    "name": "Pokemon Collect 151 Hope Coin Set S - Editie Chinezeasca",
    "price": "115 RON",
@@ -5939,6 +5933,12 @@
   "https://www.tcg-shop.ro/products/pokemon-30th-celebration-binder-collection": {
    "name": "Pokemon 30th Celebration Binder Collection",
    "price": "249 RON",
+   "in_stock": false,
+   "preorder": false
+  },
+  "https://www.tcg-shop.ro/products/pokemon-30th-celebration-elite-trainer-box": {
+   "name": "Pokemon 30th Celebration Elite Trainer Box",
+   "price": "330 RON",
    "in_stock": false,
    "preorder": false
   },
