@@ -781,7 +781,7 @@
   "https://redgoblin.ro/products/pokemon-tcg-30th-celebration-battle-deck-umbreon-ex": {
    "name": "Pokemon TCG - 30th Celebration - Battle Deck - Umbreon ex",
    "price": "159.00 lei",
-   "in_stock": true,
+   "in_stock": false,
    "preorder": false
   },
   "https://redgoblin.ro/products/cana-pokemon-250-ml-jigglypuff": {
@@ -4870,12 +4870,6 @@
    "in_stock": true,
    "preorder": false
   },
-  "https://pokemania.ro/trick-or-trade-2024/pokemon-tcg-trick-or-trade-2024-mini-booster-pack-3-carti-gengar-pikachu": {
-   "name": "Pokémon TCG: Trick or Trade 2024 Mini Booster Pack (3 cărți - Gengar & Pikachu)",
-   "price": "?",
-   "in_stock": true,
-   "preorder": false
-  },
   "https://pokemania.ro/mega-evolution/joc-de-carti-pokemon-pachet-booster-mega-brave-mega-lucario-m1l-japoneza-5-carti": {
    "name": "Joc de Cărți Pokémon - Pachet Booster Mega Brave: Mega Lucario (M1L Japoneză) - 5 Cărți",
    "price": "?",
@@ -5116,12 +5110,6 @@
    "in_stock": true,
    "preorder": false
   },
-  "https://pokemania.ro/mega-evolution/joc-de-carti-pokemon-cutie-display-booster-mega-symphonia-m1s-japonez-30-pachete": {
-   "name": "Joc de Cărți Pokémon - Cutie Display Booster Mega Symphonia (m1S Japonez) - 30 Pachete",
-   "price": "?",
-   "in_stock": true,
-   "preorder": false
-  },
   "https://pokemania.ro/unova-white-flare-black-bolt/cutie-booster-display-box-pokemon-tcg-black-bolt-zekrom-jp-sv11b-japoneza-20-pachete": {
    "name": "Cutie Booster Display Box Pokémon TCG Black Bolt - Zekrom JP (SV11B Japoneză) - 20 Pachete",
    "price": "?",
@@ -5148,6 +5136,12 @@
   },
   "https://pokemania.ro/promo-packs/pokemon-tcg-gym-promo-pack-scarlet-violet-vol-9-editie-japoneza": {
    "name": "Pokémon TCG: Gym Promo Pack Scarlet & Violet Vol. 9 (Ediție japoneză)",
+   "price": "?",
+   "in_stock": true,
+   "preorder": false
+  },
+  "https://pokemania.ro/booster-packs/pokemon-tcg-mega-dream-ex-high-class-booster-pack-chineza-traditionala-10-carti": {
+   "name": "Pokémon TCG: Mega Dream ex High-Class Booster Pack (chineză tradițională - 10 cărți)",
    "price": "?",
    "in_stock": true,
    "preorder": false
@@ -5196,12 +5190,6 @@
   },
   "https://pokemania.ro/blog/stiri-pokemon": {
    "name": "Știri Pokémon: Fii la curent cu tot ce mișcă în lumea Pokémon!",
-   "price": "?",
-   "in_stock": true,
-   "preorder": false
-  },
-  "https://pokemania.ro/booster-packs/pokemon-tcg-mega-dream-ex-high-class-booster-pack-chineza-traditionala-10-carti": {
-   "name": "Pokémon TCG: Mega Dream ex High-Class Booster Pack (chineză tradițională - 10 cărți)",
    "price": "?",
    "in_stock": true,
    "preorder": false
@@ -5628,6 +5616,12 @@
   },
   "https://pokemania.ro/ascended-heroes-2/pokemon-tcg-mega-evolution-ascended-heroes-elite-trainer-box": {
    "name": "Pokémon TCG: Mega Evolution - Ascended Heroes Elite Trainer Box",
+   "price": "?",
+   "in_stock": false,
+   "preorder": false
+  },
+  "https://pokemania.ro/trick-or-trade-2024/pokemon-tcg-trick-or-trade-2024-mini-booster-pack-3-carti-gengar-pikachu": {
+   "name": "Pokémon TCG: Trick or Trade 2024 Mini Booster Pack (3 cărți - Gengar & Pikachu)",
    "price": "?",
    "in_stock": false,
    "preorder": false
@@ -6258,6 +6252,12 @@
   },
   "https://pokemania.ro/journey-together/set-pokemon-tcg-greninja-ex-kingdra-ex-special-collection": {
    "name": "Set Pokémon TCG: Greninja ex & Kingdra ex Special Collection",
+   "price": "?",
+   "in_stock": false,
+   "preorder": false
+  },
+  "https://pokemania.ro/mega-evolution/pokemon-tcg-mega-lucario-ex-figure-collection": {
+   "name": "Pokémon TCG: Mega Lucario EX Figure Collection",
    "price": "?",
    "in_stock": false,
    "preorder": false
