@@ -3974,12 +3974,6 @@
    "in_stock": false,
    "preorder": false
   },
-  "https://www.lexshop.ro/pokemon-tcg/pokemon-tcg-mega-evolution-delta-reign-3-pack-blister.html": {
-   "name": "Pokemon TCG Mega Evolution Delta Reign 3-Pack Blister",
-   "price": "109 RON",
-   "in_stock": false,
-   "preorder": false
-  },
   "https://www.lexshop.ro/pokemon-tcg/pokemon-tcg-30th-celebration-poster-collection-3-boostere-3-promo-cards.html": {
    "name": "Pokemon TCG 30th Celebration Poster Collection - 3 Boostere + 3 Promo Cards",
    "price": "239 RON",
@@ -3989,6 +3983,12 @@
   "https://www.lexshop.ro/pokemon-tcg/pokemon-tcg-30th-celebration-eevee-blister-2-boostere-promo-engleza.html": {
    "name": "Pokemon TCG 30th Celebration Eevee Blister - 2 Boostere + Promo - Engleza",
    "price": "129 RON",
+   "in_stock": false,
+   "preorder": false
+  },
+  "https://www.lexshop.ro/pokemon-tcg/pokemon-tcg-mega-evolution-delta-reign-3-pack-blister.html": {
+   "name": "Pokemon TCG Mega Evolution Delta Reign 3-Pack Blister",
+   "price": "109 RON",
    "in_stock": false,
    "preorder": false
   },
@@ -5634,14 +5634,14 @@
    "in_stock": false,
    "preorder": true
   },
-  "https://pokemania.ro/delta-reign/pokemon-tcg-mega-evolution-delta-reign-booster-bundle-6-booster-packs": {
-   "name": "Pokemon TCG: Mega Evolution - Delta Reign Booster Bundle (6 Booster Packs)",
+  "https://pokemania.ro/delta-reign/pokemon-tcg-mega-evolution-delta-reign-booster-box-36-packs": {
+   "name": "Pokémon TCG: Mega Evolution - Delta Reign Booster Box 36 Packs",
    "price": "?",
    "in_stock": false,
    "preorder": true
   },
-  "https://pokemania.ro/delta-reign/pokemon-tcg-mega-evolution-delta-reign-booster-box-36-packs": {
-   "name": "Pokémon TCG: Mega Evolution - Delta Reign Booster Box 36 Packs",
+  "https://pokemania.ro/delta-reign/pokemon-tcg-mega-evolution-delta-reign-booster-bundle-6-booster-packs": {
+   "name": "Pokemon TCG: Mega Evolution - Delta Reign Booster Bundle (6 Booster Packs)",
    "price": "?",
    "in_stock": false,
    "preorder": true
