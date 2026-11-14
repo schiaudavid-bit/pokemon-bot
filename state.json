@@ -5224,6 +5224,12 @@
    "in_stock": true,
    "preorder": false
   },
+  "https://pokemania.ro/vstar-universe/pokemon-tcg-vstar-universes-s12a-jp-booster-pack-10-casti-jp": {
+   "name": "Pokémon TCG: VSTAR Universes s12a JP Booster Pack - 10 Căsți (JP)",
+   "price": "?",
+   "in_stock": true,
+   "preorder": false
+  },
   "https://pokemania.ro/promo-packs/pokemon-tcg-gym-promo-pack-scarlet-violet-vol-8-editie-japoneza": {
    "name": "Pokémon TCG: Gym Promo Pack Scarlet & Violet Vol. 8 (Ediție japoneză)",
    "price": "?",
@@ -5250,12 +5256,6 @@
   },
   "https://pokemania.ro/shiny-treasure-ex-sv4a/pokemon-tcg-shiny-treasure-ex-booster-pack-sv4a-high-class-pack-10-cards-japanese": {
    "name": "Pokémon TCG: Shiny Treasure ex Booster Pack (sv4a) — High Class Pack - 10 Cards (Japanese)",
-   "price": "?",
-   "in_stock": true,
-   "preorder": false
-  },
-  "https://pokemania.ro/vstar-universe/pokemon-tcg-vstar-universes-s12a-jp-booster-pack-10-casti-jp": {
-   "name": "Pokémon TCG: VSTAR Universes s12a JP Booster Pack - 10 Căsți (JP)",
    "price": "?",
    "in_stock": true,
    "preorder": false
