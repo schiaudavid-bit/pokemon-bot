@@ -4978,12 +4978,6 @@
    "in_stock": true,
    "preorder": false
   },
-  "https://pokemania.ro/151/cutie-pokemon-tcg-scarlet-violet-151-en-booster-bundle-factory-sealed-6-pachete-booster": {
-   "name": "Cutie Pokémon TCG Scarlet & Violet 151 EN Booster Bundle Factory Sealed - 6 Pachete Booster",
-   "price": "?",
-   "in_stock": true,
-   "preorder": false
-  },
   "https://pokemania.ro/ninja-spinner-m1-jp/pokemon-tcg-mega-evolution-ninja-spinner-m1-booster-pack-japonez": {
    "name": "Pokémon TCG: Mega Evolution - Ninja Spinner [M1] Booster Pack (Japonez)",
    "price": "?",
@@ -5104,12 +5098,6 @@
    "in_stock": true,
    "preorder": false
   },
-  "https://pokemania.ro/celebrations/pokemon-25th-anniversary-celebrations-elite-trainer-box": {
-   "name": "Pokémon 25th Anniversary Celebrations Elite Trainer Box",
-   "price": "?",
-   "in_stock": true,
-   "preorder": false
-  },
   "https://pokemania.ro/unova-white-flare-black-bolt/cutie-booster-display-box-pokemon-tcg-black-bolt-zekrom-jp-sv11b-japoneza-20-pachete": {
    "name": "Cutie Booster Display Box Pokémon TCG Black Bolt - Zekrom JP (SV11B Japoneză) - 20 Pachete",
    "price": "?",
@@ -5142,6 +5130,18 @@
   },
   "https://pokemania.ro/booster-packs/pokemon-tcg-mega-dream-ex-high-class-booster-pack-chineza-traditionala-10-carti": {
    "name": "Pokémon TCG: Mega Dream ex High-Class Booster Pack (chineză tradițională - 10 cărți)",
+   "price": "?",
+   "in_stock": true,
+   "preorder": false
+  },
+  "https://pokemania.ro/unova-white-flare-black-bolt/cutie-booster-display-box-pokemon-tcg-white-flare-reshiram-jp-sv11w-japoneza-20-pachete": {
+   "name": "Cutie Booster Display Box Pokémon TCG White Flare - Reshiram JP (SV11W Japoneză) - 20 Pachete",
+   "price": "?",
+   "in_stock": true,
+   "preorder": false
+  },
+  "https://pokemania.ro/pokemon-25th-anniversary/cutie-booster-box-pokemon-tcg-25th-anniversary-collection-japoneza-16-pachete": {
+   "name": "Cutie Booster Box Pokémon TCG 25th Anniversary Collection (Japoneză - 16 Pachete)",
    "price": "?",
    "in_stock": true,
    "preorder": false
@@ -5190,18 +5190,6 @@
   },
   "https://pokemania.ro/blog/stiri-pokemon": {
    "name": "Știri Pokémon: Fii la curent cu tot ce mișcă în lumea Pokémon!",
-   "price": "?",
-   "in_stock": true,
-   "preorder": false
-  },
-  "https://pokemania.ro/unova-white-flare-black-bolt/cutie-booster-display-box-pokemon-tcg-white-flare-reshiram-jp-sv11w-japoneza-20-pachete": {
-   "name": "Cutie Booster Display Box Pokémon TCG White Flare - Reshiram JP (SV11W Japoneză) - 20 Pachete",
-   "price": "?",
-   "in_stock": true,
-   "preorder": false
-  },
-  "https://pokemania.ro/pokemon-25th-anniversary/cutie-booster-box-pokemon-tcg-25th-anniversary-collection-japoneza-16-pachete": {
-   "name": "Cutie Booster Box Pokémon TCG 25th Anniversary Collection (Japoneză - 16 Pachete)",
    "price": "?",
    "in_stock": true,
    "preorder": false
@@ -5262,12 +5250,6 @@
   },
   "https://pokemania.ro/sword-shield/pokemon-tcg-sword-shield-base-set-1-booster-pack-english-2020": {
    "name": "Pokémon TCG: Sword & Shield Base Set - 1 Booster Pack (English, 2020)",
-   "price": "?",
-   "in_stock": true,
-   "preorder": false
-  },
-  "https://pokemania.ro/sword-shield/pokemon-tcg-sword-and-shield-elite-trainer-box-plus-zacian": {
-   "name": "Pokémon TCG: Sword and Shield Elite Trainer Box Plus - Zacian",
    "price": "?",
    "in_stock": true,
    "preorder": false
@@ -5392,12 +5374,6 @@
    "in_stock": true,
    "preorder": false
   },
-  "https://pokemania.ro/chilling-reign/pokemon-tcg-chilling-reign-elite-trainer-box-shadow-rider-calyrex": {
-   "name": "Pokémon TCG: Chilling Reign Elite Trainer Box - Shadow Rider Calyrex",
-   "price": "?",
-   "in_stock": true,
-   "preorder": false
-  },
   "https://pokemania.ro/celebrations/celebrations-premium-figure-collection-pikachu-vmax-cutie-de-colectie-pokemon-sigilata": {
    "name": "Celebrations Premium Figure Collection—Pikachu VMAX — Cutie de Colecție Pokémon Sigilată",
    "price": "?",
@@ -5490,12 +5466,6 @@
   },
   "https://pokemania.ro/promo-packs/pokemon-tcg-the-first-movie-full-promo-cards-set-4-cards-set": {
    "name": "Pokémon TCG: The First Movie Full Promo Cards Set (4 Cards Set)",
-   "price": "?",
-   "in_stock": true,
-   "preorder": false
-  },
-  "https://pokemania.ro/151/pokemania-bundle-151-display-boxes-multilingual-en-jp-kr-en-bundle-jp-box-kr-box-pokemon-tcg-scarlet-violet-151": {
-   "name": "PokeMANIA Bundle 151 Display Boxes Multilingual (EN+JP+KR): EN Bundle + JP Box + KR Box - Pokémon TCG Scarlet & Violet 151",
    "price": "?",
    "in_stock": true,
    "preorder": false
@@ -5872,6 +5842,12 @@
    "in_stock": false,
    "preorder": false
   },
+  "https://pokemania.ro/151/cutie-pokemon-tcg-scarlet-violet-151-en-booster-bundle-factory-sealed-6-pachete-booster": {
+   "name": "Cutie Pokémon TCG Scarlet & Violet 151 EN Booster Bundle Factory Sealed - 6 Pachete Booster",
+   "price": "?",
+   "in_stock": false,
+   "preorder": false
+  },
   "https://pokemania.ro/pitch-black/pokemon-tcg-mega-evolution-pitch-black-booster-pack-10-cards": {
    "name": "Pokémon TCG: Mega Evolution—Pitch Black Booster Pack (10 Cards)",
    "price": "?",
@@ -5898,6 +5874,30 @@
   },
   "https://pokemania.ro/chaos-rising/pokemon-tcg-mega-evolution-chaos-rising-3-pack-blister": {
    "name": "Pokémon TCG: Mega Evolution-Chaos Rising 3-Pack Blister",
+   "price": "?",
+   "in_stock": false,
+   "preorder": false
+  },
+  "https://pokemania.ro/first-partner/pokemon-tcg-first-partner-illustration-collection-series-1": {
+   "name": "Pokémon TCG: First Partner - Illustration Collection - Series 1",
+   "price": "?",
+   "in_stock": false,
+   "preorder": false
+  },
+  "https://pokemania.ro/ascended-heroes-2/pokemon-tcg-ascended-heroes-premium-poster-collection-mega-gardevoir": {
+   "name": "Pokémon TCG: Ascended Heroes Premium Poster Collection - Mega Gardevoir",
+   "price": "?",
+   "in_stock": false,
+   "preorder": false
+  },
+  "https://pokemania.ro/30th-celebration-2/pokemon-tcg-30th-celebration-ex-tin": {
+   "name": "Pokemon TCG: 30th Celebration ex Tin",
+   "price": "?",
+   "in_stock": false,
+   "preorder": false
+  },
+  "https://pokemania.ro/30th-celebration-2/pokemon-tcg-30th-celebration-battle-deck-umbreon-ex": {
+   "name": "Pokemon TCG: 30th Celebration Battle Deck - Umbreon ex",
    "price": "?",
    "in_stock": false,
    "preorder": false
