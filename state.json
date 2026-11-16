@@ -38,10 +38,16 @@
    "in_stock": true,
    "preorder": false
   },
+  "https://comenzi.bebetei.ro/jocuri-si-jucarii/jocuri/jocuri-de-societate/fall-tin-26q-diverse-modele-6-ani-1-buc-pokemon-tcg-p479860": {
+   "name": "Fall Tin 26Q, Diverse modele, 6 ani+, 1 buc, Pokemon...",
+   "price": "?",
+   "in_stock": true,
+   "preorder": false
+  },
   "https://comenzi.bebetei.ro/jocuri-si-jucarii/jucarii/jucarii-de-plus/jucarie-plus-20-cm-diverse-modele-2-ani-pokemon-p476674": {
    "name": "Jucarie plus, 20 cm, Diverse Modele, 2 ani+, Pokemon",
    "price": "?",
-   "in_stock": false,
+   "in_stock": true,
    "preorder": false
   },
   "https://comenzi.bebetei.ro/jocuri-si-jucarii/jocuri/jocuri-de-societate/30th-battle-deck-diverse-modele-1-buc-pokemon-tcg-p481772": {
@@ -5422,12 +5428,6 @@
    "in_stock": true,
    "preorder": false
   },
-  "https://pokemania.ro/xy-2/pokemon-tcg-kanto-power-collection-mewtwo-ex-slowbro-ex": {
-   "name": "Pokémon TCG: Kanto Power Collection - Mewtwo-EX & Slowbro-EX",
-   "price": "?",
-   "in_stock": true,
-   "preorder": false
-  },
   "https://pokemania.ro/xy-2/pokemon-tcg-kanto-power-collection-dragonite-ex-pidgeot-ex": {
    "name": "Pokémon TCG: Kanto Power Collection — Dragonite-EX & Pidgeot-EX",
    "price": "?",
@@ -5544,6 +5544,12 @@
   },
   "https://pokemania.ro/team-rocket-s-glory-sv10a-kr/pachet-pokemon-tcg-scarlet-violet-team-rocket-s-glory-sv10a-mewtwo-giovanni-booster-pack-coreeana": {
    "name": "Pachet Pokémon TCG: Scarlet & Violet - Team Rocket's Glory SV10A - Mewtwo & Giovanni Booster Pack (Coreeană)",
+   "price": "?",
+   "in_stock": false,
+   "preorder": false
+  },
+  "https://pokemania.ro/pitch-black/pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box": {
+   "name": "Pokémon TCG: Mega Evolution—Pitch Black Elite Trainer Box",
    "price": "?",
    "in_stock": false,
    "preorder": false
