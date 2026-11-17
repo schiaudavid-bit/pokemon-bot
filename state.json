@@ -4900,12 +4900,6 @@
    "in_stock": true,
    "preorder": false
   },
-  "https://pokemania.ro/white-flare-black-bolt-sv11-kr/pachet-pokemon-tcg-scarlet-violet-black-bolt-booster-pack-sv11b-kr-booster-pack-coreeana": {
-   "name": "Pachet Pokémon TCG: Scarlet & Violet - Black Bolt Booster Pack SV11B KR Booster Pack (Coreeană)",
-   "price": "?",
-   "in_stock": true,
-   "preorder": false
-  },
   "https://pokemania.ro/heat-wave-arena-sv9a-jp/pachet-booster-pokemon-tcg-heat-wave-arena-jp-sv9a-japoneza-5-carti": {
    "name": "Pachet Booster Pokémon TCG Heat Wave Arena JP (SV9a Japoneză - 5 Cărți)",
    "price": "?",
@@ -5158,6 +5152,12 @@
    "in_stock": true,
    "preorder": false
   },
+  "https://pokemania.ro/151/pokemania-bundle-151-booster-packs-multilingual-en-jp-kr-pokemon-tcg-scarlet-violet-151-3-pachete": {
+   "name": "PokeMANIA Bundle 151 Booster Packs Multilingual (EN+JP+KR) - Pokémon TCG Scarlet & Violet 151 (3 Pachete)",
+   "price": "?",
+   "in_stock": true,
+   "preorder": false
+  },
   "https://pokemania.ro/pokemon-tcg": {
    "name": "Pokémon TCG",
    "price": "?",
@@ -5202,12 +5202,6 @@
   },
   "https://pokemania.ro/blog/stiri-pokemon": {
    "name": "Știri Pokémon: Fii la curent cu tot ce mișcă în lumea Pokémon!",
-   "price": "?",
-   "in_stock": true,
-   "preorder": false
-  },
-  "https://pokemania.ro/151/pokemania-bundle-151-booster-packs-multilingual-en-jp-kr-pokemon-tcg-scarlet-violet-151-3-pachete": {
-   "name": "PokeMANIA Bundle 151 Booster Packs Multilingual (EN+JP+KR) - Pokémon TCG Scarlet & Violet 151 (3 Pachete)",
    "price": "?",
    "in_stock": true,
    "preorder": false
@@ -5304,12 +5298,6 @@
   },
   "https://pokemania.ro/boxed-sets/pokemon-tcg-special-box-yu-nagaba-eevee-japoneza": {
    "name": "Pokémon TCG Special Box Yu Nagaba Eevee (Japoneză)",
-   "price": "?",
-   "in_stock": true,
-   "preorder": false
-  },
-  "https://pokemania.ro/promo-packs/pokemon-tcg-iono-272-s-p-japanese-promo-pack-sealed-japonez": {
-   "name": "Pokémon TCG: Iono (272/S-P) Japanese Promo Pack - Sealed (Japonez)",
    "price": "?",
    "in_stock": true,
    "preorder": false
@@ -5662,6 +5650,12 @@
    "in_stock": false,
    "preorder": false
   },
+  "https://pokemania.ro/white-flare-black-bolt-sv11-kr/pachet-pokemon-tcg-scarlet-violet-black-bolt-booster-pack-sv11b-kr-booster-pack-coreeana": {
+   "name": "Pachet Pokémon TCG: Scarlet & Violet - Black Bolt Booster Pack SV11B KR Booster Pack (Coreeană)",
+   "price": "?",
+   "in_stock": false,
+   "preorder": false
+  },
   "https://pokemania.ro/pokemon-25th-anniversary/pachet-carti-pokemon-tcg-25th-anniversary-collection-booster-pack-jp-1-pachet-booster": {
    "name": "Pachet Carti Pokémon TCG: 25th Anniversary Collection Booster Pack JP - 1 Pachet Booster",
    "price": "?",
@@ -5913,6 +5907,12 @@
    "price": "?",
    "in_stock": false,
    "preorder": false
+  },
+  "https://pokemania.ro/prismatic-evolutions/pachet-carti-pokemon-tcg-s-v-8-5-prismatic-evolutions-en-booster-pack-1-pachet-booster": {
+   "name": "Pachet Carti Pokémon TCG S&V 8.5 Prismatic Evolutions EN Booster Pack - 1 Pachet Booster",
+   "price": "?",
+   "in_stock": false,
+   "preorder": false
   }
  },
  "Pokemania Precomenzi": {
@@ -6108,14 +6108,14 @@
    "in_stock": false,
    "preorder": true
   },
-  "https://pokemania.ro/delta-reign/pokemon-tcg-mega-evolution-delta-reign-premium-checklane-blister-delphox": {
-   "name": "Pokémon TCG: Mega Evolution - Delta Reign Premium Checklane Blister (Delphox)",
+  "https://pokemania.ro/delta-reign/pokemon-tcg-mega-evolution-delta-reign-premium-checklane-blister-ampharos": {
+   "name": "Pokémon TCG: Mega Evolution - Delta Reign Premium Checklane Blister (Ampharos)",
    "price": "?",
    "in_stock": false,
    "preorder": true
   },
-  "https://pokemania.ro/delta-reign/pokemon-tcg-mega-evolution-delta-reign-premium-checklane-blister-ampharos": {
-   "name": "Pokémon TCG: Mega Evolution - Delta Reign Premium Checklane Blister (Ampharos)",
+  "https://pokemania.ro/delta-reign/pokemon-tcg-mega-evolution-delta-reign-premium-checklane-blister-delphox": {
+   "name": "Pokémon TCG: Mega Evolution - Delta Reign Premium Checklane Blister (Delphox)",
    "price": "?",
    "in_stock": false,
    "preorder": true
