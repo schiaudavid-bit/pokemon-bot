@@ -670,6 +670,12 @@
   }
  },
  "Red Goblin": {
+  "https://redgoblin.ro/products/pokemon-tcg-30th-celebration-ditto-premium-collection": {
+   "name": "Pokemon TCG - 30th Celebration - Ditto Premium Collection",
+   "price": "299.00 lei",
+   "in_stock": true,
+   "preorder": false
+  },
   "https://redgoblin.ro/products/pokemon-tcg-delta-reign-booster-pack": {
    "name": "Pokemon TCG - Delta Reign Booster Pack",
    "price": "33.00 lei",
@@ -3810,12 +3816,6 @@
   },
   "https://redgoblin.ro/products/set-2-figurine-articulate-pokemon-torchic-clefairy": {
    "name": "Set 2 Figurine Articulate Pokemon Torchic & Clefairy",
-   "price": "53.00 lei",
-   "in_stock": false,
-   "preorder": false
-  },
-  "https://redgoblin.ro/products/set-2-figurine-articulate-pokemon-mudkip-geodude": {
-   "name": "Set 2 Figurine Articulate Pokemon Mudkip & Geodude",
    "price": "53.00 lei",
    "in_stock": false,
    "preorder": false
