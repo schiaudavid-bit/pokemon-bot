@@ -5266,6 +5266,12 @@
    "in_stock": true,
    "preorder": false
   },
+  "https://pokemania.ro/promo-packs/pokemon-tcg-ancient-mew-promo-card": {
+   "name": "Pokémon TCG: Ancient Mew Promo Card",
+   "price": "?",
+   "in_stock": true,
+   "preorder": false
+  },
   "https://pokemania.ro/booster-display-boxes/pokemon-tcg-mega-dream-ex-high-class-booster-box-chineza-traditionala-10-pachete": {
    "name": "Pokémon TCG: Mega Dream ex High-Class Booster Box (chineză tradițională - 10 pachete)",
    "price": "?",
@@ -5470,6 +5476,12 @@
    "in_stock": true,
    "preorder": false
   },
+  "https://pokemania.ro/promo-packs/pokemon-tcg-the-first-movie-full-promo-cards-set-4-cards-set": {
+   "name": "Pokémon TCG: The First Movie Full Promo Cards Set (4 Cards Set)",
+   "price": "?",
+   "in_stock": true,
+   "preorder": false
+  },
   "https://pokemania.ro/promo-packs/pokemon-tcg-the-first-movie-mewtwo-promo-card-3-1999": {
    "name": "Pokémon TCG: The First Movie - Mewtwo Promo Card #3 (1999)",
    "price": "?",
@@ -5490,12 +5502,6 @@
   },
   "https://pokemania.ro/promo-packs/pokemon-tcg-the-first-movie-pikachu-promo-card-4-1999": {
    "name": "Pokémon TCG: The First Movie - Pikachu Promo Card #4 (1999)",
-   "price": "?",
-   "in_stock": true,
-   "preorder": false
-  },
-  "https://pokemania.ro/promo-packs/pokemon-tcg-the-first-movie-full-promo-cards-set-4-cards-set": {
-   "name": "Pokémon TCG: The First Movie Full Promo Cards Set (4 Cards Set)",
    "price": "?",
    "in_stock": true,
    "preorder": false
@@ -5568,12 +5574,6 @@
   },
   "https://pokemania.ro/terastal-festival-sv8a-jp/pachet-pokemon-tcg-scarlet-violet-terastal-festival-ex-sv8a-jp-booster-pack-japoneza": {
    "name": "Pachet Pokémon TCG Scarlet & Violet Terastal Festival ex sv8a JP Booster Pack (Japoneza)",
-   "price": "?",
-   "in_stock": false,
-   "preorder": false
-  },
-  "https://pokemania.ro/team-rocket-s-glory-sv10a-kr/pachet-pokemon-tcg-scarlet-violet-team-rocket-s-glory-sv10a-mewtwo-giovanni-booster-pack-coreeana": {
-   "name": "Pachet Pokémon TCG: Scarlet & Violet - Team Rocket's Glory SV10A - Mewtwo & Giovanni Booster Pack (Coreeană)",
    "price": "?",
    "in_stock": false,
    "preorder": false
