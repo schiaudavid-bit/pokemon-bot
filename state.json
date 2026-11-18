@@ -5056,6 +5056,12 @@
    "in_stock": true,
    "preorder": false
   },
+  "https://pokemania.ro/delta-reign/pokemon-tcg-mega-evolution-delta-reign-premium-checklane-blister-delphox": {
+   "name": "Pokémon TCG: Mega Evolution - Delta Reign Premium Checklane Blister (Delphox)",
+   "price": "?",
+   "in_stock": true,
+   "preorder": false
+  },
   "https://pokemania.ro/prismatic-evolutions/pokemon-tcg-scarlet-violet-prismatic-evolutions-super-premium-collection": {
    "name": "Pokémon TCG: Scarlet & Violet—Prismatic Evolutions Super-Premium Collection ✨🌈",
    "price": "?",
@@ -5182,12 +5188,6 @@
    "in_stock": true,
    "preorder": false
   },
-  "https://pokemania.ro/promo-packs/pokemon-tcg-mcdonald-s-promo-card-pack-sealed-japonez": {
-   "name": "Pokémon TCG: McDonald's Promo Card Pack - Sealed (Japonez)",
-   "price": "?",
-   "in_stock": true,
-   "preorder": false
-  },
   "https://pokemania.ro/pokemon-tcg": {
    "name": "Pokémon TCG",
    "price": "?",
@@ -5232,6 +5232,12 @@
   },
   "https://pokemania.ro/blog/stiri-pokemon": {
    "name": "Știri Pokémon: Fii la curent cu tot ce mișcă în lumea Pokémon!",
+   "price": "?",
+   "in_stock": true,
+   "preorder": false
+  },
+  "https://pokemania.ro/promo-packs/pokemon-tcg-mcdonald-s-promo-card-pack-sealed-japonez": {
+   "name": "Pokémon TCG: McDonald's Promo Card Pack - Sealed (Japonez)",
    "price": "?",
    "in_stock": true,
    "preorder": false
@@ -5577,12 +5583,6 @@
    "price": "?",
    "in_stock": false,
    "preorder": false
-  },
-  "https://pokemania.ro/30th-celebration-2/pokemon-tcg-30th-celebration-elite-trainer-box": {
-   "name": "Pokemon TCG: 30th Celebration Elite Trainer Box",
-   "price": "?",
-   "in_stock": false,
-   "preorder": false
   }
  },
  "Pokemania Precomenzi": {
@@ -5642,6 +5642,12 @@
   },
   "https://pokemania.ro/precomenzi/pokemon-mega-evolution": {
    "name": "Pokemon Mega Evolution",
+   "price": "?",
+   "in_stock": true,
+   "preorder": true
+  },
+  "https://pokemania.ro/delta-reign/pokemon-tcg-mega-evolution-delta-reign-premium-checklane-blister-delphox": {
+   "name": "Pokémon TCG: Mega Evolution - Delta Reign Premium Checklane Blister (Delphox)",
    "price": "?",
    "in_stock": true,
    "preorder": true
@@ -5780,12 +5786,6 @@
   },
   "https://pokemania.ro/delta-reign/pokemon-tcg-mega-evolution-delta-reign-premium-checklane-blister-ampharos": {
    "name": "Pokémon TCG: Mega Evolution - Delta Reign Premium Checklane Blister (Ampharos)",
-   "price": "?",
-   "in_stock": false,
-   "preorder": true
-  },
-  "https://pokemania.ro/delta-reign/pokemon-tcg-mega-evolution-delta-reign-premium-checklane-blister-delphox": {
-   "name": "Pokémon TCG: Mega Evolution - Delta Reign Premium Checklane Blister (Delphox)",
    "price": "?",
    "in_stock": false,
    "preorder": true
