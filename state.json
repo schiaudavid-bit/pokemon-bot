@@ -5050,6 +5050,12 @@
    "in_stock": true,
    "preorder": false
   },
+  "https://pokemania.ro/prismatic-evolutions/pokemon-tcg-scarlet-violet-prismatic-evolutions-super-premium-collection": {
+   "name": "Pokémon TCG: Scarlet & Violet—Prismatic Evolutions Super-Premium Collection ✨🌈",
+   "price": "?",
+   "in_stock": true,
+   "preorder": false
+  },
   "https://pokemania.ro/temporal-forces/cutie-pokemon-tcg-scarlet-violet-5-temporal-forces-booster-display-box-36-packs": {
    "name": "Cutie Pokémon TCG: Scarlet & Violet 5 Temporal Forces Booster Display Box (36 Packs)",
    "price": "?",
@@ -5058,12 +5064,6 @@
   },
   "https://pokemania.ro/delta-reign/pokemon-tcg-mega-evolution-delta-reign-premium-checklane-blister-delphox": {
    "name": "Pokémon TCG: Mega Evolution - Delta Reign Premium Checklane Blister (Delphox)",
-   "price": "?",
-   "in_stock": true,
-   "preorder": false
-  },
-  "https://pokemania.ro/prismatic-evolutions/pokemon-tcg-scarlet-violet-prismatic-evolutions-super-premium-collection": {
-   "name": "Pokémon TCG: Scarlet & Violet—Prismatic Evolutions Super-Premium Collection ✨🌈",
    "price": "?",
    "in_stock": true,
    "preorder": false
@@ -5266,12 +5266,6 @@
    "in_stock": true,
    "preorder": false
   },
-  "https://pokemania.ro/promo-packs/pokemon-tcg-ancient-mew-promo-card": {
-   "name": "Pokémon TCG: Ancient Mew Promo Card",
-   "price": "?",
-   "in_stock": true,
-   "preorder": false
-  },
   "https://pokemania.ro/booster-display-boxes/pokemon-tcg-mega-dream-ex-high-class-booster-box-chineza-traditionala-10-pachete": {
    "name": "Pokémon TCG: Mega Dream ex High-Class Booster Box (chineză tradițională - 10 pachete)",
    "price": "?",
@@ -5382,6 +5376,12 @@
   },
   "https://pokemania.ro/promo-packs/pokemon-tcg-scarlet-violet-2024-event-organizer-trainer-s-pack-editie-japoneza": {
    "name": "Pokémon TCG: Scarlet & Violet 2024 Event Organizer Trainer's Pack (Ediție japoneză)",
+   "price": "?",
+   "in_stock": true,
+   "preorder": false
+  },
+  "https://pokemania.ro/promo-packs/pokemon-tcg-ancient-mew-promo-card": {
+   "name": "Pokémon TCG: Ancient Mew Promo Card",
    "price": "?",
    "in_stock": true,
    "preorder": false
