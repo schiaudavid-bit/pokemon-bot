@@ -4064,18 +4064,6 @@
    "in_stock": false,
    "preorder": false
   },
-  "https://www.lexshop.ro/pokemon-tcg/pokemon-v-union-special-collection-zacian.html": {
-   "name": "Pokemon V Union Special Collection Zacian",
-   "price": "160 RON",
-   "in_stock": true,
-   "preorder": false
-  },
-  "https://www.lexshop.ro/pokemon-tcg/pokemon-v-union-special-collection-greninja.html": {
-   "name": "Pokemon V Union Special Collection Greninja",
-   "price": "160 RON",
-   "in_stock": true,
-   "preorder": false
-  },
   "https://www.lexshop.ro/pokemon-tcg/pokemon-collector-chest-tin-2020.html": {
    "name": "Pokemon: Collector Chest Tin 2020",
    "price": "150.35 RON",
@@ -4097,6 +4085,18 @@
   "https://www.lexshop.ro/pokemon-tcg/pokemon-sword-and-shiled-6-chilling-reign-elite-trainer-box-shadow.html": {
    "name": "Pokemon Sword and Shiled 6 Chilling Reign Elite Trainer Box Shadow",
    "price": "319 RON",
+   "in_stock": false,
+   "preorder": false
+  },
+  "https://www.lexshop.ro/pokemon-tcg/pokemon-fusion-strike-premium-checklane-blister-rillaboom.html": {
+   "name": "Pokemon Fusion Strike Premium Checklane Blister Rillaboom",
+   "price": "27.2 RON",
+   "in_stock": false,
+   "preorder": false
+  },
+  "https://www.lexshop.ro/pokemon-tcg/pokemon-fusion-strike-hoopa.html": {
+   "name": "Pokemon Fusion Strike Hoopa",
+   "price": "179 RON",
    "in_stock": false,
    "preorder": false
   },
@@ -4996,6 +4996,12 @@
    "in_stock": true,
    "preorder": false
   },
+  "https://pokemania.ro/30th-celebration-2/pokemon-tcg-30th-celebration-figure-collection-mewtwo": {
+   "name": "Pokemon TCG: 30th Celebration Figure Collection - Mewtwo",
+   "price": "?",
+   "in_stock": true,
+   "preorder": false
+  },
   "https://pokemania.ro/ninja-spinner-m1-jp/pokemon-tcg-mega-evolution-ninja-spinner-m1-booster-pack-japonez": {
    "name": "Pokémon TCG: Mega Evolution - Ninja Spinner [M1] Booster Pack (Japonez)",
    "price": "?",
@@ -5170,12 +5176,6 @@
    "in_stock": true,
    "preorder": false
   },
-  "https://pokemania.ro/promo-packs/pokemon-tcg-mcdonald-s-promo-card-pack-sealed-japonez": {
-   "name": "Pokémon TCG: McDonald's Promo Card Pack - Sealed (Japonez)",
-   "price": "?",
-   "in_stock": true,
-   "preorder": false
-  },
   "https://pokemania.ro/pokemon-tcg": {
    "name": "Pokémon TCG",
    "price": "?",
@@ -5220,6 +5220,12 @@
   },
   "https://pokemania.ro/blog/stiri-pokemon": {
    "name": "Știri Pokémon: Fii la curent cu tot ce mișcă în lumea Pokémon!",
+   "price": "?",
+   "in_stock": true,
+   "preorder": false
+  },
+  "https://pokemania.ro/promo-packs/pokemon-tcg-mcdonald-s-promo-card-pack-sealed-japonez": {
+   "name": "Pokémon TCG: McDonald's Promo Card Pack - Sealed (Japonez)",
    "price": "?",
    "in_stock": true,
    "preorder": false
@@ -5562,12 +5568,6 @@
   },
   "https://pokemania.ro/30th-celebration-2/pokemon-tcg-30th-celebration-elite-trainer-box": {
    "name": "Pokemon TCG: 30th Celebration Elite Trainer Box",
-   "price": "?",
-   "in_stock": false,
-   "preorder": false
-  },
-  "https://pokemania.ro/pitch-black/pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box": {
-   "name": "Pokémon TCG: Mega Evolution—Pitch Black Elite Trainer Box",
    "price": "?",
    "in_stock": false,
    "preorder": false
