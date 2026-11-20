@@ -94,6 +94,12 @@
    "in_stock": true,
    "preorder": false
   },
+  "https://krit.ro/en/produs/pokemon-tcg-me06-delta-reign-elite-trainer-box": {
+   "name": "Pokemon TCG: ME06 - Delta Reign - Elite Trainer Box 349.99 lei",
+   "price": "?",
+   "in_stock": true,
+   "preorder": false
+  },
   "https://krit.ro/en/produs/pokemon-tcg-me06-delta-reign-booster-box": {
    "name": "Pokemon TCG: ME06 - Delta Reign - Booster Box 999.99 lei",
    "price": "?",
@@ -186,12 +192,6 @@
   },
   "https://krit.ro/en/produs/pokemon-tcg-me06-delta-reign-3-pack-blister-seel": {
    "name": "Pokemon TCG: ME06 - Delta Reign - 3-Pack Blister (Seel) 83.99 lei",
-   "price": "?",
-   "in_stock": false,
-   "preorder": false
-  },
-  "https://krit.ro/en/produs/pokemon-tcg-me06-delta-reign-elite-trainer-box": {
-   "name": "Pokemon TCG: ME06 - Delta Reign - Elite Trainer Box 349.99 lei",
    "price": "?",
    "in_stock": false,
    "preorder": false
@@ -907,7 +907,7 @@
   "https://redgoblin.ro/products/pokemon-tcg-delta-reign-premium-checklane-blister-delphox": {
    "name": "Pokemon TCG - Delta Reign Premium Checklane Blister - Delphox",
    "price": "45.00 lei",
-   "in_stock": true,
+   "in_stock": false,
    "preorder": false
   },
   "https://redgoblin.ro/products/pokemon-tcg-delta-reign-booster-display": {
