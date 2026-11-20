@@ -4258,13 +4258,13 @@
   },
   "https://www.lexshop.ro/pokemon-tcg/pokemon-palkia-vstar-premium-pin-box.html": {
    "name": "Pokemon Palkia Vstar Premium Pin Box",
-   "price": "190 RON",
+   "price": "269 RON",
    "in_stock": false,
    "preorder": false
   },
   "https://www.lexshop.ro/pokemon-tcg/pokemon-zoroark-vstar-premium-pin-box.html": {
    "name": "Pokemon Zoroark Vstar Premium Pin Box",
-   "price": "180 RON",
+   "price": "269 RON",
    "in_stock": false,
    "preorder": false
   },
@@ -4282,7 +4282,7 @@
   },
   "https://www.lexshop.ro/pokemon-tcg/pokemon-scarlet-and-violet-1-booster.html": {
    "name": "Pokemon Scarlet and Violet 1 Booster",
-   "price": "23 RON",
+   "price": "31 RON",
    "in_stock": false,
    "preorder": false
   },
@@ -4318,31 +4318,31 @@
   },
   "https://www.lexshop.ro/pokemon-tcg/pokemon-cyclizar-ex-box.html": {
    "name": "Pokemon Cyclizar EX Box",
-   "price": "110 RON",
+   "price": "149 RON",
    "in_stock": false,
    "preorder": false
   },
   "https://www.lexshop.ro/pokemon-tcg/pokemon-hisuian-electrode-november-v-box.html": {
    "name": "Pokemon Hisuian Electrode November V Box",
-   "price": "119 RON",
+   "price": "149 RON",
    "in_stock": false,
    "preorder": false
   },
   "https://www.lexshop.ro/pokemon-tcg/pokemon-scarlet-and-violet-base-miniportofolio.html": {
    "name": "Pokemon Scarlet and Violet base Miniportofolio",
-   "price": "34 RON",
+   "price": "49 RON",
    "in_stock": false,
    "preorder": false
   },
   "https://www.lexshop.ro/pokemon-tcg/pokemon-league-battle-deck-origin-forme-palkia-vstar.html": {
    "name": "Pokemon League Battle Deck Origin Forme Palkia VStar",
-   "price": "153 RON",
+   "price": "219 RON",
    "in_stock": false,
    "preorder": false
   },
   "https://www.lexshop.ro/pokemon-tcg/pokemon-paldea-pin-collection.html": {
    "name": "Pokemon Paldea Pin Collection",
-   "price": "100 RON",
+   "price": "149 RON",
    "in_stock": false,
    "preorder": false
   },
@@ -4360,13 +4360,13 @@
   },
   "https://www.lexshop.ro/pokemon-tcg/pokemon-paldea-evolved-booster.html": {
    "name": "Pokemon Paldea Evolved Booster",
-   "price": "23 RON",
+   "price": "31 RON",
    "in_stock": false,
    "preorder": false
   },
   "https://www.lexshop.ro/pokemon-tcg/pokemon-tcg-scarlet-violet-2-paldea-evolved-build-battle-stadium-box.html": {
    "name": "Pokemon TCG: Scarlet & Violet 2 - Paldea Evolved Build & Battle Stadium Box",
-   "price": "293 RON",
+   "price": "419 RON",
    "in_stock": false,
    "preorder": false
   },
@@ -4384,19 +4384,19 @@
   },
   "https://www.lexshop.ro/pokemon-tcg/pokemon-tcg-scarlet-violet-paldean-fates-tech-sticker-collection.html": {
    "name": "Pokemon TCG: Scarlet & Violet—Paldean Fates Tech Sticker Collection",
-   "price": "93 RON",
+   "price": "129 RON",
    "in_stock": false,
    "preorder": false
   },
   "https://www.lexshop.ro/pokemon-tcg/pokemon-tcg-scarlet-violet-paldean-fates-mini-tin.html": {
    "name": "Pokemon TCG: Scarlet & Violet-Paldean Fates Mini Tin",
-   "price": "52 RON",
+   "price": "75 RON",
    "in_stock": false,
    "preorder": false
   },
   "https://www.lexshop.ro/pokemon-tcg/pokemon-tcg-scarlet-violet-paldean-fates-pokemon-ex-premium-collection.html": {
    "name": "Pokemon TCG: Scarlet & Violet Paldean Fates Pokemon ex Premium Collection",
-   "price": "240 RON",
+   "price": "389 RON",
    "in_stock": false,
    "preorder": false
   },
@@ -4996,12 +4996,6 @@
    "in_stock": true,
    "preorder": false
   },
-  "https://pokemania.ro/30th-celebration-2/pokemon-tcg-30th-celebration-figure-collection-mewtwo": {
-   "name": "Pokemon TCG: 30th Celebration Figure Collection - Mewtwo",
-   "price": "?",
-   "in_stock": true,
-   "preorder": false
-  },
   "https://pokemania.ro/ninja-spinner-m1-jp/pokemon-tcg-mega-evolution-ninja-spinner-m1-booster-pack-japonez": {
    "name": "Pokémon TCG: Mega Evolution - Ninja Spinner [M1] Booster Pack (Japonez)",
    "price": "?",
@@ -5176,6 +5170,12 @@
    "in_stock": true,
    "preorder": false
   },
+  "https://pokemania.ro/promo-packs/pokemon-tcg-mcdonald-s-promo-card-pack-sealed-japonez": {
+   "name": "Pokémon TCG: McDonald's Promo Card Pack - Sealed (Japonez)",
+   "price": "?",
+   "in_stock": true,
+   "preorder": false
+  },
   "https://pokemania.ro/pokemon-tcg": {
    "name": "Pokémon TCG",
    "price": "?",
@@ -5220,12 +5220,6 @@
   },
   "https://pokemania.ro/blog/stiri-pokemon": {
    "name": "Știri Pokémon: Fii la curent cu tot ce mișcă în lumea Pokémon!",
-   "price": "?",
-   "in_stock": true,
-   "preorder": false
-  },
-  "https://pokemania.ro/promo-packs/pokemon-tcg-mcdonald-s-promo-card-pack-sealed-japonez": {
-   "name": "Pokémon TCG: McDonald's Promo Card Pack - Sealed (Japonez)",
    "price": "?",
    "in_stock": true,
    "preorder": false
@@ -5571,6 +5565,12 @@
    "price": "?",
    "in_stock": false,
    "preorder": false
+  },
+  "https://pokemania.ro/pitch-black/pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box": {
+   "name": "Pokémon TCG: Mega Evolution—Pitch Black Elite Trainer Box",
+   "price": "?",
+   "in_stock": false,
+   "preorder": false
   }
  },
  "Pokemania Precomenzi": {
@@ -5630,12 +5630,6 @@
   },
   "https://pokemania.ro/precomenzi/pokemon-mega-evolution": {
    "name": "Pokemon Mega Evolution",
-   "price": "?",
-   "in_stock": true,
-   "preorder": true
-  },
-  "https://pokemania.ro/30th-celebration-2/pokemon-tcg-30th-celebration-figure-collection-mewtwo": {
-   "name": "Pokemon TCG: 30th Celebration Figure Collection - Mewtwo",
    "price": "?",
    "in_stock": true,
    "preorder": true
@@ -5726,6 +5720,12 @@
   },
   "https://pokemania.ro/30th-celebration-2/pokemon-tcg-30th-celebration-battle-deck-espeon-ex": {
    "name": "Pokemon TCG: 30th Celebration Battle Deck - Espeon ex",
+   "price": "?",
+   "in_stock": false,
+   "preorder": true
+  },
+  "https://pokemania.ro/30th-celebration-2/pokemon-tcg-30th-celebration-figure-collection-mewtwo": {
+   "name": "Pokemon TCG: 30th Celebration Figure Collection - Mewtwo",
    "price": "?",
    "in_stock": false,
    "preorder": true
