@@ -4067,13 +4067,13 @@
   "https://www.lexshop.ro/pokemon-tcg/pokemon-v-union-special-collection-zacian.html": {
    "name": "Pokemon V Union Special Collection Zacian",
    "price": "160 RON",
-   "in_stock": false,
+   "in_stock": true,
    "preorder": false
   },
   "https://www.lexshop.ro/pokemon-tcg/pokemon-v-union-special-collection-greninja.html": {
    "name": "Pokemon V Union Special Collection Greninja",
    "price": "160 RON",
-   "in_stock": false,
+   "in_stock": true,
    "preorder": false
   },
   "https://www.lexshop.ro/pokemon-tcg/pokemon-collector-chest-tin-2020.html": {
@@ -4097,18 +4097,6 @@
   "https://www.lexshop.ro/pokemon-tcg/pokemon-sword-and-shiled-6-chilling-reign-elite-trainer-box-shadow.html": {
    "name": "Pokemon Sword and Shiled 6 Chilling Reign Elite Trainer Box Shadow",
    "price": "319 RON",
-   "in_stock": false,
-   "preorder": false
-  },
-  "https://www.lexshop.ro/pokemon-tcg/pokemon-fusion-strike-premium-checklane-blister-rillaboom.html": {
-   "name": "Pokemon Fusion Strike Premium Checklane Blister Rillaboom",
-   "price": "27.2 RON",
-   "in_stock": false,
-   "preorder": false
-  },
-  "https://www.lexshop.ro/pokemon-tcg/pokemon-fusion-strike-hoopa.html": {
-   "name": "Pokemon Fusion Strike Hoopa",
-   "price": "179 RON",
    "in_stock": false,
    "preorder": false
   },
