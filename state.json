@@ -4930,6 +4930,12 @@
    "in_stock": true,
    "preorder": false
   },
+  "https://pokemania.ro/white-flare-black-bolt-sv11-kr/pachet-pokemon-tcg-scarlet-violet-black-bolt-booster-pack-sv11b-kr-booster-pack-coreeana": {
+   "name": "Pachet Pokémon TCG: Scarlet & Violet - Black Bolt Booster Pack SV11B KR Booster Pack (Coreeană)",
+   "price": "?",
+   "in_stock": true,
+   "preorder": false
+  },
   "https://pokemania.ro/heat-wave-arena-sv9a-jp/pachet-booster-pokemon-tcg-heat-wave-arena-jp-sv9a-japoneza-5-carti": {
    "name": "Pachet Booster Pokémon TCG Heat Wave Arena JP (SV9a Japoneză - 5 Cărți)",
    "price": "?",
@@ -5182,12 +5188,6 @@
    "in_stock": true,
    "preorder": false
   },
-  "https://pokemania.ro/151/pokemania-bundle-151-booster-packs-multilingual-en-jp-kr-pokemon-tcg-scarlet-violet-151-3-pachete": {
-   "name": "PokeMANIA Bundle 151 Booster Packs Multilingual (EN+JP+KR) - Pokémon TCG Scarlet & Violet 151 (3 Pachete)",
-   "price": "?",
-   "in_stock": true,
-   "preorder": false
-  },
   "https://pokemania.ro/pokemon-tcg": {
    "name": "Pokémon TCG",
    "price": "?",
@@ -5232,6 +5232,12 @@
   },
   "https://pokemania.ro/blog/stiri-pokemon": {
    "name": "Știri Pokémon: Fii la curent cu tot ce mișcă în lumea Pokémon!",
+   "price": "?",
+   "in_stock": true,
+   "preorder": false
+  },
+  "https://pokemania.ro/151/pokemania-bundle-151-booster-packs-multilingual-en-jp-kr-pokemon-tcg-scarlet-violet-151-3-pachete": {
+   "name": "PokeMANIA Bundle 151 Booster Packs Multilingual (EN+JP+KR) - Pokémon TCG Scarlet & Violet 151 (3 Pachete)",
    "price": "?",
    "in_stock": true,
    "preorder": false
@@ -5676,12 +5682,6 @@
   },
   "https://pokemania.ro/phantasmal-flames/pokemon-tcg-spring-charizard-ex-tin-26q1": {
    "name": "Pokemon TCG: Spring Charizard ex Tin 26Q1",
-   "price": "?",
-   "in_stock": false,
-   "preorder": false
-  },
-  "https://pokemania.ro/white-flare-black-bolt-sv11-kr/pachet-pokemon-tcg-scarlet-violet-black-bolt-booster-pack-sv11b-kr-booster-pack-coreeana": {
-   "name": "Pachet Pokémon TCG: Scarlet & Violet - Black Bolt Booster Pack SV11B KR Booster Pack (Coreeană)",
    "price": "?",
    "in_stock": false,
    "preorder": false
