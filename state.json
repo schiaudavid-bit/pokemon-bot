@@ -5038,12 +5038,6 @@
    "in_stock": true,
    "preorder": false
   },
-  "https://pokemania.ro/temporal-forces/cutie-pokemon-tcg-scarlet-violet-5-temporal-forces-booster-display-box-36-packs": {
-   "name": "Cutie Pokémon TCG: Scarlet & Violet 5 Temporal Forces Booster Display Box (36 Packs)",
-   "price": "?",
-   "in_stock": true,
-   "preorder": false
-  },
   "https://pokemania.ro/twilight-masquerade/cutie-pokemon-tcg-scarlet-violet-6-twilight-masquerade-booster-display-box-36-packs": {
    "name": "Cutie Pokémon TCG Scarlet & Violet 6 Twilight Masquerade Booster Display Box (36 Packs)",
    "price": "?",
@@ -5170,6 +5164,12 @@
    "in_stock": true,
    "preorder": false
   },
+  "https://pokemania.ro/151/pokemania-bundle-151-booster-packs-multilingual-en-jp-kr-pokemon-tcg-scarlet-violet-151-3-pachete": {
+   "name": "PokeMANIA Bundle 151 Booster Packs Multilingual (EN+JP+KR) - Pokémon TCG Scarlet & Violet 151 (3 Pachete)",
+   "price": "?",
+   "in_stock": true,
+   "preorder": false
+  },
   "https://pokemania.ro/pokemon-tcg": {
    "name": "Pokémon TCG",
    "price": "?",
@@ -5218,12 +5218,6 @@
    "in_stock": true,
    "preorder": false
   },
-  "https://pokemania.ro/151/pokemania-bundle-151-booster-packs-multilingual-en-jp-kr-pokemon-tcg-scarlet-violet-151-3-pachete": {
-   "name": "PokeMANIA Bundle 151 Booster Packs Multilingual (EN+JP+KR) - Pokémon TCG Scarlet & Violet 151 (3 Pachete)",
-   "price": "?",
-   "in_stock": true,
-   "preorder": false
-  },
   "https://pokemania.ro/mega-evolution/cutie-display-booster-pokemon-tcg-mega-evolution-enhanced-booster-display-box-36-packs-promo-card": {
    "name": "Cutie Display Booster Pokémon TCG Mega Evolution Enhanced Booster Display Box (36 Packs + Promo Card)",
    "price": "?",
@@ -5262,12 +5256,6 @@
   },
   "https://pokemania.ro/sword-shield/pokemon-tcg-sword-shield-base-set-1-booster-pack-english-2020": {
    "name": "Pokémon TCG: Sword & Shield Base Set - 1 Booster Pack (English, 2020)",
-   "price": "?",
-   "in_stock": true,
-   "preorder": false
-  },
-  "https://pokemania.ro/sword-shield/pokemon-tcg-sword-and-shield-elite-trainer-box-plus-zacian": {
-   "name": "Pokémon TCG: Sword and Shield Elite Trainer Box Plus - Zacian",
    "price": "?",
    "in_stock": true,
    "preorder": false
@@ -5562,6 +5550,18 @@
   },
   "https://pokemania.ro/30th-celebration-2/pokemon-tcg-30th-celebration-elite-trainer-box": {
    "name": "Pokemon TCG: 30th Celebration Elite Trainer Box",
+   "price": "?",
+   "in_stock": false,
+   "preorder": false
+  },
+  "https://pokemania.ro/battle-partners-sv9-kr/pachet-pokemon-tcg-scarlet-violet-battle-partners-sv9-kr-booster-pack-coreeana": {
+   "name": "Pachet Pokémon TCG: Scarlet & Violet - Battle Partners SV9 KR Booster Pack (Coreeană)",
+   "price": "?",
+   "in_stock": false,
+   "preorder": false
+  },
+  "https://pokemania.ro/journey-together/pachet-carti-pokemon-tcg-journey-together-booster-pack-scarlet-violet-9-10-carti": {
+   "name": "Pachet Carti Pokémon TCG Journey Together Booster Pack - Scarlet & Violet 9 (10 Carti)",
    "price": "?",
    "in_stock": false,
    "preorder": false
