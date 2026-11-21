@@ -4034,15 +4034,15 @@
    "in_stock": false,
    "preorder": false
   },
-  "https://www.lexshop.ro/pokemon-tcg/pokemon-tcg-30th-celebration-eevee-blister-2-boostere-promo-engleza.html": {
-   "name": "Pokemon TCG 30th Celebration Eevee Blister - 2 Boostere + Promo - Engleza",
-   "price": "129 RON",
-   "in_stock": false,
-   "preorder": false
-  },
   "https://www.lexshop.ro/pokemon-tcg/pokemon-tcg-30th-celebration-poster-collection-3-boostere-3-promo-cards.html": {
    "name": "Pokemon TCG 30th Celebration Poster Collection - 3 Boostere + 3 Promo Cards",
    "price": "239 RON",
+   "in_stock": false,
+   "preorder": false
+  },
+  "https://www.lexshop.ro/pokemon-tcg/pokemon-tcg-30th-celebration-eevee-blister-2-boostere-promo-engleza.html": {
+   "name": "Pokemon TCG 30th Celebration Eevee Blister - 2 Boostere + Promo - Engleza",
+   "price": "129 RON",
    "in_stock": false,
    "preorder": false
   },
@@ -4984,14 +4984,14 @@
    "in_stock": true,
    "preorder": false
   },
-  "https://pokemania.ro/paradox-rift/pachet-carti-pokemon-tcg-scarlet-violet-4-paradox-rift-en-booster-pack-1-pachet-booster": {
-   "name": "Pachet Carti Pokémon TCG Scarlet & Violet 4 Paradox Rift EN Booster Pack - 1 Pachet Booster",
+  "https://pokemania.ro/chaos-rising/pokemon-tcg-mega-evolution-chaos-rising-sleeved-booster": {
+   "name": "Pokémon TCG: Mega Evolution—Chaos Rising Sleeved Booster",
    "price": "?",
    "in_stock": true,
    "preorder": false
   },
-  "https://pokemania.ro/chaos-rising/pokemon-tcg-mega-evolution-chaos-rising-sleeved-booster": {
-   "name": "Pokémon TCG: Mega Evolution—Chaos Rising Sleeved Booster",
+  "https://pokemania.ro/paradox-rift/pachet-carti-pokemon-tcg-scarlet-violet-4-paradox-rift-en-booster-pack-1-pachet-booster": {
+   "name": "Pachet Carti Pokémon TCG Scarlet & Violet 4 Paradox Rift EN Booster Pack - 1 Pachet Booster",
    "price": "?",
    "in_stock": true,
    "preorder": false
@@ -5020,6 +5020,12 @@
    "in_stock": true,
    "preorder": false
   },
+  "https://pokemania.ro/chaos-rising/pokemon-tcg-league-battle-deck-mega-lucario-ex": {
+   "name": "Pokémon TCG: League Battle Deck Mega Lucario ex",
+   "price": "?",
+   "in_stock": true,
+   "preorder": false
+  },
   "https://pokemania.ro/chaos-rising/pokemon-tcg-mega-evolution-chaos-rising-booster-pack-10-carti": {
    "name": "Pokémon TCG: Mega Evolution-Chaos Rising Booster Pack (10 cărți)",
    "price": "?",
@@ -5034,12 +5040,6 @@
   },
   "https://pokemania.ro/prismatic-evolutions/pokemon-tcg-scarlet-violet-prismatic-evolutions-super-premium-collection": {
    "name": "Pokémon TCG: Scarlet & Violet—Prismatic Evolutions Super-Premium Collection ✨🌈",
-   "price": "?",
-   "in_stock": true,
-   "preorder": false
-  },
-  "https://pokemania.ro/chaos-rising/pokemon-tcg-league-battle-deck-mega-lucario-ex": {
-   "name": "Pokémon TCG: League Battle Deck Mega Lucario ex",
    "price": "?",
    "in_stock": true,
    "preorder": false
@@ -5536,14 +5536,14 @@
    "in_stock": false,
    "preorder": false
   },
-  "https://pokemania.ro/delta-reign/pokemon-tcg-mega-evolution-delta-reign-elite-trainer-box-kyogre-promo": {
-   "name": "Pokemon TCG: Mega Evolution - Delta Reign Elite Trainer Box (Kyogre Promo)",
+  "https://pokemania.ro/30th-celebration-2/pokemon-tcg-30th-celebration-booster-bundle": {
+   "name": "Pokemon TCG: 30th Celebration Booster Bundle",
    "price": "?",
    "in_stock": false,
    "preorder": false
   },
-  "https://pokemania.ro/30th-celebration-2/pokemon-tcg-30th-celebration-booster-bundle": {
-   "name": "Pokemon TCG: 30th Celebration Booster Bundle",
+  "https://pokemania.ro/delta-reign/pokemon-tcg-mega-evolution-delta-reign-elite-trainer-box-kyogre-promo": {
+   "name": "Pokemon TCG: Mega Evolution - Delta Reign Elite Trainer Box (Kyogre Promo)",
    "price": "?",
    "in_stock": false,
    "preorder": false
@@ -5560,14 +5560,14 @@
    "in_stock": false,
    "preorder": false
   },
-  "https://pokemania.ro/30th-celebration-2/pokemon-tcg-30th-celebration-elite-trainer-box": {
-   "name": "Pokemon TCG: 30th Celebration Elite Trainer Box",
+  "https://pokemania.ro/pitch-black/pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box": {
+   "name": "Pokémon TCG: Mega Evolution—Pitch Black Elite Trainer Box",
    "price": "?",
    "in_stock": false,
    "preorder": false
   },
-  "https://pokemania.ro/pitch-black/pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box": {
-   "name": "Pokémon TCG: Mega Evolution—Pitch Black Elite Trainer Box",
+  "https://pokemania.ro/30th-celebration-2/pokemon-tcg-30th-celebration-elite-trainer-box": {
+   "name": "Pokemon TCG: 30th Celebration Elite Trainer Box",
    "price": "?",
    "in_stock": false,
    "preorder": false
