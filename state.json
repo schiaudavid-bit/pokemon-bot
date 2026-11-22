@@ -1531,7 +1531,7 @@
   "https://redgoblin.ro/products/casti-gaming-otl-pro-g1-pokemon-poke-ball-black-and-red": {
    "name": "Casti Gaming OTL - Pro G1 Pokemon Poke Ball, black and red",
    "price": "159.00 lei",
-   "in_stock": true,
+   "in_stock": false,
    "preorder": false
   },
   "https://redgoblin.ro/products/pokemon-tcg-greninja-ex-kingdra-ex-special-collection": {
@@ -2677,7 +2677,7 @@
   "https://redgoblin.ro/products/casti-otl-pokemon-pikachu-slide-tws": {
    "name": "Casti OTL - Pokemon Pikachu Slide TWS",
    "price": "239.00 lei",
-   "in_stock": true,
+   "in_stock": false,
    "preorder": false
   },
   "https://redgoblin.ro/products/notebook-a5-pokemon-kanto-starters": {
