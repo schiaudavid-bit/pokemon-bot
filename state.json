@@ -362,6 +362,24 @@
   }
  },
  "LootShop": {
+  "https://lootshop.ro/product/30th-celebration-figure-collection-pokemon-tcg/": {
+   "name": "30th Celebration Figure Collection Pokemon TCG",
+   "price": "299.99 lei",
+   "in_stock": true,
+   "preorder": false
+  },
+  "https://lootshop.ro/product/30th-celebration-ditto-premium-collection-pokemon-tcg/": {
+   "name": "30th Celebration Ditto Premium Collection Pokemon TCG",
+   "price": "399.99 lei",
+   "in_stock": true,
+   "preorder": false
+  },
+  "https://lootshop.ro/product/30th-celebration-ultra-premium-collections-day-night-pokemon-tcg/": {
+   "name": "30th Celebration Ultra-Premium Collections Day & Night Pokemon TCG",
+   "price": "1699.99 lei",
+   "in_stock": false,
+   "preorder": false
+  },
   "https://lootshop.ro/product/delta-reign-booster-box-pokemon-tcg/": {
    "name": "Delta Reign Booster Box Pokemon TCG",
    "price": "999.99 lei",
