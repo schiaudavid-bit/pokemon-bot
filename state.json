@@ -5164,14 +5164,14 @@
    "in_stock": true,
    "preorder": false
   },
-  "https://pokemania.ro/promo-packs/pokemon-tcg-gym-promo-pack-scarlet-violet-vol-8-editie-japoneza": {
-   "name": "Pokémon TCG: Gym Promo Pack Scarlet & Violet Vol. 8 (Ediție japoneză)",
+  "https://pokemania.ro/mega-evolution/cutie-display-booster-pokemon-tcg-mega-evolution-enhanced-booster-display-box-36-packs-promo-card": {
+   "name": "Cutie Display Booster Pokémon TCG Mega Evolution Enhanced Booster Display Box (36 Packs + Promo Card)",
    "price": "?",
    "in_stock": true,
    "preorder": false
   },
-  "https://pokemania.ro/promo-packs/pokemon-tcg-gym-promo-pack-scarlet-violet-vol-4-editie-japoneza": {
-   "name": "Pokémon TCG: Gym Promo Pack Scarlet & Violet Vol. 4 (Ediție japoneză)",
+  "https://pokemania.ro/promo-packs/pokemon-tcg-gym-promo-pack-scarlet-violet-vol-8-editie-japoneza": {
+   "name": "Pokémon TCG: Gym Promo Pack Scarlet & Violet Vol. 8 (Ediție japoneză)",
    "price": "?",
    "in_stock": true,
    "preorder": false
@@ -5220,6 +5220,12 @@
   },
   "https://pokemania.ro/blog/stiri-pokemon": {
    "name": "Știri Pokémon: Fii la curent cu tot ce mișcă în lumea Pokémon!",
+   "price": "?",
+   "in_stock": true,
+   "preorder": false
+  },
+  "https://pokemania.ro/promo-packs/pokemon-tcg-gym-promo-pack-scarlet-violet-vol-4-editie-japoneza": {
+   "name": "Pokémon TCG: Gym Promo Pack Scarlet & Violet Vol. 4 (Ediție japoneză)",
    "price": "?",
    "in_stock": true,
    "preorder": false
@@ -5422,6 +5428,36 @@
    "in_stock": true,
    "preorder": false
   },
+  "https://pokemania.ro/promo-packs/pokemon-tcg-the-first-movie-full-promo-cards-set-4-cards-set": {
+   "name": "Pokémon TCG: The First Movie Full Promo Cards Set (4 Cards Set)",
+   "price": "?",
+   "in_stock": true,
+   "preorder": false
+  },
+  "https://pokemania.ro/promo-packs/pokemon-tcg-the-first-movie-mewtwo-promo-card-3-1999": {
+   "name": "Pokémon TCG: The First Movie - Mewtwo Promo Card #3 (1999)",
+   "price": "?",
+   "in_stock": true,
+   "preorder": false
+  },
+  "https://pokemania.ro/promo-packs/pokemon-tcg-the-first-movie-electabuzz-promo-card-2-1999": {
+   "name": "Pokémon TCG: The First Movie - Electabuzz Promo Card #2 (1999)",
+   "price": "?",
+   "in_stock": true,
+   "preorder": false
+  },
+  "https://pokemania.ro/promo-packs/pokemon-tcg-the-first-movie-dragonite-promo-card-5-1999": {
+   "name": "Pokémon TCG: The First Movie - Dragonite Promo Card #5 (1999)",
+   "price": "?",
+   "in_stock": true,
+   "preorder": false
+  },
+  "https://pokemania.ro/promo-packs/pokemon-tcg-the-first-movie-pikachu-promo-card-4-1999": {
+   "name": "Pokémon TCG: The First Movie - Pikachu Promo Card #4 (1999)",
+   "price": "?",
+   "in_stock": true,
+   "preorder": false
+  },
   "https://pokemania.ro/boxed-sets/pokemon-trading-card-game-classic-set": {
    "name": "Pokémon Trading Card Game Classic Set",
    "price": "?",
@@ -5532,42 +5568,6 @@
   },
   "https://pokemania.ro/30th-celebration-2/pokemon-tcg-30th-celebration-mini-tins-assorted": {
    "name": "Pokemon TCG: 30th Celebration Mini Tins (assorted)",
-   "price": "?",
-   "in_stock": false,
-   "preorder": false
-  },
-  "https://pokemania.ro/ascended-heroes-2/pokemon-tcg-mega-evolution-ascended-heroes-elite-trainer-box": {
-   "name": "Pokémon TCG: Mega Evolution - Ascended Heroes Elite Trainer Box",
-   "price": "?",
-   "in_stock": false,
-   "preorder": false
-  },
-  "https://pokemania.ro/trick-or-trade-2024/pokemon-tcg-trick-or-trade-2024-mini-booster-pack-3-carti-gengar-pikachu": {
-   "name": "Pokémon TCG: Trick or Trade 2024 Mini Booster Pack (3 cărți - Gengar & Pikachu)",
-   "price": "?",
-   "in_stock": false,
-   "preorder": false
-  },
-  "https://pokemania.ro/destined-rivals/pachet-booster-carti-pokemon-tcg-destined-rivals-team-rocket-scarlet-violet-sv10-engleza": {
-   "name": "Pachet Booster Carti Pokémon TCG Destined Rivals (Team Rocket) - Scarlet & Violet sv10 (Engleză)",
-   "price": "?",
-   "in_stock": false,
-   "preorder": false
-  },
-  "https://pokemania.ro/munikis-zero-jp/pokemon-tcg-mega-evolution-munikis-zero-jp-ma3-japoneza": {
-   "name": "Pokémon TCG: Mega Evolution - Munikis Zero (JP) MA3 (japoneză)",
-   "price": "?",
-   "in_stock": false,
-   "preorder": false
-  },
-  "https://pokemania.ro/prismatic-evolutions/set-pokemon-tcg-prismatic-evolutions-booster-display-bundle-6-pack": {
-   "name": "Set Pokémon TCG Prismatic Evolutions Booster Display Bundle (6 Pack)",
-   "price": "?",
-   "in_stock": false,
-   "preorder": false
-  },
-  "https://pokemania.ro/unova-white-flare-black-bolt/pokemon-tcg-scarlet-violet-white-flare-elite-trainer-box": {
-   "name": "Pokémon TCG: Scarlet & Violet - White Flare Elite Trainer Box 🔥",
    "price": "?",
    "in_stock": false,
    "preorder": false
