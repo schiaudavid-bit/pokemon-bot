@@ -365,13 +365,13 @@
   "https://lootshop.ro/product/30th-celebration-figure-collection-pokemon-tcg/": {
    "name": "30th Celebration Figure Collection Pokemon TCG",
    "price": "299.99 lei",
-   "in_stock": true,
+   "in_stock": false,
    "preorder": false
   },
   "https://lootshop.ro/product/30th-celebration-ditto-premium-collection-pokemon-tcg/": {
    "name": "30th Celebration Ditto Premium Collection Pokemon TCG",
    "price": "399.99 lei",
-   "in_stock": true,
+   "in_stock": false,
    "preorder": false
   },
   "https://lootshop.ro/product/30th-celebration-ultra-premium-collections-day-night-pokemon-tcg/": {
@@ -5446,6 +5446,12 @@
    "in_stock": true,
    "preorder": false
   },
+  "https://pokemania.ro/celebrations/pokemon-tcg-celebrations-ultra-premium-collection-25th-anniversary": {
+   "name": "Pokémon TCG: Celebrations Ultra-Premium Collection (25th Anniversary)",
+   "price": "?",
+   "in_stock": true,
+   "preorder": false
+  },
   "https://pokemania.ro/promo-packs/pokemon-tcg-the-first-movie-full-promo-cards-set-4-cards-set": {
    "name": "Pokémon TCG: The First Movie Full Promo Cards Set (4 Cards Set)",
    "price": "?",
@@ -5940,12 +5946,6 @@
   },
   "https://pokemania.ro/ascended-heroes-2/pokemon-tcg-ascended-heroes-premium-poster-collection-mega-lucario": {
    "name": "Pokémon TCG: Ascended Heroes Premium Poster Collection - Mega Lucario",
-   "price": "?",
-   "in_stock": false,
-   "preorder": false
-  },
-  "https://pokemania.ro/ascended-heroes-2/pokemon-tcg-mega-evolution-ascended-heroes-mini-tins-display-asortat": {
-   "name": "Pokémon TCG: Mega Evolution - Ascended Heroes Mini Tins Display asortat",
    "price": "?",
    "in_stock": false,
    "preorder": false
