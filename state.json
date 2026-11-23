@@ -745,13 +745,13 @@
   "https://redgoblin.ro/products/set-3-mini-figurine-articulate-pokemon-squirtle-absol-skorupi": {
    "name": "Set 3 Mini Figurine Articulate Pokemon - Squirtle, Absol, Skorupi",
    "price": "83.00 lei",
-   "in_stock": false,
+   "in_stock": true,
    "preorder": false
   },
   "https://redgoblin.ro/products/set-3-mini-figurine-articulate-pokemon-pikachu-galarian-ponyta-gible": {
    "name": "Set 3 Mini Figurine Articulate Pokemon - Pikachu, Galarian Ponyta, Gible",
    "price": "83.00 lei",
-   "in_stock": false,
+   "in_stock": true,
    "preorder": false
   },
   "https://redgoblin.ro/products/set-2-mini-figurine-pokemon-battle-ready-charmander-lotad": {
@@ -859,7 +859,7 @@
   "https://redgoblin.ro/products/cana-pokemon-320-ml-ho-oh": {
    "name": "Cana Pokemon - 320 ml - Ho-Oh",
    "price": "79.00 lei",
-   "in_stock": false,
+   "in_stock": true,
    "preorder": false
   },
   "https://redgoblin.ro/products/bol-ceramic-pokemon-600-ml-pikachu-1": {
@@ -1531,7 +1531,7 @@
   "https://redgoblin.ro/products/casti-gaming-otl-pro-g1-pokemon-poke-ball-black-and-red": {
    "name": "Casti Gaming OTL - Pro G1 Pokemon Poke Ball, black and red",
    "price": "159.00 lei",
-   "in_stock": false,
+   "in_stock": true,
    "preorder": false
   },
   "https://redgoblin.ro/products/pokemon-tcg-greninja-ex-kingdra-ex-special-collection": {
@@ -2677,7 +2677,7 @@
   "https://redgoblin.ro/products/casti-otl-pokemon-pikachu-slide-tws": {
    "name": "Casti OTL - Pokemon Pikachu Slide TWS",
    "price": "239.00 lei",
-   "in_stock": false,
+   "in_stock": true,
    "preorder": false
   },
   "https://redgoblin.ro/products/notebook-a5-pokemon-kanto-starters": {
@@ -3962,12 +3962,6 @@
    "in_stock": true,
    "preorder": false
   },
-  "https://www.lexshop.ro/pokemon-tcg/pokemon-tcg-delta-reign-premium-checklane-blister-en-varianta-aleatorie.html": {
-   "name": "Pokemon TCG Delta Reign Premium Checklane Blister EN - Varianta Aleatorie",
-   "price": "45 RON",
-   "in_stock": false,
-   "preorder": false
-  },
   "https://www.lexshop.ro/pokemon-tcg/pokemon-tcg-chaos-rising-premium-checklane-blister-varianta-aleatorie.html": {
    "name": "Pokemon TCG Chaos Rising Premium Checklane Blister Varianta Aleatorie",
    "price": "59 RON",
@@ -3995,6 +3989,12 @@
   "https://www.lexshop.ro/pokemon-tcg/pokemon-tcg-mega-evolution-delta-reign-elite-trainer-box-etb-engleza.html": {
    "name": "Pokemon TCG Mega Evolution Delta Reign Elite Trainer Box ETB - Engleza",
    "price": "399 RON",
+   "in_stock": false,
+   "preorder": false
+  },
+  "https://www.lexshop.ro/pokemon-tcg/pokemon-tcg-delta-reign-premium-checklane-blister-en-varianta-aleatorie.html": {
+   "name": "Pokemon TCG Delta Reign Premium Checklane Blister EN - Varianta Aleatorie",
+   "price": "45 RON",
    "in_stock": false,
    "preorder": false
   },
