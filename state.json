@@ -3775,7 +3775,7 @@
   "https://redgoblin.ro/products/set-mic-dejun-pokemon-cana-bol-pikachu": {
    "name": "Set Mic Dejun Pokemon Cana + Bol - Pikachu",
    "price": "123.00 lei",
-   "in_stock": false,
+   "in_stock": true,
    "preorder": false
   },
   "https://redgoblin.ro/products/cana-pokemon-320-ml-fire-starters-v2": {
@@ -5032,12 +5032,6 @@
    "in_stock": true,
    "preorder": false
   },
-  "https://pokemania.ro/prismatic-evolutions/pokemon-tcg-scarlet-violet-prismatic-evolutions-super-premium-collection": {
-   "name": "Pokémon TCG: Scarlet & Violet—Prismatic Evolutions Super-Premium Collection ✨🌈",
-   "price": "?",
-   "in_stock": true,
-   "preorder": false
-  },
   "https://pokemania.ro/twilight-masquerade/cutie-pokemon-tcg-scarlet-violet-6-twilight-masquerade-booster-display-box-36-packs": {
    "name": "Cutie Pokémon TCG Scarlet & Violet 6 Twilight Masquerade Booster Display Box (36 Packs)",
    "price": "?",
@@ -5170,6 +5164,12 @@
    "in_stock": true,
    "preorder": false
   },
+  "https://pokemania.ro/promo-packs/pokemon-tcg-gym-promo-pack-scarlet-violet-vol-8-editie-japoneza": {
+   "name": "Pokémon TCG: Gym Promo Pack Scarlet & Violet Vol. 8 (Ediție japoneză)",
+   "price": "?",
+   "in_stock": true,
+   "preorder": false
+  },
   "https://pokemania.ro/pokemon-tcg": {
    "name": "Pokémon TCG",
    "price": "?",
@@ -5214,12 +5214,6 @@
   },
   "https://pokemania.ro/blog/stiri-pokemon": {
    "name": "Știri Pokémon: Fii la curent cu tot ce mișcă în lumea Pokémon!",
-   "price": "?",
-   "in_stock": true,
-   "preorder": false
-  },
-  "https://pokemania.ro/promo-packs/pokemon-tcg-gym-promo-pack-scarlet-violet-vol-8-editie-japoneza": {
-   "name": "Pokémon TCG: Gym Promo Pack Scarlet & Violet Vol. 8 (Ediție japoneză)",
    "price": "?",
    "in_stock": true,
    "preorder": false
@@ -5922,6 +5916,12 @@
   },
   "https://pokemania.ro/30th-celebration-2/pokemon-tcg-30th-celebration-battle-deck-umbreon-ex": {
    "name": "Pokemon TCG: 30th Celebration Battle Deck - Umbreon ex",
+   "price": "?",
+   "in_stock": false,
+   "preorder": false
+  },
+  "https://pokemania.ro/perfect-order/pokemon-tcg-mega-evolution-perfect-order-perfect-order-sleeved-booster-pack-10-carti": {
+   "name": "Pokémon TCG: Mega Evolution-Perfect Order Perfect Order Sleeved Booster Pack (10 cărți)",
    "price": "?",
    "in_stock": false,
    "preorder": false
