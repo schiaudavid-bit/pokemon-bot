@@ -4930,8 +4930,20 @@
    "in_stock": true,
    "preorder": false
   },
+  "https://pokemania.ro/destined-rivals/cutie-display-booster-pokemon-tcg-destined-rivals-team-rocket-scarlet-violet-sv10-36-de-pachete": {
+   "name": "Cutie Display Booster Pokémon TCG Destined Rivals (Team Rocket) - Scarlet & Violet sv10 (36 de Pachete)",
+   "price": "?",
+   "in_stock": true,
+   "preorder": false
+  },
   "https://pokemania.ro/mega-evolution/joc-de-carti-pokemon-pachet-booster-mega-brave-mega-lucario-m1l-japoneza-5-carti": {
    "name": "Joc de Cărți Pokémon - Pachet Booster Mega Brave: Mega Lucario (M1L Japoneză) - 5 Cărți",
+   "price": "?",
+   "in_stock": true,
+   "preorder": false
+  },
+  "https://pokemania.ro/ascended-heroes-2/pokemon-tcg-mega-evolution-ascended-heroes-elite-trainer-box": {
+   "name": "Pokémon TCG: Mega Evolution - Ascended Heroes Elite Trainer Box",
    "price": "?",
    "in_stock": true,
    "preorder": false
@@ -5008,6 +5020,18 @@
    "in_stock": true,
    "preorder": false
   },
+  "https://pokemania.ro/destined-rivals/elite-trainer-box-pokemon-tcg-destined-rivals-team-rocket-scarlet-violet-sv10-engleza": {
+   "name": "Elite Trainer Box Pokémon TCG Destined Rivals (Team Rocket) - Scarlet & Violet sv10 (Engleză)",
+   "price": "?",
+   "in_stock": true,
+   "preorder": false
+  },
+  "https://pokemania.ro/phantasmal-flames/pokemon-tcg-mega-evolution-phantasmal-flames-elite-trainer-box": {
+   "name": "Pokémon TCG: Mega Evolution - Phantasmal Flames - Elite Trainer Box",
+   "price": "?",
+   "in_stock": true,
+   "preorder": false
+  },
   "https://pokemania.ro/pitch-black/pokemon-tcg-mega-evolution-pitch-black-booster-display-box-36-packs": {
    "name": "Pokémon TCG: Mega Evolution—Pitch Black Booster Display Box (36 Packs)",
    "price": "?",
@@ -5070,6 +5094,12 @@
   },
   "https://pokemania.ro/chaos-rising/pokemon-tcg-mega-evolution-chaos-rising-booster-bundle": {
    "name": "Pokémon TCG: Mega Evolution-Chaos Rising Booster Bundle",
+   "price": "?",
+   "in_stock": true,
+   "preorder": false
+  },
+  "https://pokemania.ro/phantasmal-flames/cutie-display-booster-pokemon-tcg-phantasmal-flames-booster-display-box-36-packs": {
+   "name": "Cutie Display Booster Pokémon TCG Phantasmal Flames Booster Display Box (36 Packs)",
    "price": "?",
    "in_stock": true,
    "preorder": false
@@ -5176,36 +5206,6 @@
    "in_stock": true,
    "preorder": false
   },
-  "https://pokemania.ro/twilight-masquerade/cutie-pokemon-tcg-scarlet-violet-6-twilight-masquerade-booster-display-box-36-packs": {
-   "name": "Cutie Pokémon TCG Scarlet & Violet 6 Twilight Masquerade Booster Display Box (36 Packs)",
-   "price": "?",
-   "in_stock": true,
-   "preorder": false
-  },
-  "https://pokemania.ro/pitch-black/pokemon-tcg-mega-evolution-pitch-black-3-pack-blister-booster": {
-   "name": "Pokémon TCG: Mega Evolution - Pitch Black — 3-Pack Blister Booster",
-   "price": "?",
-   "in_stock": true,
-   "preorder": false
-  },
-  "https://pokemania.ro/chaos-rising/pokemon-tcg-mega-greninja-ex-premium-collection": {
-   "name": "Pokémon TCG: Mega Greninja ex Premium Collection",
-   "price": "?",
-   "in_stock": true,
-   "preorder": false
-  },
-  "https://pokemania.ro/mcdonald-s-25th-anniversary/pokemon-tcg-mcdonald-s-collection-25th-anniversary-booster-pack-german-language": {
-   "name": "Pokémon TCG: McDonald's Collection 25th Anniversary Booster Pack - German Language",
-   "price": "?",
-   "in_stock": true,
-   "preorder": false
-  },
-  "https://pokemania.ro/mega-evolution/set-pokemon-tcg-trainer-s-toolkit-2025": {
-   "name": "Set Pokémon TCG: Trainer's Toolkit 2025",
-   "price": "?",
-   "in_stock": true,
-   "preorder": false
-  },
   "https://pokemania.ro/pokemon-tcg": {
    "name": "Pokémon TCG",
    "price": "?",
@@ -5250,6 +5250,36 @@
   },
   "https://pokemania.ro/blog/stiri-pokemon": {
    "name": "Știri Pokémon: Fii la curent cu tot ce mișcă în lumea Pokémon!",
+   "price": "?",
+   "in_stock": true,
+   "preorder": false
+  },
+  "https://pokemania.ro/twilight-masquerade/cutie-pokemon-tcg-scarlet-violet-6-twilight-masquerade-booster-display-box-36-packs": {
+   "name": "Cutie Pokémon TCG Scarlet & Violet 6 Twilight Masquerade Booster Display Box (36 Packs)",
+   "price": "?",
+   "in_stock": true,
+   "preorder": false
+  },
+  "https://pokemania.ro/pitch-black/pokemon-tcg-mega-evolution-pitch-black-3-pack-blister-booster": {
+   "name": "Pokémon TCG: Mega Evolution - Pitch Black — 3-Pack Blister Booster",
+   "price": "?",
+   "in_stock": true,
+   "preorder": false
+  },
+  "https://pokemania.ro/chaos-rising/pokemon-tcg-mega-greninja-ex-premium-collection": {
+   "name": "Pokémon TCG: Mega Greninja ex Premium Collection",
+   "price": "?",
+   "in_stock": true,
+   "preorder": false
+  },
+  "https://pokemania.ro/mcdonald-s-25th-anniversary/pokemon-tcg-mcdonald-s-collection-25th-anniversary-booster-pack-german-language": {
+   "name": "Pokémon TCG: McDonald's Collection 25th Anniversary Booster Pack - German Language",
+   "price": "?",
+   "in_stock": true,
+   "preorder": false
+  },
+  "https://pokemania.ro/mega-evolution/set-pokemon-tcg-trainer-s-toolkit-2025": {
+   "name": "Set Pokémon TCG: Trainer's Toolkit 2025",
    "price": "?",
    "in_stock": true,
    "preorder": false
@@ -5571,396 +5601,6 @@
    "price": "?",
    "in_stock": true,
    "preorder": false
-  },
-  "https://pokemania.ro/pokemon-25th-anniversary/pokemon-tcg-25th-anniversary-collection-mewtwo-mew-blister-traditional-chinese-version": {
-   "name": "Pokémon TCG: 25th Anniversary Collection - Mewtwo & Mew Blister - Traditional Chinese Version",
-   "price": "?",
-   "in_stock": true,
-   "preorder": false
-  },
-  "https://pokemania.ro/celebrations/celebrations-premium-figure-collection-pikachu-vmax-cutie-de-colectie-pokemon-sigilata": {
-   "name": "Celebrations Premium Figure Collection—Pikachu VMAX — Cutie de Colecție Pokémon Sigilată",
-   "price": "?",
-   "in_stock": true,
-   "preorder": false
-  },
-  "https://pokemania.ro/celebrations/celebrations-deluxe-pin-collection-cutie-de-colectie-pokemon-sigilata-zacian-lv-x": {
-   "name": "Celebrations Deluxe Pin Collection — Cutie de Colecție Pokémon Sigilată (Zacian LV.X)",
-   "price": "?",
-   "in_stock": true,
-   "preorder": false
-  },
-  "https://pokemania.ro/evolutions/pokemon-tcg-xy-evolutions-booster-display-box-en-english-xy12-2016-base-set-reprint": {
-   "name": "Pokémon TCG: XY Evolutions Booster Display Box EN (English, XY12, 2016) — Base Set Reprint",
-   "price": "?",
-   "in_stock": true,
-   "preorder": false
-  },
-  "https://pokemania.ro/battle-partners-sv9-jp/cutie-pokemon-tcg-battle-partners-journey-together-deck-build-jp-scarlet-violet-sv9": {
-   "name": "Cutie Pokémon TCG Battle Partners (Journey Together) Deck Build (JP) - Scarlet & Violet sv9",
-   "price": "?",
-   "in_stock": true,
-   "preorder": false
-  },
-  "https://pokemania.ro/boxed-sets/pokemon-tcg-special-box-yu-nagaba-pikachu-japoneza": {
-   "name": "Pokémon TCG Special Box Yu Nagaba Pikachu (Japoneză)",
-   "price": "?",
-   "in_stock": true,
-   "preorder": false
-  },
-  "https://pokemania.ro/expansiuni-pokemon-tcg/pokemon-tcg-cutia-de-aur-a-25-a-aniversare-sigilata-coreeana": {
-   "name": "Pokémon TCG: Cutia de aur a 25-a aniversare (sigilată Coreeana)",
-   "price": "?",
-   "in_stock": true,
-   "preorder": false
-  },
-  "https://pokemania.ro/celebrations/pokemon-tcg-celebrations-collector-s-chest-fall-2021-25th-anniversary-sealed-collectible-tin": {
-   "name": "Pokémon TCG: Celebrations Collector's Chest (Fall 2021) — 25th Anniversary Sealed Collectible Tin",
-   "price": "?",
-   "in_stock": true,
-   "preorder": false
-  },
-  "https://pokemania.ro/stellar-miracle-jp-2/pokemon-tcg-stellar-miracle-booster-box-jp-sv7-30-packs": {
-   "name": "Pokémon TCG:Stellar Miracle Booster Box (JP, sv7) | 30 Packs",
-   "price": "?",
-   "in_stock": true,
-   "preorder": false
-  },
-  "https://pokemania.ro/sun-moon/pokemon-tcg-detective-pikachu-charizard-gx-case-file": {
-   "name": "Pokémon TCG: Detective Pikachu — Charizard-GX Case File",
-   "price": "?",
-   "in_stock": true,
-   "preorder": false
-  },
-  "https://pokemania.ro/celebrations/pokemon-tcg-celebrations-ultra-premium-collection-25th-anniversary": {
-   "name": "Pokémon TCG: Celebrations Ultra-Premium Collection (25th Anniversary)",
-   "price": "?",
-   "in_stock": true,
-   "preorder": false
-  },
-  "https://pokemania.ro/promo-packs/pokemon-tcg-the-first-movie-full-promo-cards-set-4-cards-set": {
-   "name": "Pokémon TCG: The First Movie Full Promo Cards Set (4 Cards Set)",
-   "price": "?",
-   "in_stock": true,
-   "preorder": false
-  },
-  "https://pokemania.ro/promo-packs/pokemon-tcg-the-first-movie-mewtwo-promo-card-3-1999": {
-   "name": "Pokémon TCG: The First Movie - Mewtwo Promo Card #3 (1999)",
-   "price": "?",
-   "in_stock": true,
-   "preorder": false
-  },
-  "https://pokemania.ro/promo-packs/pokemon-tcg-the-first-movie-electabuzz-promo-card-2-1999": {
-   "name": "Pokémon TCG: The First Movie - Electabuzz Promo Card #2 (1999)",
-   "price": "?",
-   "in_stock": true,
-   "preorder": false
-  },
-  "https://pokemania.ro/promo-packs/pokemon-tcg-the-first-movie-dragonite-promo-card-5-1999": {
-   "name": "Pokémon TCG: The First Movie - Dragonite Promo Card #5 (1999)",
-   "price": "?",
-   "in_stock": true,
-   "preorder": false
-  },
-  "https://pokemania.ro/promo-packs/pokemon-tcg-the-first-movie-pikachu-promo-card-4-1999": {
-   "name": "Pokémon TCG: The First Movie - Pikachu Promo Card #4 (1999)",
-   "price": "?",
-   "in_stock": true,
-   "preorder": false
-  },
-  "https://pokemania.ro/boxed-sets/pokemon-trading-card-game-classic-set": {
-   "name": "Pokémon Trading Card Game Classic Set",
-   "price": "?",
-   "in_stock": false,
-   "preorder": false
-  },
-  "https://pokemania.ro/151/set-pokemon-tcg-scarlet-violet-151-elite-trainer-box": {
-   "name": "Set Pokémon TCG: Scarlet & Violet 151 - Elite Trainer Box",
-   "price": "?",
-   "in_stock": false,
-   "preorder": false
-  },
-  "https://pokemania.ro/shrouded-fable/set-cartonase-pokemon-tcg-scarlet-violet-6-5-shrouded-fable-elite-trainer-box": {
-   "name": "Set Cartonase Pokémon TCG: Scarlet & Violet 6.5 Shrouded Fable Elite Trainer Box",
-   "price": "?",
-   "in_stock": false,
-   "preorder": false
-  },
-  "https://pokemania.ro/paradox-rift/set-cartonase-pokemon-tcg-scarlet-violet-4-paradox-rift-elite-trainer-box-iron-valiant": {
-   "name": "Set Cartonase Pokémon TCG: Scarlet & Violet 4 Paradox Rift Elite Trainer Box - Iron Valiant",
-   "price": "?",
-   "in_stock": false,
-   "preorder": false
-  },
-  "https://pokemania.ro/stellar-crown/cutie-pokemon-tcg-scarlet-violet-7-stellar-crown-booster-display-box-36-packs": {
-   "name": "Cutie Pokémon TCG: Scarlet & Violet 7 Stellar Crown Booster Display Box (36 Packs)",
-   "price": "?",
-   "in_stock": false,
-   "preorder": false
-  },
-  "https://pokemania.ro/super-electric-breaker-sv8-jp/pachet-pokemon-tcg-scarlet-violet-super-electric-breaker-sv8-jp-booster-pack-japoneza": {
-   "name": "Pachet Pokémon TCG Scarlet & Violet Super Electric Breaker sv8 JP Booster Pack (Japoneza)",
-   "price": "?",
-   "in_stock": false,
-   "preorder": false
-  },
-  "https://pokemania.ro/surging-sparks/pachet-carti-pokemon-tcg-scarlet-violet-8-surging-sparks-en-factory-sealed-booster-pack-1-pachet-booster": {
-   "name": "Pachet Carti Pokémon TCG: Scarlet & Violet 8 Surging Sparks EN Factory Sealed Booster Pack - 1 Pachet Booster",
-   "price": "?",
-   "in_stock": false,
-   "preorder": false
-  },
-  "https://pokemania.ro/trick-or-trade-2024/pokemon-tcg-pachet-booster-trick-or-trade-2024-mini-booster-pack": {
-   "name": "Pokémon TCG Pachet BOOster Trick or Trade (2024) - Mini Booster Pack",
-   "price": "?",
-   "in_stock": false,
-   "preorder": false
-  },
-  "https://pokemania.ro/30th-celebration-2/pokemon-tcg-30th-celebration-booster-bundle": {
-   "name": "Pokemon TCG: 30th Celebration Booster Bundle",
-   "price": "?",
-   "in_stock": false,
-   "preorder": false
-  },
-  "https://pokemania.ro/delta-reign/pokemon-tcg-mega-evolution-delta-reign-elite-trainer-box-kyogre-promo": {
-   "name": "Pokemon TCG: Mega Evolution - Delta Reign Elite Trainer Box (Kyogre Promo)",
-   "price": "?",
-   "in_stock": false,
-   "preorder": false
-  },
-  "https://pokemania.ro/terastal-festival-sv8a-jp/pachet-pokemon-tcg-scarlet-violet-terastal-festival-ex-sv8a-jp-booster-pack-japoneza": {
-   "name": "Pachet Pokémon TCG Scarlet & Violet Terastal Festival ex sv8a JP Booster Pack (Japoneza)",
-   "price": "?",
-   "in_stock": false,
-   "preorder": false
-  },
-  "https://pokemania.ro/team-rocket-s-glory-sv10a-kr/pachet-pokemon-tcg-scarlet-violet-team-rocket-s-glory-sv10a-mewtwo-giovanni-booster-pack-coreeana": {
-   "name": "Pachet Pokémon TCG: Scarlet & Violet - Team Rocket's Glory SV10A - Mewtwo & Giovanni Booster Pack (Coreeană)",
-   "price": "?",
-   "in_stock": false,
-   "preorder": false
-  },
-  "https://pokemania.ro/30th-celebration-2/pokemon-tcg-30th-celebration-elite-trainer-box": {
-   "name": "Pokemon TCG: 30th Celebration Elite Trainer Box",
-   "price": "?",
-   "in_stock": false,
-   "preorder": false
-  },
-  "https://pokemania.ro/battle-partners-sv9-kr/pachet-pokemon-tcg-scarlet-violet-battle-partners-sv9-kr-booster-pack-coreeana": {
-   "name": "Pachet Pokémon TCG: Scarlet & Violet - Battle Partners SV9 KR Booster Pack (Coreeană)",
-   "price": "?",
-   "in_stock": false,
-   "preorder": false
-  },
-  "https://pokemania.ro/journey-together/pachet-carti-pokemon-tcg-journey-together-booster-pack-scarlet-violet-9-10-carti": {
-   "name": "Pachet Carti Pokémon TCG Journey Together Booster Pack - Scarlet & Violet 9 (10 Carti)",
-   "price": "?",
-   "in_stock": false,
-   "preorder": false
-  },
-  "https://pokemania.ro/destined-rivals/cutie-display-booster-pokemon-tcg-destined-rivals-team-rocket-scarlet-violet-sv10-36-de-pachete": {
-   "name": "Cutie Display Booster Pokémon TCG Destined Rivals (Team Rocket) - Scarlet & Violet sv10 (36 de Pachete)",
-   "price": "?",
-   "in_stock": false,
-   "preorder": false
-  },
-  "https://pokemania.ro/30th-celebration-2/pokemon-tcg-30th-celebration-mini-tins-assorted": {
-   "name": "Pokemon TCG: 30th Celebration Mini Tins (assorted)",
-   "price": "?",
-   "in_stock": false,
-   "preorder": false
-  },
-  "https://pokemania.ro/ascended-heroes-2/pokemon-tcg-mega-evolution-ascended-heroes-elite-trainer-box": {
-   "name": "Pokémon TCG: Mega Evolution - Ascended Heroes Elite Trainer Box",
-   "price": "?",
-   "in_stock": false,
-   "preorder": false
-  },
-  "https://pokemania.ro/trick-or-trade-2024/pokemon-tcg-trick-or-trade-2024-mini-booster-pack-3-carti-gengar-pikachu": {
-   "name": "Pokémon TCG: Trick or Trade 2024 Mini Booster Pack (3 cărți - Gengar & Pikachu)",
-   "price": "?",
-   "in_stock": false,
-   "preorder": false
-  },
-  "https://pokemania.ro/destined-rivals/pachet-booster-carti-pokemon-tcg-destined-rivals-team-rocket-scarlet-violet-sv10-engleza": {
-   "name": "Pachet Booster Carti Pokémon TCG Destined Rivals (Team Rocket) - Scarlet & Violet sv10 (Engleză)",
-   "price": "?",
-   "in_stock": false,
-   "preorder": false
-  },
-  "https://pokemania.ro/munikis-zero-jp/pokemon-tcg-mega-evolution-munikis-zero-jp-ma3-japoneza": {
-   "name": "Pokémon TCG: Mega Evolution - Munikis Zero (JP) MA3 (japoneză)",
-   "price": "?",
-   "in_stock": false,
-   "preorder": false
-  },
-  "https://pokemania.ro/prismatic-evolutions/set-pokemon-tcg-prismatic-evolutions-booster-display-bundle-6-pack": {
-   "name": "Set Pokémon TCG Prismatic Evolutions Booster Display Bundle (6 Pack)",
-   "price": "?",
-   "in_stock": false,
-   "preorder": false
-  },
-  "https://pokemania.ro/unova-white-flare-black-bolt/pokemon-tcg-scarlet-violet-white-flare-elite-trainer-box": {
-   "name": "Pokémon TCG: Scarlet & Violet - White Flare Elite Trainer Box 🔥",
-   "price": "?",
-   "in_stock": false,
-   "preorder": false
-  },
-  "https://pokemania.ro/30th-celebration-2/pokemon-tcg-30th-celebration-2-pack-blister": {
-   "name": "Pokemon TCG: 30th Celebration 2-Pack Blister",
-   "price": "?",
-   "in_stock": false,
-   "preorder": false
-  },
-  "https://pokemania.ro/arena-of-heat-wave-sv9a-ho-oh-kr/pachet-pokemon-tcg-scarlet-violet-arena-of-heat-wave-ho-oh-sv9a-booster-pack-coreeana": {
-   "name": "Pachet Pokémon TCG: Scarlet & Violet - Arena of Heat Wave Ho-Oh SV9A Booster Pack (Coreeană)",
-   "price": "?",
-   "in_stock": false,
-   "preorder": false
-  },
-  "https://pokemania.ro/inferno-x-kr-2/pokemon-tcg-pack-inferno-x-m2-booster-pack-coreeana": {
-   "name": "Pokémon TCG Pack: Inferno X (M2) Booster Pack (coreeană)",
-   "price": "?",
-   "in_stock": false,
-   "preorder": false
-  },
-  "https://pokemania.ro/phantasmal-flames/pokemon-tcg-spring-charizard-ex-tin-26q1": {
-   "name": "Pokemon TCG: Spring Charizard ex Tin 26Q1",
-   "price": "?",
-   "in_stock": false,
-   "preorder": false
-  },
-  "https://pokemania.ro/delta-reign/pokemon-tcg-mega-evolution-delta-reign-booster-box-36-packs": {
-   "name": "Pokémon TCG: Mega Evolution - Delta Reign Booster Box 36 Packs",
-   "price": "?",
-   "in_stock": false,
-   "preorder": false
-  },
-  "https://pokemania.ro/delta-reign/pokemon-tcg-mega-evolution-delta-reign-booster-bundle-6-booster-packs": {
-   "name": "Pokemon TCG: Mega Evolution - Delta Reign Booster Bundle (6 Booster Packs)",
-   "price": "?",
-   "in_stock": false,
-   "preorder": false
-  },
-  "https://pokemania.ro/unova-white-flare-black-bolt/pokemon-tcg-scarlet-violet-black-bolt-elite-trainer-box": {
-   "name": "Pokémon TCG: Scarlet & Violet - Black Bolt Elite Trainer Box ⚡",
-   "price": "?",
-   "in_stock": false,
-   "preorder": false
-  },
-  "https://pokemania.ro/30th-celebration-2/pokemon-tcg-30th-celebration-booster-pack-10-cards": {
-   "name": "Pokemon TCG: 30th Celebration Booster Pack (10 Cards)",
-   "price": "?",
-   "in_stock": false,
-   "preorder": false
-  },
-  "https://pokemania.ro/pokemon-25th-anniversary/pachet-carti-pokemon-tcg-25th-anniversary-collection-booster-pack-jp-1-pachet-booster": {
-   "name": "Pachet Carti Pokémon TCG: 25th Anniversary Collection Booster Pack JP - 1 Pachet Booster",
-   "price": "?",
-   "in_stock": true,
-   "preorder": false
-  },
-  "https://pokemania.ro/unova-white-flare-black-bolt/pokemon-tcg-scarlet-violet-white-flare-booster-bundle": {
-   "name": "Pokémon TCG: Scarlet & Violet—White Flare Booster Bundle 🔥💨",
-   "price": "?",
-   "in_stock": false,
-   "preorder": false
-  },
-  "https://pokemania.ro/30th-celebration-2/pokemon-tcg-30th-celebration-poster-collection": {
-   "name": "Pokemon TCG: 30th Celebration Poster Collection",
-   "price": "?",
-   "in_stock": false,
-   "preorder": false
-  },
-  "https://pokemania.ro/30th-celebration-2/pokemon-tcg-30th-celebration-binder-collection": {
-   "name": "Pokemon TCG: 30th Celebration Binder Collection",
-   "price": "?",
-   "in_stock": false,
-   "preorder": false
-  },
-  "https://pokemania.ro/mega-brave-kr/pokemon-tcg-pack-mega-brave-booster-pack-m1l-mega-lucario-kr-booster-pack-coreean": {
-   "name": "Pokémon TCG Pack: Mega Brave Booster Pack (M1L) - Mega Lucario KR Booster Pack (coreean)",
-   "price": "?",
-   "in_stock": false,
-   "preorder": false
-  },
-  "https://pokemania.ro/unova-white-flare-black-bolt/bundle-etb-pokemon-tcg-scarlet-violet-white-flare-black-bolt-elite-trainer-box": {
-   "name": "Bundle ETB Pokémon TCG: Scarlet & Violet - White Flare & Black Bolt Elite Trainer Box 💠🔥⚡",
-   "price": "?",
-   "in_stock": false,
-   "preorder": false
-  },
-  "https://pokemania.ro/destined-rivals/elite-trainer-box-pokemon-tcg-destined-rivals-team-rocket-scarlet-violet-sv10-engleza": {
-   "name": "Elite Trainer Box Pokémon TCG Destined Rivals (Team Rocket) - Scarlet & Violet sv10 (Engleză)",
-   "price": "?",
-   "in_stock": false,
-   "preorder": false
-  },
-  "https://pokemania.ro/phantasmal-flames/pokemon-tcg-mega-evolution-phantasmal-flames-elite-trainer-box": {
-   "name": "Pokémon TCG: Mega Evolution - Phantasmal Flames - Elite Trainer Box",
-   "price": "?",
-   "in_stock": false,
-   "preorder": false
-  },
-  "https://pokemania.ro/30th-celebration-2/pokemon-tcg-30th-celebration-pokemon-ex-box-sylveon-ex": {
-   "name": "Pokemon TCG: 30th Celebration Pokemon ex Box - Sylveon ex",
-   "price": "?",
-   "in_stock": false,
-   "preorder": false
-  },
-  "https://pokemania.ro/mega-symphonia-kr/pokemon-tcg-pack-mega-symphonia-booster-pack-m1s-mega-gardevoir-kr-booster-pack-coreean": {
-   "name": "Pokémon TCG Pack: Mega Symphonia Booster Pack (M1S) - Mega Gardevoir KR Booster Pack (coreean)",
-   "price": "?",
-   "in_stock": false,
-   "preorder": false
-  },
-  "https://pokemania.ro/unova-white-flare-black-bolt/pokemon-tcg-scarlet-violet-black-bolt-booster-bundle": {
-   "name": "Pokémon TCG: Scarlet & Violet—Black Bolt Booster Bundle ⚡💨",
-   "price": "?",
-   "in_stock": false,
-   "preorder": false
-  },
-  "https://pokemania.ro/surging-sparks/cutie-pokemon-tcg-scarlet-violet-8-surging-sparks-booster-display-box-36-packs": {
-   "name": "Cutie Pokémon TCG: Scarlet & Violet 8 Surging Sparks Booster Display Box (36 Packs)",
-   "price": "?",
-   "in_stock": false,
-   "preorder": false
-  },
-  "https://pokemania.ro/unova-white-flare-black-bolt/pokemon-tcg-scarlet-violet-white-flare-pachet-booster": {
-   "name": "Pokémon TCG: Scarlet & Violet—White Flare Pachet Booster 🔥",
-   "price": "?",
-   "in_stock": false,
-   "preorder": false
-  },
-  "https://pokemania.ro/30th-celebration-2/pokemon-tcg-30th-celebration-figure-collection-mew": {
-   "name": "Pokemon TCG: 30th Celebration Figure Collection - Mew",
-   "price": "?",
-   "in_stock": false,
-   "preorder": false
-  },
-  "https://pokemania.ro/30th-celebration-2/pokemon-tcg-30th-celebration-pokemon-ex-box-greninja-ex": {
-   "name": "Pokemon TCG: 30th Celebration Pokemon ex Box - Greninja ex",
-   "price": "?",
-   "in_stock": false,
-   "preorder": false
-  },
-  "https://pokemania.ro/ascended-heroes-2/pokemon-tcg-ascended-heroes-first-partners-deluxe-pin-collection": {
-   "name": "Pokémon TCG: Ascended Heroes First Partners Deluxe Pin Collection",
-   "price": "?",
-   "in_stock": false,
-   "preorder": false
-  },
-  "https://pokemania.ro/delta-reign/pokemon-tcg-mega-evolution-delta-reign-build-battle-box": {
-   "name": "Pokémon TCG: Mega Evolution - Delta Reign Build & Battle Box",
-   "price": "?",
-   "in_stock": false,
-   "preorder": false
-  },
-  "https://pokemania.ro/unova-white-flare-black-bolt/pokemon-tcg-scarlet-violet-black-bolt-pachet-booster": {
-   "name": "Pokémon TCG: Scarlet & Violet—Black Bolt Pachet Booster ⚡",
-   "price": "?",
-   "in_stock": false,
-   "preorder": false
   }
  },
  "Pokemania Precomenzi": {
@@ -6054,6 +5694,18 @@
    "in_stock": true,
    "preorder": true
   },
+  "https://pokemania.ro/destined-rivals/cutie-display-booster-pokemon-tcg-destined-rivals-team-rocket-scarlet-violet-sv10-36-de-pachete": {
+   "name": "Cutie Display Booster Pokémon TCG Destined Rivals (Team Rocket) - Scarlet & Violet sv10 (36 de Pachete)",
+   "price": "?",
+   "in_stock": true,
+   "preorder": true
+  },
+  "https://pokemania.ro/ascended-heroes-2/pokemon-tcg-mega-evolution-ascended-heroes-elite-trainer-box": {
+   "name": "Pokémon TCG: Mega Evolution - Ascended Heroes Elite Trainer Box",
+   "price": "?",
+   "in_stock": true,
+   "preorder": true
+  },
   "https://pokemania.ro/perfect-order/pokemon-tcg-mega-evolution-perfect-order-elite-trainer-box": {
    "name": "Pokémon TCG: Mega Evolution-Perfect Order Elite Trainer Box",
    "price": "?",
@@ -6068,6 +5720,18 @@
   },
   "https://pokemania.ro/journey-together/cutie-pokemon-tcg-journey-together-booster-display-box-scarlet-violet-9-36-packs": {
    "name": "Cutie Pokémon TCG Journey Together Booster Display Box - Scarlet & Violet 9 (36 Packs)",
+   "price": "?",
+   "in_stock": true,
+   "preorder": true
+  },
+  "https://pokemania.ro/destined-rivals/elite-trainer-box-pokemon-tcg-destined-rivals-team-rocket-scarlet-violet-sv10-engleza": {
+   "name": "Elite Trainer Box Pokémon TCG Destined Rivals (Team Rocket) - Scarlet & Violet sv10 (Engleză)",
+   "price": "?",
+   "in_stock": true,
+   "preorder": true
+  },
+  "https://pokemania.ro/phantasmal-flames/pokemon-tcg-mega-evolution-phantasmal-flames-elite-trainer-box": {
+   "name": "Pokémon TCG: Mega Evolution - Phantasmal Flames - Elite Trainer Box",
    "price": "?",
    "in_stock": true,
    "preorder": true
@@ -6096,14 +5760,14 @@
    "in_stock": true,
    "preorder": true
   },
-  "https://pokemania.ro/ascended-heroes-2/pokemon-tcg-ascended-heroes-first-partners-deluxe-pin-collection": {
-   "name": "Pokémon TCG: Ascended Heroes First Partners Deluxe Pin Collection",
+  "https://pokemania.ro/chaos-rising/pokemon-tcg-mega-evolution-chaos-rising-booster-bundle": {
+   "name": "Pokémon TCG: Mega Evolution-Chaos Rising Booster Bundle",
    "price": "?",
    "in_stock": true,
    "preorder": true
   },
-  "https://pokemania.ro/chaos-rising/pokemon-tcg-mega-evolution-chaos-rising-booster-bundle": {
-   "name": "Pokémon TCG: Mega Evolution-Chaos Rising Booster Bundle",
+  "https://pokemania.ro/phantasmal-flames/cutie-display-booster-pokemon-tcg-phantasmal-flames-booster-display-box-36-packs": {
+   "name": "Cutie Display Booster Pokémon TCG Phantasmal Flames Booster Display Box (36 Packs)",
    "price": "?",
    "in_stock": true,
    "preorder": true
@@ -6228,20 +5892,8 @@
    "in_stock": false,
    "preorder": true
   },
-  "https://pokemania.ro/destined-rivals/cutie-display-booster-pokemon-tcg-destined-rivals-team-rocket-scarlet-violet-sv10-36-de-pachete": {
-   "name": "Cutie Display Booster Pokémon TCG Destined Rivals (Team Rocket) - Scarlet & Violet sv10 (36 de Pachete)",
-   "price": "?",
-   "in_stock": false,
-   "preorder": true
-  },
   "https://pokemania.ro/30th-celebration-2/pokemon-tcg-30th-celebration-mini-tins-assorted": {
    "name": "Pokemon TCG: 30th Celebration Mini Tins (assorted)",
-   "price": "?",
-   "in_stock": false,
-   "preorder": true
-  },
-  "https://pokemania.ro/ascended-heroes-2/pokemon-tcg-mega-evolution-ascended-heroes-elite-trainer-box": {
-   "name": "Pokémon TCG: Mega Evolution - Ascended Heroes Elite Trainer Box",
    "price": "?",
    "in_stock": false,
    "preorder": true
@@ -6276,18 +5928,6 @@
    "in_stock": false,
    "preorder": true
   },
-  "https://pokemania.ro/destined-rivals/elite-trainer-box-pokemon-tcg-destined-rivals-team-rocket-scarlet-violet-sv10-engleza": {
-   "name": "Elite Trainer Box Pokémon TCG Destined Rivals (Team Rocket) - Scarlet & Violet sv10 (Engleză)",
-   "price": "?",
-   "in_stock": false,
-   "preorder": true
-  },
-  "https://pokemania.ro/phantasmal-flames/pokemon-tcg-mega-evolution-phantasmal-flames-elite-trainer-box": {
-   "name": "Pokémon TCG: Mega Evolution - Phantasmal Flames - Elite Trainer Box",
-   "price": "?",
-   "in_stock": false,
-   "preorder": true
-  },
   "https://pokemania.ro/30th-celebration-2/pokemon-tcg-30th-celebration-pokemon-ex-box-sylveon-ex": {
    "name": "Pokemon TCG: 30th Celebration Pokemon ex Box - Sylveon ex",
    "price": "?",
@@ -6306,6 +5946,12 @@
    "in_stock": false,
    "preorder": true
   },
+  "https://pokemania.ro/ascended-heroes-2/pokemon-tcg-ascended-heroes-first-partners-deluxe-pin-collection": {
+   "name": "Pokémon TCG: Ascended Heroes First Partners Deluxe Pin Collection",
+   "price": "?",
+   "in_stock": false,
+   "preorder": true
+  },
   "https://pokemania.ro/delta-reign/pokemon-tcg-mega-evolution-delta-reign-build-battle-box": {
    "name": "Pokémon TCG: Mega Evolution - Delta Reign Build & Battle Box",
    "price": "?",
@@ -6320,12 +5966,6 @@
   },
   "https://pokemania.ro/30th-celebration-2/pokemon-tcg-30th-celebration-battle-deck-espeon-ex": {
    "name": "Pokemon TCG: 30th Celebration Battle Deck - Espeon ex",
-   "price": "?",
-   "in_stock": false,
-   "preorder": true
-  },
-  "https://pokemania.ro/phantasmal-flames/cutie-display-booster-pokemon-tcg-phantasmal-flames-booster-display-box-36-packs": {
-   "name": "Cutie Display Booster Pokémon TCG Phantasmal Flames Booster Display Box (36 Packs)",
    "price": "?",
    "in_stock": false,
    "preorder": true
