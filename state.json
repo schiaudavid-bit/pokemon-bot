@@ -76,6 +76,24 @@
   }
  },
  "Krit": {
+  "https://krit.ro/en/produs/pokemon-tcg-mega-forces-tin-mega-zeraora-ex": {
+   "name": "Pokemon TCG: Mega Forces Tin - Mega Zeraora ex 139.00 lei",
+   "price": "?",
+   "in_stock": true,
+   "preorder": false
+  },
+  "https://krit.ro/en/produs/pokemon-tcg-mega-forces-tin-mega-dragonite-ex": {
+   "name": "Pokemon TCG: Mega Forces Tin - Mega Dragonite ex 139.00 lei",
+   "price": "?",
+   "in_stock": true,
+   "preorder": false
+  },
+  "https://krit.ro/en/produs/pokemon-tcg-mega-forces-tin-mega-darkrai-ex": {
+   "name": "Pokemon TCG: Mega Forces Tin - Mega Darkrai ex 139.00 lei",
+   "price": "?",
+   "in_stock": true,
+   "preorder": false
+  },
   "https://krit.ro/en/produs/pokemon-tcg-me06-delta-reign-premium-checklane-blister-delphox": {
    "name": "Pokemon TCG: ME06 - Delta Reign - Premium Checklane Blister (Delphox) 37.99 lei",
    "price": "?",
@@ -90,6 +108,12 @@
   },
   "https://krit.ro/en/produs/pokemon-tcg-me06-delta-reign-booster-bundle": {
    "name": "Pokemon TCG: ME06 - Delta Reign - Booster Bundle 179.99 lei",
+   "price": "?",
+   "in_stock": true,
+   "preorder": false
+  },
+  "https://krit.ro/en/produs/pokemon-tcg-me06-delta-reign-elite-trainer-box": {
+   "name": "Pokemon TCG: ME06 - Delta Reign - Elite Trainer Box 349.99 lei",
    "price": "?",
    "in_stock": true,
    "preorder": false
@@ -192,30 +216,6 @@
   },
   "https://krit.ro/en/produs/pokemon-tcg-30th-celebration-figure-collection-mew": {
    "name": "Pokemon TCG: 30th Celebration - Figure Collection Mew 249.99 lei",
-   "price": "?",
-   "in_stock": false,
-   "preorder": false
-  },
-  "https://krit.ro/en/produs/pokemon-tcg-me06-delta-reign-3-pack-blister-seel": {
-   "name": "Pokemon TCG: ME06 - Delta Reign - 3-Pack Blister (Seel) 83.99 lei",
-   "price": "?",
-   "in_stock": false,
-   "preorder": false
-  },
-  "https://krit.ro/en/produs/pokemon-tcg-me06-delta-reign-elite-trainer-box": {
-   "name": "Pokemon TCG: ME06 - Delta Reign - Elite Trainer Box 349.99 lei",
-   "price": "?",
-   "in_stock": false,
-   "preorder": false
-  },
-  "https://krit.ro/en/produs/pokemon-tcg-30th-celebration-greninja-ex-tin": {
-   "name": "Pokemon TCG: 30th Celebration - Greninja ex Tin 159.99 lei",
-   "price": "?",
-   "in_stock": false,
-   "preorder": false
-  },
-  "https://krit.ro/en/produs/pokemon-tcg-30th-celebration-binder-collection": {
-   "name": "Pokemon TCG: 30th Celebration - Binder Collection 289.99 lei",
    "price": "?",
    "in_stock": false,
    "preorder": false
