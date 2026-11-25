@@ -924,7 +924,7 @@
   },
   "https://redgoblin.ro/products/pokemon-tcg-delta-reign-elite-trainer-box": {
    "name": "Pokemon TCG - Delta Reign Elite Trainer Box",
-   "price": "359.00 lei",
+   "price": "349.00 lei",
    "in_stock": true,
    "preorder": false
   },
@@ -4906,12 +4906,6 @@
    "in_stock": true,
    "preorder": false
   },
-  "https://pokemania.ro/scarlet-violet/pachet-carti-pokemon-tcg-scarlet-violet-booster-pack-1-pachet-booster": {
-   "name": "Pachet Carti Pokémon TCG Scarlet & Violet Booster Pack - 1 Pachet Booster",
-   "price": "?",
-   "in_stock": true,
-   "preorder": false
-  },
   "https://pokemania.ro/pitch-black/pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box": {
    "name": "Pokémon TCG: Mega Evolution—Pitch Black Elite Trainer Box",
    "price": "?",
@@ -4980,12 +4974,6 @@
   },
   "https://pokemania.ro/ascended-heroes-2/pokemon-tcg-mega-evolution-ascended-heroes-booster-bundle": {
    "name": "Pokémon TCG: Mega Evolution-Ascended Heroes Booster Bundle",
-   "price": "?",
-   "in_stock": true,
-   "preorder": false
-  },
-  "https://pokemania.ro/destined-rivals/elite-trainer-box-pokemon-tcg-destined-rivals-team-rocket-scarlet-violet-sv10-engleza": {
-   "name": "Elite Trainer Box Pokémon TCG Destined Rivals (Team Rocket) - Scarlet & Violet sv10 (Engleză)",
    "price": "?",
    "in_stock": true,
    "preorder": false
@@ -5206,6 +5194,18 @@
    "in_stock": true,
    "preorder": false
   },
+  "https://pokemania.ro/scarlet-violet/cutie-pokemon-tcg-scarlet-violet-booster-display-box-36-packs": {
+   "name": "Cutie Pokémon TCG Scarlet & Violet Booster Display Box (36 Packs)",
+   "price": "?",
+   "in_stock": true,
+   "preorder": false
+  },
+  "https://pokemania.ro/chaos-rising/pokemon-tcg-mega-moonlit-ex-tin-summer-tin-q2-2026": {
+   "name": "Pokemon TCG: Mega Moonlit ex Tin (Summer Tin Q2 2026)",
+   "price": "?",
+   "in_stock": true,
+   "preorder": false
+  },
   "https://pokemania.ro/pokemon-tcg": {
    "name": "Pokémon TCG",
    "price": "?",
@@ -5250,18 +5250,6 @@
   },
   "https://pokemania.ro/blog/stiri-pokemon": {
    "name": "Știri Pokémon: Fii la curent cu tot ce mișcă în lumea Pokémon!",
-   "price": "?",
-   "in_stock": true,
-   "preorder": false
-  },
-  "https://pokemania.ro/scarlet-violet/cutie-pokemon-tcg-scarlet-violet-booster-display-box-36-packs": {
-   "name": "Cutie Pokémon TCG Scarlet & Violet Booster Display Box (36 Packs)",
-   "price": "?",
-   "in_stock": true,
-   "preorder": false
-  },
-  "https://pokemania.ro/chaos-rising/pokemon-tcg-mega-moonlit-ex-tin-summer-tin-q2-2026": {
-   "name": "Pokemon TCG: Mega Moonlit ex Tin (Summer Tin Q2 2026)",
    "price": "?",
    "in_stock": true,
    "preorder": false
@@ -5607,6 +5595,12 @@
    "price": "?",
    "in_stock": true,
    "preorder": false
+  },
+  "https://pokemania.ro/expansiuni-pokemon-tcg/pokemon-tcg-cutia-de-aur-a-25-a-aniversare-sigilata-coreeana": {
+   "name": "Pokémon TCG: Cutia de aur a 25-a aniversare (sigilată Coreeana)",
+   "price": "?",
+   "in_stock": true,
+   "preorder": false
   }
  },
  "Pokemania Precomenzi": {
@@ -5714,12 +5708,6 @@
   },
   "https://pokemania.ro/ascended-heroes-2/pokemon-tcg-mega-evolution-ascended-heroes-booster-bundle": {
    "name": "Pokémon TCG: Mega Evolution-Ascended Heroes Booster Bundle",
-   "price": "?",
-   "in_stock": true,
-   "preorder": true
-  },
-  "https://pokemania.ro/destined-rivals/elite-trainer-box-pokemon-tcg-destined-rivals-team-rocket-scarlet-violet-sv10-engleza": {
-   "name": "Elite Trainer Box Pokémon TCG Destined Rivals (Team Rocket) - Scarlet & Violet sv10 (Engleză)",
    "price": "?",
    "in_stock": true,
    "preorder": true
@@ -5900,6 +5888,12 @@
   },
   "https://pokemania.ro/30th-celebration-2/pokemon-tcg-30th-celebration-booster-pack-10-cards": {
    "name": "Pokemon TCG: 30th Celebration Booster Pack (10 Cards)",
+   "price": "?",
+   "in_stock": false,
+   "preorder": true
+  },
+  "https://pokemania.ro/destined-rivals/elite-trainer-box-pokemon-tcg-destined-rivals-team-rocket-scarlet-violet-sv10-engleza": {
+   "name": "Elite Trainer Box Pokémon TCG Destined Rivals (Team Rocket) - Scarlet & Violet sv10 (Engleză)",
    "price": "?",
    "in_stock": false,
    "preorder": true
