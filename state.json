@@ -20,12 +20,6 @@
    "in_stock": true,
    "preorder": false
   },
-  "https://comenzi.bebetei.ro/jocuri-si-jucarii/jucarii/jucarii-de-plus/jucarie-plus-20-cm-diverse-modele-2-ani-pokemon-p476674": {
-   "name": "Jucarie plus, 20 cm, Diverse Modele, 2 ani+, Pokemon",
-   "price": "?",
-   "in_stock": true,
-   "preorder": false
-  },
   "https://comenzi.bebetei.ro/jocuri-si-jucarii/jucarii/figurine/set-figurine-de-actiune-diverse-modele-4-ani-pokemon-p476673": {
    "name": "Set figurine de actiune, Diverse Modele, 4 ani+, Pokemon",
    "price": "?",
@@ -44,6 +38,18 @@
    "in_stock": true,
    "preorder": false
   },
+  "https://comenzi.bebetei.ro/jocuri-si-jucarii/jocuri/jocuri-de-societate/fall-tin-26q-diverse-modele-6-ani-1-buc-pokemon-tcg-p479860": {
+   "name": "Fall Tin 26Q, Diverse modele, 6 ani+, 1 buc, Pokemon...",
+   "price": "?",
+   "in_stock": true,
+   "preorder": false
+  },
+  "https://comenzi.bebetei.ro/jocuri-si-jucarii/jucarii/jucarii-de-plus/jucarie-plus-20-cm-diverse-modele-2-ani-pokemon-p476674": {
+   "name": "Jucarie plus, 20 cm, Diverse Modele, 2 ani+, Pokemon",
+   "price": "?",
+   "in_stock": true,
+   "preorder": false
+  },
   "https://comenzi.bebetei.ro/jocuri-si-jucarii/jocuri/jocuri-de-societate/30th-battle-deck-diverse-modele-1-buc-pokemon-tcg-p481772": {
    "name": "30th Battle Deck, Diverse modele, 1 buc, Pokemon TCG",
    "price": "?",
@@ -52,12 +58,6 @@
   },
   "https://comenzi.bebetei.ro/jocuri-si-jucarii/jocuri/jocuri-de-societate/30th-2-pack-blister-double-wide-6-ani-pokemon-tcg-p481491": {
    "name": "30th 2-Pack Blister Double Wide, 6 ani+, Pokemon TCG",
-   "price": "?",
-   "in_stock": false,
-   "preorder": false
-  },
-  "https://comenzi.bebetei.ro/jocuri-si-jucarii/jocuri/jocuri-de-societate/fall-tin-26q-diverse-modele-6-ani-1-buc-pokemon-tcg-p479860": {
-   "name": "Fall Tin 26Q, Diverse modele, 6 ani+, 1 buc, Pokemon...",
    "price": "?",
    "in_stock": false,
    "preorder": false
@@ -4960,12 +4960,6 @@
    "in_stock": true,
    "preorder": false
   },
-  "https://pokemania.ro/phantasmal-flames/pokemon-tcg-mega-evolution-phantasmal-flames-elite-trainer-box": {
-   "name": "Pokémon TCG: Mega Evolution - Phantasmal Flames - Elite Trainer Box",
-   "price": "?",
-   "in_stock": true,
-   "preorder": false
-  },
   "https://pokemania.ro/perfect-order/pokemon-tcg-mega-evolution-perfect-order-elite-trainer-box": {
    "name": "Pokémon TCG: Mega Evolution-Perfect Order Elite Trainer Box",
    "price": "?",
@@ -5206,6 +5200,12 @@
    "in_stock": true,
    "preorder": false
   },
+  "https://pokemania.ro/perfect-order/pokemon-tcg-mega-evolution-perfect-order-booster-display-box-36-pachete": {
+   "name": "Pokémon TCG: Mega Evolution-Perfect Order Booster Display Box (36 pachete)",
+   "price": "?",
+   "in_stock": true,
+   "preorder": false
+  },
   "https://pokemania.ro/pokemon-tcg": {
    "name": "Pokémon TCG",
    "price": "?",
@@ -5250,12 +5250,6 @@
   },
   "https://pokemania.ro/blog/stiri-pokemon": {
    "name": "Știri Pokémon: Fii la curent cu tot ce mișcă în lumea Pokémon!",
-   "price": "?",
-   "in_stock": true,
-   "preorder": false
-  },
-  "https://pokemania.ro/perfect-order/pokemon-tcg-mega-evolution-perfect-order-booster-display-box-36-pachete": {
-   "name": "Pokémon TCG: Mega Evolution-Perfect Order Booster Display Box (36 pachete)",
    "price": "?",
    "in_stock": true,
    "preorder": false
@@ -5598,6 +5592,12 @@
   },
   "https://pokemania.ro/expansiuni-pokemon-tcg/pokemon-tcg-cutia-de-aur-a-25-a-aniversare-sigilata-coreeana": {
    "name": "Pokémon TCG: Cutia de aur a 25-a aniversare (sigilată Coreeana)",
+   "price": "?",
+   "in_stock": true,
+   "preorder": false
+  },
+  "https://pokemania.ro/celebrations/pokemon-tcg-celebrations-collector-s-chest-fall-2021-25th-anniversary-sealed-collectible-tin": {
+   "name": "Pokémon TCG: Celebrations Collector's Chest (Fall 2021) — 25th Anniversary Sealed Collectible Tin",
    "price": "?",
    "in_stock": true,
    "preorder": false
