@@ -452,6 +452,12 @@
    "in_stock": false,
    "preorder": false
   },
+  "https://lootshop.ro/product/30th-celebration-poster-collection-pokemon-tcg/": {
+   "name": "30th Celebration Poster Collection Pokemon TCG",
+   "price": "189.99 lei",
+   "in_stock": true,
+   "preorder": false
+  },
   "https://lootshop.ro/product/gem-pack-vol-6-booster-box-pokemon-tcg-cn/": {
    "name": "Gem Pack Vol. 6 Booster Box Pokemon TCG (CN)",
    "price": "249.99 lei",
@@ -575,12 +581,6 @@
   "https://lootshop.ro/product/30th-celebration-mini-tin-pokemon-tcg/": {
    "name": "30th Celebration Mini Tin Pokemon TCG",
    "price": "99.99 lei",
-   "in_stock": false,
-   "preorder": false
-  },
-  "https://lootshop.ro/product/30th-celebration-poster-collection-pokemon-tcg/": {
-   "name": "30th Celebration Poster Collection Pokemon TCG",
-   "price": "189.99 lei",
    "in_stock": false,
    "preorder": false
   },
