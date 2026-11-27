@@ -697,7 +697,7 @@
   "https://redgoblin.ro/products/pokemon-tcg-delta-reign-build-battle": {
    "name": "Pokemon TCG - Delta Reign Build & Battle",
    "price": "149.00 lei",
-   "in_stock": true,
+   "in_stock": false,
    "preorder": false
   },
   "https://redgoblin.ro/products/pokemon-tcg-booster-box-premium-6mm-acrylic-case": {
@@ -4972,12 +4972,6 @@
    "in_stock": true,
    "preorder": false
   },
-  "https://pokemania.ro/151/pachet-pokemon-scarlet-violet-151-booster-pack-jp-factory-sealed-1-pachet-booster-japoneza": {
-   "name": "Pachet Pokémon Scarlet & Violet 151 Booster Pack JP Factory Sealed - 1 Pachet Booster (Japoneza)",
-   "price": "?",
-   "in_stock": true,
-   "preorder": false
-  },
   "https://pokemania.ro/mega-evolution/joc-de-carti-pokemon-booster-pack-mega-symphonia-m1s-japonez-5-carti": {
    "name": "Joc de Cărți Pokémon - Booster Pack Mega Symphonia (m1S Japonez) - 5 Cărți",
    "price": "?",
@@ -5278,6 +5272,12 @@
    "in_stock": true,
    "preorder": false
   },
+  "https://pokemania.ro/battle-partners-sv9-jp/cutie-pokemon-tcg-battle-partners-journey-together-booster-box-jp-scarlet-violet-sv9": {
+   "name": "Cutie Pokémon TCG Battle Partners (Journey Together) Booster Box (JP) - Scarlet & Violet sv9",
+   "price": "?",
+   "in_stock": true,
+   "preorder": false
+  },
   "https://pokemania.ro/pokemon-tcg": {
    "name": "Pokémon TCG",
    "price": "?",
@@ -5322,12 +5322,6 @@
   },
   "https://pokemania.ro/blog/stiri-pokemon": {
    "name": "Știri Pokémon: Fii la curent cu tot ce mișcă în lumea Pokémon!",
-   "price": "?",
-   "in_stock": true,
-   "preorder": false
-  },
-  "https://pokemania.ro/battle-partners-sv9-jp/cutie-pokemon-tcg-battle-partners-journey-together-booster-box-jp-scarlet-violet-sv9": {
-   "name": "Cutie Pokémon TCG Battle Partners (Journey Together) Booster Box (JP) - Scarlet & Violet sv9",
    "price": "?",
    "in_stock": true,
    "preorder": false
@@ -5388,12 +5382,6 @@
   },
   "https://pokemania.ro/promo-packs/pokemon-tcg-mcdonald-s-promo-card-pack-sealed-japonez": {
    "name": "Pokémon TCG: McDonald's Promo Card Pack - Sealed (Japonez)",
-   "price": "?",
-   "in_stock": true,
-   "preorder": false
-  },
-  "https://pokemania.ro/151/pokemania-bundle-151-booster-packs-multilingual-en-jp-kr-pokemon-tcg-scarlet-violet-151-3-pachete": {
-   "name": "PokeMANIA Bundle 151 Booster Packs Multilingual (EN+JP+KR) - Pokémon TCG Scarlet & Violet 151 (3 Pachete)",
    "price": "?",
    "in_stock": true,
    "preorder": false
@@ -5670,6 +5658,18 @@
   },
   "https://pokemania.ro/stellar-crown/cutie-pokemon-tcg-scarlet-violet-7-stellar-crown-booster-display-box-36-packs": {
    "name": "Cutie Pokémon TCG: Scarlet & Violet 7 Stellar Crown Booster Display Box (36 Packs)",
+   "price": "?",
+   "in_stock": false,
+   "preorder": false
+  },
+  "https://pokemania.ro/super-electric-breaker-sv8-jp/pachet-pokemon-tcg-scarlet-violet-super-electric-breaker-sv8-jp-booster-pack-japoneza": {
+   "name": "Pachet Pokémon TCG Scarlet & Violet Super Electric Breaker sv8 JP Booster Pack (Japoneza)",
+   "price": "?",
+   "in_stock": false,
+   "preorder": false
+  },
+  "https://pokemania.ro/surging-sparks/pachet-carti-pokemon-tcg-scarlet-violet-8-surging-sparks-en-factory-sealed-booster-pack-1-pachet-booster": {
+   "name": "Pachet Carti Pokémon TCG: Scarlet & Violet 8 Surging Sparks EN Factory Sealed Booster Pack - 1 Pachet Booster",
    "price": "?",
    "in_stock": false,
    "preorder": false
