@@ -4088,12 +4088,6 @@
    "in_stock": true,
    "preorder": false
   },
-  "https://www.lexshop.ro/pokemon-tcg/pokemon-tcg-mega-evolution-delta-reign-3-pack-blister.html": {
-   "name": "Pokemon TCG Mega Evolution Delta Reign 3-Pack Blister",
-   "price": "?",
-   "in_stock": true,
-   "preorder": false
-  },
   "https://www.lexshop.ro/pokemon-tcg/pachet-pokemon-tcg-delta-reign-etb-2-booster-bundles-en.html": {
    "name": "Pachet Pokemon TCG Delta Reign EN - 1 Elite Trainer Box + 2 Booster Bundles",
    "price": "?",
@@ -4102,6 +4096,12 @@
   },
   "https://www.lexshop.ro/pokemon-tcg/pokemon-tcg-30th-celebration-binder-collection-album-si-5-boostere-engleza.html": {
    "name": "Pokemon TCG 30th Celebration Binder Collection - Album si 5 Boostere Engleza",
+   "price": "?",
+   "in_stock": true,
+   "preorder": false
+  },
+  "https://www.lexshop.ro/pokemon-tcg/pokemon-tcg-mega-evolution-delta-reign-3-pack-blister.html": {
+   "name": "Pokemon TCG Mega Evolution Delta Reign 3-Pack Blister",
    "price": "?",
    "in_stock": true,
    "preorder": false
@@ -5074,6 +5074,12 @@
    "in_stock": true,
    "preorder": false
   },
+  "https://pokemania.ro/chaos-rising/pokemon-tcg-mega-evolution-chaos-rising-sleeved-booster": {
+   "name": "Pokémon TCG: Mega Evolution—Chaos Rising Sleeved Booster",
+   "price": "?",
+   "in_stock": true,
+   "preorder": false
+  },
   "https://pokemania.ro/unova-white-flare-black-bolt/pachet-pokemon-tcg-white-flare-booster-pack-jp-scarlet-violet-sv11w-japoneza": {
    "name": "Pachet Pokémon TCG White Flare Booster Pack (JP) - Scarlet & Violet SV11W (Japoneză)",
    "price": "?",
@@ -5082,12 +5088,6 @@
   },
   "https://pokemania.ro/the-glory-of-team-rocket-sv10-jp/pokemon-tcg-scarlet-violet-gloria-echipei-rocket-pachet-booster-japonez": {
    "name": "Pokémon TCG: Scarlet & Violet - Gloria Echipei Rocket Pachet Booster (Japonez) 🚀🃏",
-   "price": "?",
-   "in_stock": true,
-   "preorder": false
-  },
-  "https://pokemania.ro/chaos-rising/pokemon-tcg-mega-evolution-chaos-rising-sleeved-booster": {
-   "name": "Pokémon TCG: Mega Evolution—Chaos Rising Sleeved Booster",
    "price": "?",
    "in_stock": true,
    "preorder": false
@@ -5116,14 +5116,14 @@
    "in_stock": true,
    "preorder": false
   },
-  "https://pokemania.ro/chaos-rising/pokemon-tcg-mega-evolution-chaos-rising-3-pack-blister": {
-   "name": "Pokémon TCG: Mega Evolution-Chaos Rising 3-Pack Blister",
+  "https://pokemania.ro/ascended-heroes-2/pokemon-tcg-mega-evolution-ascended-heroes-mini-tins-display-asortat": {
+   "name": "Pokémon TCG: Mega Evolution - Ascended Heroes Mini Tins Display asortat",
    "price": "?",
    "in_stock": true,
    "preorder": false
   },
-  "https://pokemania.ro/ascended-heroes-2/pokemon-tcg-mega-evolution-ascended-heroes-mini-tins-display-asortat": {
-   "name": "Pokémon TCG: Mega Evolution - Ascended Heroes Mini Tins Display asortat",
+  "https://pokemania.ro/chaos-rising/pokemon-tcg-mega-evolution-chaos-rising-3-pack-blister": {
+   "name": "Pokémon TCG: Mega Evolution-Chaos Rising 3-Pack Blister",
    "price": "?",
    "in_stock": true,
    "preorder": false
@@ -5140,14 +5140,14 @@
    "in_stock": true,
    "preorder": false
   },
-  "https://pokemania.ro/supercharged-breaker-sv8-kr/cutie-pokemon-tcg-scarlet-violet-supercharged-breaker-sv8-kr-booster-box-korean": {
-   "name": "Cutie Pokémon TCG: Scarlet & Violet - Supercharged Breaker sv8 KR Booster Box (Korean)",
+  "https://pokemania.ro/chaos-rising/pokemon-tcg-league-battle-deck-mega-lucario-ex": {
+   "name": "Pokémon TCG: League Battle Deck Mega Lucario ex",
    "price": "?",
    "in_stock": true,
    "preorder": false
   },
-  "https://pokemania.ro/chaos-rising/pokemon-tcg-league-battle-deck-mega-lucario-ex": {
-   "name": "Pokémon TCG: League Battle Deck Mega Lucario ex",
+  "https://pokemania.ro/supercharged-breaker-sv8-kr/cutie-pokemon-tcg-scarlet-violet-supercharged-breaker-sv8-kr-booster-box-korean": {
+   "name": "Cutie Pokémon TCG: Scarlet & Violet - Supercharged Breaker sv8 KR Booster Box (Korean)",
    "price": "?",
    "in_stock": true,
    "preorder": false
@@ -5934,20 +5934,14 @@
    "in_stock": false,
    "preorder": true
   },
-  "https://pokemania.ro/30th-celebration-2/pokemon-tcg-30th-celebration-poster-collection": {
-   "name": "Pokemon TCG: 30th Celebration Poster Collection",
-   "price": "?",
-   "in_stock": false,
-   "preorder": true
-  },
   "https://pokemania.ro/30th-celebration-2/pokemon-tcg-30th-celebration-binder-collection": {
    "name": "Pokemon TCG: 30th Celebration Binder Collection",
    "price": "?",
    "in_stock": false,
    "preorder": true
   },
-  "https://pokemania.ro/30th-celebration-2/pokemon-tcg-30th-celebration-pokemon-ex-box-sylveon-ex": {
-   "name": "Pokemon TCG: 30th Celebration Pokemon ex Box - Sylveon ex",
+  "https://pokemania.ro/30th-celebration-2/pokemon-tcg-30th-celebration-poster-collection": {
+   "name": "Pokemon TCG: 30th Celebration Poster Collection",
    "price": "?",
    "in_stock": false,
    "preorder": true
@@ -5964,20 +5958,26 @@
    "in_stock": false,
    "preorder": true
   },
+  "https://pokemania.ro/30th-celebration-2/pokemon-tcg-30th-celebration-pokemon-ex-box-sylveon-ex": {
+   "name": "Pokemon TCG: 30th Celebration Pokemon ex Box - Sylveon ex",
+   "price": "?",
+   "in_stock": false,
+   "preorder": true
+  },
   "https://pokemania.ro/ascended-heroes-2/pokemon-tcg-ascended-heroes-first-partners-deluxe-pin-collection": {
    "name": "Pokémon TCG: Ascended Heroes First Partners Deluxe Pin Collection",
    "price": "?",
    "in_stock": false,
    "preorder": true
   },
-  "https://pokemania.ro/30th-celebration-2/pokemon-tcg-30th-celebration-figure-collection-mew": {
-   "name": "Pokemon TCG: 30th Celebration Figure Collection - Mew",
+  "https://pokemania.ro/30th-celebration-2/pokemon-tcg-30th-celebration-pokemon-ex-box-greninja-ex": {
+   "name": "Pokemon TCG: 30th Celebration Pokemon ex Box - Greninja ex",
    "price": "?",
    "in_stock": false,
    "preorder": true
   },
-  "https://pokemania.ro/30th-celebration-2/pokemon-tcg-30th-celebration-pokemon-ex-box-greninja-ex": {
-   "name": "Pokemon TCG: 30th Celebration Pokemon ex Box - Greninja ex",
+  "https://pokemania.ro/30th-celebration-2/pokemon-tcg-30th-celebration-figure-collection-mew": {
+   "name": "Pokemon TCG: 30th Celebration Figure Collection - Mew",
    "price": "?",
    "in_stock": false,
    "preorder": true
