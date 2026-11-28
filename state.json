@@ -6155,6 +6155,24 @@
    "price": "?",
    "in_stock": true,
    "preorder": true
+  },
+  "https://pokemania.ro/ascended-heroes-2/pokemon-tcg-ascended-heroes-mega-meganium-ex-box": {
+   "name": "Pokémon TCG: Ascended Heroes Mega Meganium ex Box",
+   "price": "?",
+   "in_stock": false,
+   "preorder": true
+  },
+  "https://pokemania.ro/delta-reign/pokemon-tcg-mega-evolution-delta-reign-checklane-blister-spritzee": {
+   "name": "Pokémon TCG: Mega Evolution - Delta Reign Checklane Blister (Spritzee)",
+   "price": "?",
+   "in_stock": false,
+   "preorder": true
+  },
+  "https://pokemania.ro/perfect-order/pokemon-tcg-mega-evolution-perfect-order-build-battle-box": {
+   "name": "Pokémon TCG: Mega Evolution-Perfect Order Build & Battle Box",
+   "price": "?",
+   "in_stock": false,
+   "preorder": true
   }
  },
  "TCG Shop": {
