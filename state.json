@@ -4984,12 +4984,6 @@
    "in_stock": true,
    "preorder": false
   },
-  "https://pokemania.ro/destined-rivals/cutie-display-booster-pokemon-tcg-destined-rivals-team-rocket-scarlet-violet-sv10-36-de-pachete": {
-   "name": "Cutie Display Booster Pokémon TCG Destined Rivals (Team Rocket) - Scarlet & Violet sv10 (36 de Pachete)",
-   "price": "?",
-   "in_stock": true,
-   "preorder": false
-  },
   "https://pokemania.ro/mega-evolution/joc-de-carti-pokemon-pachet-booster-mega-brave-mega-lucario-m1l-japoneza-5-carti": {
    "name": "Joc de Cărți Pokémon - Pachet Booster Mega Brave: Mega Lucario (M1L Japoneză) - 5 Cărți",
    "price": "?",
@@ -5278,6 +5272,12 @@
    "in_stock": true,
    "preorder": false
   },
+  "https://pokemania.ro/battle-partners-sv9-jp/cutie-pokemon-tcg-battle-partners-journey-together-booster-box-jp-scarlet-violet-sv9": {
+   "name": "Cutie Pokémon TCG Battle Partners (Journey Together) Booster Box (JP) - Scarlet & Violet sv9",
+   "price": "?",
+   "in_stock": true,
+   "preorder": false
+  },
   "https://pokemania.ro/pokemon-tcg": {
    "name": "Pokémon TCG",
    "price": "?",
@@ -5322,12 +5322,6 @@
   },
   "https://pokemania.ro/blog/stiri-pokemon": {
    "name": "Știri Pokémon: Fii la curent cu tot ce mișcă în lumea Pokémon!",
-   "price": "?",
-   "in_stock": true,
-   "preorder": false
-  },
-  "https://pokemania.ro/battle-partners-sv9-jp/cutie-pokemon-tcg-battle-partners-journey-together-booster-box-jp-scarlet-violet-sv9": {
-   "name": "Cutie Pokémon TCG Battle Partners (Journey Together) Booster Box (JP) - Scarlet & Violet sv9",
    "price": "?",
    "in_stock": true,
    "preorder": false
@@ -5673,6 +5667,12 @@
    "price": "?",
    "in_stock": false,
    "preorder": false
+  },
+  "https://pokemania.ro/surging-sparks/pachet-carti-pokemon-tcg-scarlet-violet-8-surging-sparks-en-factory-sealed-booster-pack-1-pachet-booster": {
+   "name": "Pachet Carti Pokémon TCG: Scarlet & Violet 8 Surging Sparks EN Factory Sealed Booster Pack - 1 Pachet Booster",
+   "price": "?",
+   "in_stock": false,
+   "preorder": false
   }
  },
  "Pokemania Precomenzi": {
@@ -5756,12 +5756,6 @@
   },
   "https://pokemania.ro/precomenzi/pokemon-tcg": {
    "name": "Pokémon TCG",
-   "price": "?",
-   "in_stock": true,
-   "preorder": true
-  },
-  "https://pokemania.ro/destined-rivals/cutie-display-booster-pokemon-tcg-destined-rivals-team-rocket-scarlet-violet-sv10-36-de-pachete": {
-   "name": "Cutie Display Booster Pokémon TCG Destined Rivals (Team Rocket) - Scarlet & Violet sv10 (36 de Pachete)",
    "price": "?",
    "in_stock": true,
    "preorder": true
@@ -5870,6 +5864,12 @@
   },
   "https://pokemania.ro/30th-celebration-2/pokemon-tcg-30th-celebration-elite-trainer-box": {
    "name": "Pokemon TCG: 30th Celebration Elite Trainer Box",
+   "price": "?",
+   "in_stock": false,
+   "preorder": true
+  },
+  "https://pokemania.ro/destined-rivals/cutie-display-booster-pokemon-tcg-destined-rivals-team-rocket-scarlet-violet-sv10-36-de-pachete": {
+   "name": "Cutie Display Booster Pokémon TCG Destined Rivals (Team Rocket) - Scarlet & Violet sv10 (36 de Pachete)",
    "price": "?",
    "in_stock": false,
    "preorder": true
@@ -6066,14 +6066,14 @@
    "in_stock": false,
    "preorder": true
   },
-  "https://pokemania.ro/delta-reign/pokemon-tcg-mega-evolution-delta-reign-premium-checklane-blister-ampharos": {
-   "name": "Pokémon TCG: Mega Evolution - Delta Reign Premium Checklane Blister (Ampharos)",
+  "https://pokemania.ro/delta-reign/pokemon-tcg-mega-evolution-delta-reign-premium-checklane-blister-delphox": {
+   "name": "Pokémon TCG: Mega Evolution - Delta Reign Premium Checklane Blister (Delphox)",
    "price": "?",
    "in_stock": false,
    "preorder": true
   },
-  "https://pokemania.ro/delta-reign/pokemon-tcg-mega-evolution-delta-reign-premium-checklane-blister-delphox": {
-   "name": "Pokémon TCG: Mega Evolution - Delta Reign Premium Checklane Blister (Delphox)",
+  "https://pokemania.ro/delta-reign/pokemon-tcg-mega-evolution-delta-reign-premium-checklane-blister-ampharos": {
+   "name": "Pokémon TCG: Mega Evolution - Delta Reign Premium Checklane Blister (Ampharos)",
    "price": "?",
    "in_stock": false,
    "preorder": true
